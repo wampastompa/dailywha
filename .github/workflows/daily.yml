@@ -1,1 +1,232 @@
+name: Daily MovieWha Update
+
+on:
+  schedule:
+    # Runs at 4:00 AM UTC (11:00 PM EST / 10:00 PM CST) — fresh for morning
+    - cron: '0 4 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI for testing
+
+jobs:
+  generate-daily-picks:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate today's picks
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          OMDB_API_KEY: ${{ secrets.OMDB_API_KEY }}
+        run: |
+          node -e "
+          const https = require('https');
+
+          // ── Helpers ──────────────────────────────────────────
+          function httpsGet(url) {
+            return new Promise((resolve, reject) => {
+              https.get(url, (res) => {
+                let data = '';
+                res.on('data', chunk => data += chunk);
+                res.on('end', () => {
+                  try { resolve(JSON.parse(data)); }
+                  catch(e) { resolve({}); }
+                });
+              }).on('error', reject);
+            });
+          }
+
+          function httpsPost(hostname, path, body, headers) {
+            return new Promise((resolve, reject) => {
+              const payload = JSON.stringify(body);
+              const req = https.request({
+                hostname, path, method: 'POST',
+                headers: { 'Content-Type': 'application/json', 'Content-Length': Buffer.byteLength(payload), ...headers }
+              }, (res) => {
+                let data = '';
+                res.on('data', chunk => data += chunk);
+                res.on('end', () => {
+                  try { resolve(JSON.parse(data)); }
+                  catch(e) { resolve({}); }
+                });
+              });
+              req.on('error', reject);
+              req.write(payload);
+              req.end();
+            });
+          }
+
+          async function tmdb(path) {
+            return httpsGet('https://api.themoviedb.org/3' + path + '?api_key=' + process.env.TMDB_API_KEY + '&language=en-US');
+          }
+
+          async function omdb(title, year) {
+            const t = encodeURIComponent(title);
+            return httpsGet('https://www.omdbapi.com/?t=' + t + '&y=' + year + '&apikey=' + process.env.OMDB_API_KEY);
+          }
+
+          // ── Date context ──────────────────────────────────────
+          const now = new Date();
+          const month = now.toLocaleString('en-US', { month: 'long', timeZone: 'America/Chicago' });
+          const day = now.toLocaleString('en-US', { day: 'numeric', timeZone: 'America/Chicago' });
+          const weekday = now.toLocaleString('en-US', { weekday: 'long', timeZone: 'America/Chicago' });
+          const year = now.getFullYear();
+          const dateStr = weekday + ', ' + month + ' ' + day + ', ' + year;
+          const monthDay = month + ' ' + day;
+
+          console.log('Generating picks for:', dateStr);
+
+          // ── Step 1: Ask Claude for the 4 picks ───────────────
+          const claudeRes = await httpsPost('api.anthropic.com', '/v1/messages', {
+            model: 'claude-haiku-4-5-20251001',
+            max_tokens: 1000,
+            messages: [{
+              role: 'user',
+              content: \`Today is \${dateStr}.
+
+You are the editor of MovieWha, a daily film recommendation site. Generate exactly 4 film picks for today. Return ONLY valid JSON, no markdown, no explanation.
+
+Rules:
+- hero: The film of the day. Must be tied to TODAY specifically — a national/international observance, a major actor or director birthday, a release anniversary, or a cultural moment. The hook must be REAL and verifiable.
+- birthday: A different film starring an actor or director who was born on \${monthDay} (any year). Pick their best or most beloved film. If no strong birthday exists today, use a release anniversary instead.
+- gem: An underrated or lesser-known film in a randomly chosen genre. Avoid obvious blockbusters. Pick something genuinely worth discovering.
+- awful: A real film with a very low IMDb score (under 4.0). Should be entertainingly bad rather than just depressing. Include the release year.
+
+For each pick return:
+{
+  "hero": {
+    "title": "Film Title",
+    "year": 1999,
+    "hook": "Short reason tied to today (e.g. National Dog Day, Bill Murray's birthday)",
+    "hook_type": "holiday|birthday|anniversary|cultural",
+    "blurb": "2-3 sentence opinionated pitch for why to watch this tonight. Voice: brilliant opinionated friend, warm but direct.",
+    "genre": "Drama / Thriller",
+    "runtime_min": 112,
+    "streaming": ["Netflix"],
+    "cast": ["Actor One", "Actor Two", "Actor Three"]
+  },
+  "birthday": {
+    "title": "Film Title",
+    "year": 1985,
+    "hook": "Born today — Name, Age",
+    "blurb": "2 sentence pitch.",
+    "genre": "Comedy",
+    "cast": ["Actor One", "Actor Two"]
+  },
+  "gem": {
+    "title": "Film Title",
+    "year": 2003,
+    "hook": "Genre gem — western",
+    "blurb": "2 sentence pitch.",
+    "genre": "Western",
+    "cast": ["Actor One", "Actor Two"]
+  },
+  "awful": {
+    "title": "Film Title",
+    "year": 2007,
+    "hook": "Awful of the day",
+    "blurb": "2 sentence roast. Have fun with it.",
+    "genre": "Action",
+    "cast": ["Actor One", "Actor Two"]
+  }
+}\`
+            }]
+          }, {
+            'x-api-key': process.env.ANTHROPIC_API_KEY,
+            'anthropic-version': '2023-06-01'
+          });
+
+          const rawText = claudeRes.content[0].text.trim();
+          const picks = JSON.parse(rawText);
+          console.log('Claude picks generated successfully');
+
+          // ── Step 2: Enrich each pick with TMDB + OMDB ────────
+          async function enrichPick(pick) {
+            try {
+              // TMDB search
+              const searchTitle = encodeURIComponent(pick.title);
+              const search = await tmdb('/search/movie&query=' + searchTitle + '&year=' + pick.year);
+              const movie = search.results && search.results[0];
+              if (!movie) return pick;
+
+              const id = movie.id;
+
+              // TMDB details + videos in parallel
+              const [details, videos, providers] = await Promise.all([
+                tmdb('/movie/' + id),
+                tmdb('/movie/' + id + '/videos'),
+                tmdb('/movie/' + id + '/watch/providers')
+              ]);
+
+              // Trailer key
+              const trailer = videos.results && videos.results.find(
+                v => v.type === 'Trailer' && v.site === 'YouTube'
+              );
+
+              // US streaming providers
+              const usProviders = providers.results && providers.results.US;
+              const streaming = [];
+              if (usProviders) {
+                const flat = usProviders.flatrate || [];
+                flat.slice(0, 3).forEach(p => streaming.push(p.provider_name));
+              }
+
+              // OMDB for ratings
+              const ratings = await omdb(pick.title, pick.year);
+
+              // RT score
+              let rtScore = null;
+              if (ratings.Ratings) {
+                const rt = ratings.Ratings.find(r => r.Source === 'Rotten Tomatoes');
+                if (rt) rtScore = rt.Value;
+              }
+
+              return {
+                ...pick,
+                tmdb_id: id,
+                poster_path: movie.poster_path || null,
+                trailer_key: trailer ? trailer.key : null,
+                imdb_rating: ratings.imdbRating || null,
+                imdb_id: ratings.imdbID || null,
+                rt_score: rtScore,
+                metacritic: ratings.Metascore || null,
+                runtime_min: details.runtime || pick.runtime_min || null,
+                streaming: streaming.length > 0 ? streaming : (pick.streaming || [])
+              };
+            } catch(e) {
+              console.log('Enrichment error for', pick.title, e.message);
+              return pick;
+            }
+          }
+
+          const [hero, birthday, gem, awful] = await Promise.all([
+            enrichPick(picks.hero),
+            enrichPick(picks.birthday),
+            enrichPick(picks.gem),
+            enrichPick(picks.awful)
+          ]);
+
+          // ── Step 3: Write today.json ──────────────────────────
+          const output = {
+            date: dateStr,
+            generated_at: new Date().toISOString(),
+            hero,
+            birthday,
+            gem,
+            awful
+          };
+
+          require('fs').writeFileSync('moviewha/today.json', JSON.stringify(output, null, 2));
+          console.log('today.json written successfully');
+          console.log('Hero pick:', hero.title, '(' + hero.year + ')');
+          "
+
+      - name: Commit and push today.json
+        run: |
+          git config user.name "MovieWha Bot"
+          git config user.email "bot@dailywha.com"
+          git add moviewha/today.json
+          git diff --staged --quiet || git commit -m "Daily picks: $(date +'%Y-%m-%d')"
+          git push
 
