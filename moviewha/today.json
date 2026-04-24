@@ -1,1 +1,103 @@
-{}
+{
+  "date": "Friday, April 24, 2026",
+  "generated_at": "2026-04-24T19:49:05.304Z",
+  "hero": {
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "hook": "Released April 27, 2018 — premiere week anniversary of the biggest Marvel event",
+    "blurb": "Thanos arrives and the MCU's greatest threat finally makes good on his promise of destruction. This is the Empire Strikes Back of superhero cinema—bold, massive, and absolutely unafraid to break your heart.",
+    "genre": "Action / Sci-Fi",
+    "runtime_min": 149,
+    "streaming": [
+      "Disney Plus"
+    ],
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Tom Holland",
+      "Josh Brolin"
+    ],
+    "tmdb_id": 299536,
+    "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "trailer_key": "QwievZ1Tx-8",
+    "imdb_rating": null,
+    "imdb_id": null,
+    "rt_score": null,
+    "metacritic": null
+  },
+  "birthday": {
+    "title": "The Truman Show",
+    "year": 1998,
+    "hook": "Born today — Peter Weir, 82",
+    "blurb": "Jim Carrey's most poignant performance anchors this philosophical masterpiece about reality and control. Weir crafts a film that's endlessly clever yet deeply humane.",
+    "genre": "Comedy / Drama",
+    "cast": [
+      "Jim Carrey",
+      "Ed Harris",
+      "Laura Linney"
+    ],
+    "tmdb_id": 37165,
+    "poster_path": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+    "trailer_key": "N1VlDVRiFrk",
+    "imdb_rating": null,
+    "imdb_id": null,
+    "rt_score": null,
+    "metacritic": null,
+    "runtime_min": 103,
+    "streaming": [
+      "fuboTV",
+      "MGM+ Amazon Channel",
+      "Paramount Plus Premium"
+    ]
+  },
+  "gem": {
+    "title": "Kes",
+    "year": 1969,
+    "hook": "Drama gem — coming-of-age classic",
+    "blurb": "Ken Loach's heartbreaking portrait of a working-class Yorkshire boy and his red kestrel is British neorealism at its finest. A small, quiet film that contains entire worlds of pain and beauty.",
+    "genre": "Drama",
+    "cast": [
+      "David Bradley",
+      "Freddie Fletcher",
+      "Colin Welland"
+    ],
+    "tmdb_id": 13384,
+    "poster_path": "/r1FMq75irhsQBVGjXhPU4xA9SDo.jpg",
+    "trailer_key": "BGcllKvfnYs",
+    "imdb_rating": null,
+    "imdb_id": null,
+    "rt_score": null,
+    "metacritic": null,
+    "runtime_min": 111,
+    "streaming": [
+      "fuboTV",
+      "MGM+ Amazon Channel",
+      "MGM Plus Roku Premium Channel"
+    ]
+  },
+  "awful": {
+    "title": "Disaster Movie",
+    "year": 2009,
+    "hook": "Awful of the day",
+    "blurb": "A catastrophe of a comedy that confuses random pop culture references with humor and mistakes loudness for wit. Even at 87 minutes, this feels like a hostage situation.",
+    "genre": "Comedy",
+    "cast": [
+      "Matt Lauer",
+      "Vanessa Lachey",
+      "Nicole Parker"
+    ],
+    "tmdb_id": 13805,
+    "poster_path": "/3J8XKUfhJiNzwobUZVtizXYPe8b.jpg",
+    "trailer_key": "tihG_2BSUqg",
+    "imdb_rating": null,
+    "imdb_id": null,
+    "rt_score": null,
+    "metacritic": null,
+    "runtime_min": 87,
+    "streaming": [
+      "Amazon Prime Video",
+      "Starz Apple TV Channel",
+      "Starz"
+    ]
+  }
+}
