@@ -168,7 +168,8 @@ Return this exact JSON structure:
   const rawText = claudeRes.content[0].text.trim();
   console.log('Claude response received');
 
-  const picks = JSON.parse(rawText);
+  const cleaned = rawText.replace(/^```json\s*/,'').replace(/^```\s*/,'').replace(/```\s*$/,'').trim();
+  const picks = JSON.parse(cleaned);
 
   const [hero, birthday, gem, awful] = await Promise.all([
     enrichPick(picks.hero),
