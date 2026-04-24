@@ -2,9 +2,8 @@ name: Daily MovieWha Update
 
 on:
   schedule:
-    # Runs at 4:00 AM UTC (11:00 PM EST / 10:00 PM CST) — fresh for morning
     - cron: '0 4 * * *'
-  workflow_dispatch: # Allows manual trigger from GitHub UI for testing
+  workflow_dispatch:
 
 jobs:
   generate-daily-picks:
