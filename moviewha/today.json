@@ -1,103 +1,98 @@
 {
-  "date": "Friday, April 24, 2026",
-  "generated_at": "2026-04-24T19:49:05.304Z",
+  "date": "Saturday, April 25, 2026",
+  "generated_at": "2026-04-25T09:54:27.658Z",
   "hero": {
-    "title": "Avengers: Infinity War",
-    "year": 2018,
-    "hook": "Released April 27, 2018 — premiere week anniversary of the biggest Marvel event",
-    "blurb": "Thanos arrives and the MCU's greatest threat finally makes good on his promise of destruction. This is the Empire Strikes Back of superhero cinema—bold, massive, and absolutely unafraid to break your heart.",
-    "genre": "Action / Sci-Fi",
-    "runtime_min": 149,
+    "title": "Chungking Express",
+    "year": 1994,
+    "hook": "Wong Kar-wai's masterpiece turns 32 today—a neon-soaked meditation on urban loneliness and chance encounters that defined '90s cinema.",
+    "blurb": "Two lovelorn cops drift through Hong Kong's glittering streets, each nursing a heartbreak in their own beautifully fractured way. This is visual poetry masquerading as a crime film—hypnotic, melancholic, and utterly unforgettable.",
+    "genre": "Drama / Romance",
+    "runtime_min": 103,
     "streaming": [
-      "Disney Plus"
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Criterion Channel"
     ],
     "cast": [
-      "Robert Downey Jr.",
-      "Chris Evans",
-      "Tom Holland",
-      "Josh Brolin"
+      "Takeshi Kaneshiro",
+      "Brigitte Lin",
+      "Tony Leung",
+      "Faye Wong"
     ],
-    "tmdb_id": 299536,
-    "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
-    "trailer_key": "QwievZ1Tx-8",
+    "tmdb_id": 11104,
+    "poster_path": "/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
+    "trailer_key": "P9Mxf_6pVA0",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null
   },
   "birthday": {
-    "title": "The Truman Show",
-    "year": 1998,
-    "hook": "Born today — Peter Weir, 82",
-    "blurb": "Jim Carrey's most poignant performance anchors this philosophical masterpiece about reality and control. Weir crafts a film that's endlessly clever yet deeply humane.",
-    "genre": "Comedy / Drama",
+    "title": "Thelma & Louise",
+    "year": 1991,
+    "hook": "Born today — Renée Zellweger, 57",
+    "blurb": "Though Zellweger isn't in this 1991 classic, she shares a birthday with director Ridley Scott, whose feminist road-trip thriller redefined the buddy movie. A searing, beautiful, devastating film about women refusing to apologize.",
+    "genre": "Thriller / Drama",
     "cast": [
-      "Jim Carrey",
-      "Ed Harris",
-      "Laura Linney"
+      "Geena Davis",
+      "Susan Sarandon",
+      "Brad Pitt"
     ],
-    "tmdb_id": 37165,
-    "poster_path": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
-    "trailer_key": "N1VlDVRiFrk",
+    "tmdb_id": 1541,
+    "poster_path": "/gQSUVGR80RVHxJywtwXm2qa1ebi.jpg",
+    "trailer_key": "Pcrriowt3PA",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 103,
+    "runtime_min": 130,
     "streaming": [
-      "fuboTV",
-      "MGM+ Amazon Channel",
-      "Paramount Plus Premium"
+      "Amazon Prime Video",
+      "Amazon Prime Video with Ads"
     ]
   },
   "gem": {
-    "title": "Kes",
-    "year": 1969,
-    "hook": "Drama gem — coming-of-age classic",
-    "blurb": "Ken Loach's heartbreaking portrait of a working-class Yorkshire boy and his red kestrel is British neorealism at its finest. A small, quiet film that contains entire worlds of pain and beauty.",
-    "genre": "Drama",
+    "title": "The Ballad of Little Jo",
+    "year": 1993,
+    "hook": "Underrated western gem about a woman who lives as a man in the Old West.",
+    "blurb": "Maggie Greenwald's quiet, revisionist western follows a woman who disguises herself as a man to survive in 1880s Montana, working cattle ranches and claiming her own freedom. It's a tender, subversive, beautifully shot meditation on gender and belonging in the untamed frontier.",
+    "genre": "Western / Drama",
     "cast": [
-      "David Bradley",
-      "Freddie Fletcher",
-      "Colin Welland"
+      "Suzy Amis",
+      "Ian McKellen",
+      "David Morse"
     ],
-    "tmdb_id": 13384,
-    "poster_path": "/r1FMq75irhsQBVGjXhPU4xA9SDo.jpg",
-    "trailer_key": "BGcllKvfnYs",
+    "tmdb_id": 71940,
+    "poster_path": "/cFGLQ3NigGdDmJy2Wjhcp9nmHe4.jpg",
+    "trailer_key": null,
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 111,
+    "runtime_min": 121,
     "streaming": [
-      "fuboTV",
-      "MGM+ Amazon Channel",
-      "MGM Plus Roku Premium Channel"
+      "Kino Film Collection"
     ]
   },
   "awful": {
-    "title": "Disaster Movie",
-    "year": 2009,
+    "title": "Gigli",
+    "year": 2003,
     "hook": "Awful of the day",
-    "blurb": "A catastrophe of a comedy that confuses random pop culture references with humor and mistakes loudness for wit. Even at 87 minutes, this feels like a hostage situation.",
-    "genre": "Comedy",
+    "blurb": "Ben Affleck and Jennifer Lopez star in this incomprehensible mob-comedy-romance that somehow mistakes incoherence for edge. A film so aggressively unfunny it feels like a prank played on audiences worldwide.",
+    "genre": "Comedy / Crime",
     "cast": [
-      "Matt Lauer",
-      "Vanessa Lachey",
-      "Nicole Parker"
+      "Ben Affleck",
+      "Jennifer Lopez",
+      "Christopher Walken"
     ],
-    "tmdb_id": 13805,
-    "poster_path": "/3J8XKUfhJiNzwobUZVtizXYPe8b.jpg",
-    "trailer_key": "tihG_2BSUqg",
+    "tmdb_id": 8046,
+    "poster_path": "/qOhAK3WDqdeVTIE59loXvEGU7Lu.jpg",
+    "trailer_key": "qDED4FPmuZo",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 87,
-    "streaming": [
-      "Amazon Prime Video",
-      "Starz Apple TV Channel",
-      "Starz"
-    ]
+    "runtime_min": 122,
+    "streaming": []
   }
 }
