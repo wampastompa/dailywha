@@ -45,14 +45,16 @@ main{max-width:1100px;margin:0 auto;padding:2rem 1.75rem 3rem}
 
 /* Hero */
 .hero-wrap{animation:fadeUp 0.5s ease both;margin-bottom:2rem}
-.hero{display:grid;grid-template-columns:220px 1fr;border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;background:var(--card)}
-.hero-poster{position:relative;overflow:hidden;min-height:370px;background:linear-gradient(160deg,#1a1500 0%,#100f08 50%,#0b1020 100%);display:flex;flex-direction:column;align-items:center;justify-content:flex-end}
-.hero-poster-img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0.7}
-.hero-poster::before{content:'';position:absolute;inset:0;pointer-events:none;z-index:1;background:linear-gradient(to top, rgba(11,16,32,0.95) 0%, rgba(11,16,32,0.3) 60%, transparent 100%)}
-.poster-inner{position:relative;z-index:2;text-align:center;padding:1.5rem 1.25rem;width:100%}
-.poster-title{font-family:var(--font-film);font-style:italic;font-weight:700;font-size:1.15rem;line-height:1.3;margin-bottom:4px}
-.poster-year{font-size:0.62rem;color:var(--muted);letter-spacing:0.1em}
-.play-btn{position:absolute;bottom:1rem;right:1rem;z-index:3;width:40px;height:40px;border-radius:50%;background:var(--gold);border:none;display:flex;align-items:center;justify-content:center;cursor:pointer;transition:transform 0.15s,box-shadow 0.15s;color:#0b1020}
+.hero{display:grid;grid-template-columns:320px 1fr;border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;background:var(--card)}
+.hero-media{padding:1.25rem;border-right:1px solid var(--border);display:flex;flex-direction:column;gap:0.85rem}
+.pick-head{display:flex;flex-direction:column;gap:0.35rem}
+.pick-cat{font-size:0.58rem;letter-spacing:0.14em;text-transform:uppercase;color:rgba(242,240,236,0.72);font-weight:700}
+.pick-reason{font-size:0.8rem;line-height:1.7;color:rgba(242,240,236,0.68)}
+.poster-box{position:relative;border:1px solid var(--border);border-radius:12px;overflow:hidden;background:#0a0f1f;display:flex;align-items:center;justify-content:center}
+.poster-box--hero{height:460px}
+.poster-box--card{height:340px}
+.poster-img{width:100%;height:100%;object-fit:contain;display:block;background:#0a0f1f}
+.play-btn{position:absolute;bottom:10px;right:10px;z-index:3;width:40px;height:40px;border-radius:50%;background:var(--gold);border:none;display:flex;align-items:center;justify-content:center;cursor:pointer;transition:transform 0.15s,box-shadow 0.15s;color:#0b1020}
 .play-btn:hover{transform:scale(1.1);box-shadow:0 0 20px rgba(255,195,0,0.4)}
 .play-btn.hidden{display:none}
 .trailer-wrap{position:absolute;inset:0;z-index:10;background:#000;opacity:0;pointer-events:none;transition:opacity 0.3s}
@@ -60,7 +62,6 @@ main{max-width:1100px;margin:0 auto;padding:2rem 1.75rem 3rem}
 .trailer-wrap iframe{width:100%;height:100%;border:none;display:block}
 .trailer-close{position:absolute;top:8px;right:8px;z-index:11;width:28px;height:28px;border-radius:50%;background:rgba(0,0,0,0.7);border:1px solid rgba(255,255,255,0.2);color:#fff;cursor:pointer;font-size:16px;display:flex;align-items:center;justify-content:center;font-family:var(--font-ui)}
 .hero-body{padding:2rem 2rem 1.5rem;display:flex;flex-direction:column}
-.hook-pill{display:inline-flex;align-items:center;gap:6px;font-size:0.65rem;font-weight:600;letter-spacing:0.04em;color:var(--gold);border:1px solid rgba(255,195,0,0.3);background:var(--gold-glow);padding:5px 12px;border-radius:100px;margin-bottom:1rem;width:fit-content}
 .film-title{font-family:var(--font-film);font-style:italic;font-weight:700;font-size:2.4rem;line-height:1.1;margin-bottom:0.2rem;letter-spacing:-0.015em}
 .film-starring{font-size:0.7rem;color:var(--muted);margin-bottom:0.7rem}
 .film-starring span{color:rgba(242,240,236,0.65)}
@@ -100,22 +101,13 @@ main{max-width:1100px;margin:0 auto;padding:2rem 1.75rem 3rem}
 .card:hover{border-color:var(--border-s);background:var(--card-h)}
 .card-stripe{height:3px}
 .card--birthday .card-stripe{background:var(--gold)}
-.card--gem .card-stripe{background:var(--teal)}
+.card--released .card-stripe{background:var(--teal)}
 .card--awful .card-stripe{background:var(--red)}
-.card-poster{position:relative;overflow:hidden;padding:1.75rem 1rem 1.25rem;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;min-height:140px;text-align:center}
-.card-poster-img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0.45}
-.card-poster::before{content:'';position:absolute;inset:0;z-index:1;background:linear-gradient(to top, rgba(11,16,32,0.98) 0%, rgba(11,16,32,0.5) 100%)}
-.card--birthday .card-poster{background:linear-gradient(160deg,#1a1100 0%,#0f0d00 100%)}
-.card--gem .card-poster{background:linear-gradient(160deg,#041a10 0%,#041008 100%)}
-.card--awful .card-poster{background:linear-gradient(160deg,#1a0404 0%,#100404 100%)}
-.card-poster-inner{position:relative;z-index:2}
-.card-poster-title{font-family:var(--font-film);font-style:italic;font-weight:700;font-size:1rem;line-height:1.3;margin-bottom:4px;color:var(--text)}
-.card-poster-year{font-size:0.6rem;color:var(--muted);letter-spacing:0.08em}
+.card-media{padding:1rem;display:flex;flex-direction:column;gap:0.75rem}
+.pick-cat--birthday{color:rgba(255,195,0,0.9)}
+.pick-cat--released{color:rgba(16,185,129,0.9)}
+.pick-cat--awful{color:rgba(239,68,68,0.9)}
 .card-body{padding:1rem;flex:1;display:flex;flex-direction:column}
-.card-label{font-size:0.56rem;letter-spacing:0.1em;text-transform:uppercase;font-weight:600;margin-bottom:0.5rem}
-.card--birthday .card-label{color:var(--gold)}
-.card--gem .card-label{color:var(--teal)}
-.card--awful .card-label{color:var(--red)}
 .card-title{font-family:var(--font-film);font-style:italic;font-weight:700;font-size:1.05rem;margin-bottom:3px;line-height:1.3;color:var(--text)}
 .card-meta{font-size:0.65rem;color:var(--muted);margin-bottom:0.5rem;font-weight:300}
 .card-ratings{display:flex;gap:5px;margin-bottom:0.6rem;flex-wrap:wrap}
@@ -132,7 +124,7 @@ footer a:hover{color:var(--gold)}
 .footer-omdb{font-size:0.58rem;color:var(--dim);margin-top:0.75rem}
 
 @keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
-@media(max-width:680px){.hero{grid-template-columns:1fr}.hero-poster{min-height:220px;justify-content:flex-end}.film-title{font-size:1.9rem}.hero-body{padding:1.25rem}main{padding:1.25rem 1rem 2rem}.site-header{padding:0.875rem 1.25rem}}
+@media(max-width:680px){.hero{grid-template-columns:1fr}.hero-media{border-right:none;border-bottom:1px solid var(--border)}.poster-box--hero{height:360px}.film-title{font-size:1.9rem}.hero-body{padding:1.25rem}main{padding:1.25rem 1rem 2rem}.site-header{padding:0.875rem 1.25rem}}
 </style>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4505572820522730"
      crossorigin="anonymous"></script>
@@ -182,6 +174,15 @@ footer a:hover{color:var(--gold)}
 <script>
 const SITE_URL = 'https://dailywha.com/moviewha';
 const TMDB_IMG = 'https://image.tmdb.org/t/p/w500';
+const FALLBACK_POSTER = 'data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27600%27 viewBox=%270 0 400 600%27%3E%3Crect width=%27400%27 height=%27600%27 rx=%2724%27 fill=%27%230a0f1f%27/%3E%3Cpath d=%27M120 170h160v260H120z%27 fill=%27%23151d2e%27 stroke=%27rgba(255,255,255,0.12)%27/%3E%3Cpath d=%27M150 230h100v14H150zm0 34h76v14h-76zm0 34h112v14H150z%27 fill=%27rgba(255,255,255,0.35)%27/%3E%3Ctext x=%2750%25%27 y=%2786%25%27 text-anchor=%27middle%27 fill=%27rgba(255,255,255,0.42)%27 font-family=%27Arial%27 font-size=%2714%27%3EPoster unavailable%3C/text%3E%3C/svg%3E';
+
+function pickReason(p) {
+  return (p && (p.reason || p.hook)) ? (p.reason || p.hook) : '';
+}
+
+function posterSrc(p) {
+  return (p && p.poster_path) ? (TMDB_IMG + p.poster_path) : FALLBACK_POSTER;
+}
 
 // SVG icons reused throughout
 const SHARE_ICON = '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>';
@@ -237,7 +238,6 @@ function miniRatings(p) {
 }
 
 function buildHero(p, d) {
-  const posterImg = p.poster_path ? `<img class="hero-poster-img" src="${TMDB_IMG}${p.poster_path}" alt="${p.title} poster" loading="eager">` : '';
   const playBtn = p.trailer_key ? `<button class="play-btn" onclick="openTrailer('${p.trailer_key}')" title="Watch trailer"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><polygon points="5,3 19,12 5,21"/></svg></button>` : '';
   const streaming = p.streaming && p.streaming.length ? p.streaming.map(s => `<span class="platform-pill">${s}</span>`).join('') : '';
   const cast = p.cast ? p.cast.slice(0,3).join(', ') : '';
@@ -245,25 +245,22 @@ function buildHero(p, d) {
 
   return `
   <div class="hero-wrap">
-    <div class="section-label">Film of the day</div>
     <div class="hero">
-      <div class="hero-poster">
-        <div class="trailer-wrap" id="trailer-wrap">
-          <button class="trailer-close" onclick="closeTrailer()">&times;</button>
-          <iframe id="trailer-iframe" src="" allowfullscreen allow="autoplay; encrypted-media"></iframe>
+      <div class="hero-media">
+        <div class="pick-head">
+          <div class="pick-cat">Movie of the Day</div>
+          <div class="pick-reason">${pickReason(p)}</div>
         </div>
-        ${posterImg}
-        <div class="poster-inner">
-          <div class="poster-title">${p.title}</div>
-          <div class="poster-year">${p.year}</div>
+        <div class="poster-box poster-box--hero">
+          <div class="trailer-wrap" id="trailer-wrap">
+            <button class="trailer-close" onclick="closeTrailer()">&times;</button>
+            <iframe id="trailer-iframe" src="" allowfullscreen allow="autoplay; encrypted-media"></iframe>
+          </div>
+          <img class="poster-img" src="${posterSrc(p)}" alt="${p.title} poster" loading="eager">
+          ${playBtn}
         </div>
-        ${playBtn}
       </div>
       <div class="hero-body">
-        <div class="hook-pill">
-          <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
-          ${p.hook}
-        </div>
         <h1 class="film-title">${p.title}</h1>
         ${cast ? `<div class="film-starring">Starring <span>${cast}</span></div>` : ''}
         <div class="film-meta">${p.year} &nbsp;&middot;&nbsp; ${runtime}${p.genre} ${streaming}</div>
@@ -279,20 +276,22 @@ function buildHero(p, d) {
 }
 
 function buildCard(p, type) {
-  const posterImg = p.poster_path ? `<img class="card-poster-img" src="${TMDB_IMG}${p.poster_path}" alt="${p.title}" loading="lazy">` : '';
   const cast = p.cast ? p.cast.slice(0,2).join(', ') : '';
+  const catLabel = type === 'released' ? 'Released Today' : (type === 'birthday' ? 'Happy Birthday' : (type === 'awful' ? 'Dumpster Dive' : ''));
+  const catClass = type === 'released' ? 'pick-cat--released' : (type === 'birthday' ? 'pick-cat--birthday' : (type === 'awful' ? 'pick-cat--awful' : ''));
   return `
   <div class="card card--${type}">
     <div class="card-stripe"></div>
-    <div class="card-poster">
-      ${posterImg}
-      <div class="card-poster-inner">
-        <div class="card-poster-title">${p.title}</div>
-        <div class="card-poster-year">${p.year}</div>
+    <div class="card-media">
+      <div class="pick-head">
+        <div class="pick-cat ${catClass}">${catLabel}</div>
+        <div class="pick-reason">${pickReason(p)}</div>
+      </div>
+      <div class="poster-box poster-box--card">
+        <img class="poster-img" src="${posterSrc(p)}" alt="${p.title} poster" loading="lazy">
       </div>
     </div>
     <div class="card-body">
-      <div class="card-label">${p.hook}</div>
       <div class="card-title">${p.title}</div>
       <div class="card-meta">${p.year}${cast ? ' &middot; ' + cast : ''}</div>
       ${miniRatings(p)}
@@ -326,8 +325,8 @@ async function init() {
       </div>
 
       <div class="secondary-grid">
+        ${buildCard(d.released, 'released')}
         ${buildCard(d.birthday, 'birthday')}
-        ${buildCard(d.gem, 'gem')}
         ${buildCard(d.awful, 'awful')}
       </div>
 

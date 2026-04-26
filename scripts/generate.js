@@ -29,7 +29,9 @@ function httpsPost(hostname, path, body, headers) {
       res.on('data', chunk => data += chunk);
       res.on('end', () => {
         try { resolve(JSON.parse(data)); }
-        catch(e) { resolve({}); }
+        catch(e) {
+          resolve({ error: { message: 'Non-JSON response from ' + hostname + path }, _raw: data });
+        }
       });
     });
     req.on('error', reject);
@@ -98,6 +100,11 @@ async function enrichPick(pick) {
 }
 
 async function main() {
+  if (!process.env.ANTHROPIC_API_KEY || !process.env.TMDB_API_KEY || !process.env.OMDB_API_KEY) {
+    console.error('Missing required env vars: ANTHROPIC_API_KEY, TMDB_API_KEY, OMDB_API_KEY');
+    process.exit(1);
+  }
+
   const now = new Date();
   const month = now.toLocaleString('en-US', { month: 'long', timeZone: 'America/Chicago' });
   const day = now.toLocaleString('en-US', { day: 'numeric', timeZone: 'America/Chicago' });
@@ -105,6 +112,7 @@ async function main() {
   const year = now.getFullYear();
   const dateStr = weekday + ', ' + month + ' ' + day + ', ' + year;
   const monthDay = month + ' ' + day;
+  const monthDayNumeric = String(now.toLocaleString('en-US', { month: '2-digit', timeZone: 'America/Chicago' })) + '-' + String(now.toLocaleString('en-US', { day: '2-digit', timeZone: 'America/Chicago' }));
 
   console.log('Generating picks for:', dateStr);
 
@@ -112,44 +120,61 @@ async function main() {
 
 You are the editor of MovieWha, a daily film recommendation site. Generate exactly 4 film picks for today. Return ONLY valid JSON, no markdown, no explanation, no backticks.
 
-Rules:
-- hero: The film of the day. Must be tied to TODAY specifically — a national/international observance, a major actor or director birthday, a release anniversary, or a cultural moment. The hook must be REAL and verifiable.
-- birthday: A different film starring an actor or director who was born on ${monthDay} (any year). Pick their best or most beloved film.
-- gem: An underrated or lesser-known film in a randomly chosen genre. Avoid obvious blockbusters.
-- awful: A real film with a very low IMDb score (under 4.0). Should be entertainingly bad.
+Hard requirements:
+- All picks must be REAL, widely known enough to find on TMDB/OMDb (avoid ultra-obscure entries that won't resolve).
+- Use accurate years.
+- Keep it positive overall.
+
+Pick categories:
+1) hero (Movie of the Day): Must be tied to TODAY via a real, positive day-specific observance/event (non-medical when possible). Choose ONE observance and name it explicitly in the reason. The connection must be specific and plausible (e.g., "Hairstylist Appreciation Day" -> "Hairspray"). Avoid DNA/malaria/illness topics unless there are no reasonable alternatives.
+2) released (Released Today): A notable film whose initial theatrical release date matches today's month/day (${monthDay} / ${monthDayNumeric}) in its release year. The reason must clearly say it was released today in YEAR.
+3) birthday (Happy Birthday): Pick a real actor/director born on ${monthDay}. The film must actually involve that person (starred in or directed). The reason must name the person and that it's their birthday.
+4) awful (Dumpster Dive): Any real film with terrible reviews/ratings (aim for IMDb under 4.0). The reason should be funny but not hateful.
+
+For each pick, provide:
+- title (string)
+- year (number)
+- reason (string): clear 1–2 sentence explanation that will be shown ABOVE the poster. Must include the day-specific anchor for hero/released/birthday.
+- blurb (string): 2–3 sentence opinionated pitch/roast.
+- genre (string)
+- runtime_min (number or null; only required for hero/released if you know it)
+- streaming (array of strings; optional; can be empty)
+- cast (array of 2–5 strings)
 
 Return this exact JSON structure:
 {
   "hero": {
     "title": "Film Title",
     "year": 1999,
-    "hook": "Short reason tied to today",
+    "reason": "1–2 sentences tying this movie to today's observance/event.",
     "blurb": "2-3 sentence opinionated pitch.",
     "genre": "Drama / Thriller",
     "runtime_min": 112,
     "streaming": ["Netflix"],
     "cast": ["Actor One", "Actor Two", "Actor Three"]
   },
+  "released": {
+    "title": "Film Title",
+    "year": 2007,
+    "reason": "Released today in 2007 — 1–2 sentence why it still rules.",
+    "blurb": "2-3 sentence pitch.",
+    "genre": "Action / Adventure",
+    "runtime_min": 118,
+    "streaming": ["Hulu"],
+    "cast": ["Actor One", "Actor Two", "Actor Three"]
+  },
   "birthday": {
     "title": "Film Title",
     "year": 1985,
-    "hook": "Born today — Name, Age",
+    "reason": "Happy birthday — Name (born ${monthDay}, YEAR). 1–2 sentence why this is their signature film.",
     "blurb": "2 sentence pitch.",
     "genre": "Comedy",
-    "cast": ["Actor One", "Actor Two"]
-  },
-  "gem": {
-    "title": "Film Title",
-    "year": 2003,
-    "hook": "Genre gem — western",
-    "blurb": "2 sentence pitch.",
-    "genre": "Western",
     "cast": ["Actor One", "Actor Two"]
   },
   "awful": {
     "title": "Film Title",
     "year": 2007,
-    "hook": "Awful of the day",
+    "reason": "Dumpster Dive — a famously bad movie with terrible reviews.",
     "blurb": "2 sentence roast.",
     "genre": "Action",
     "cast": ["Actor One", "Actor Two"]
@@ -165,16 +190,30 @@ Return this exact JSON structure:
     'anthropic-version': '2023-06-01'
   });
 
+  if (!claudeRes || claudeRes.error) {
+    console.error('Anthropic API error:', claudeRes && claudeRes.error ? claudeRes.error : claudeRes);
+    throw new Error('Anthropic request failed');
+  }
+  if (!claudeRes.content || !claudeRes.content[0] || !claudeRes.content[0].text) {
+    console.error('Unexpected Anthropic response:', JSON.stringify(claudeRes, null, 2));
+    throw new Error('Anthropic response missing content');
+  }
+
   const rawText = claudeRes.content[0].text.trim();
   console.log('Claude response received');
 
   const cleaned = rawText.replace(/^```json\s*/,'').replace(/^```\s*/,'').replace(/```\s*$/,'').trim();
   const picks = JSON.parse(cleaned);
 
-  const [hero, birthday, gem, awful] = await Promise.all([
+  if (!picks || !picks.hero || !picks.released || !picks.birthday || !picks.awful) {
+    console.error('Invalid picks JSON:', cleaned);
+    throw new Error('Picks JSON missing required keys');
+  }
+
+  const [hero, released, birthday, awful] = await Promise.all([
     enrichPick(picks.hero),
+    enrichPick(picks.released),
     enrichPick(picks.birthday),
-    enrichPick(picks.gem),
     enrichPick(picks.awful)
   ]);
 
@@ -182,8 +221,8 @@ Return this exact JSON structure:
     date: dateStr,
     generated_at: new Date().toISOString(),
     hero,
+    released,
     birthday,
-    gem,
     awful
   };
 
