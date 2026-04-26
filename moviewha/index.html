@@ -46,18 +46,18 @@ main{max-width:1100px;margin:0 auto;padding:2rem 1.75rem 3rem}
 /* Hero */
 .hero-wrap{animation:fadeUp 0.5s ease both;margin-bottom:2rem}
 .hero{display:grid;grid-template-columns:320px 1fr;border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;background:var(--card)}
-.hero-media{padding:1.25rem;border-right:1px solid var(--border);display:flex;flex-direction:column;gap:0.85rem}
+.hero-media{padding:1.25rem;border-right:1px solid var(--border);display:flex;flex-direction:column;align-items:stretch;gap:0.85rem}
 .pick-head{display:flex;flex-direction:column;gap:0.35rem}
 .pick-cat{font-size:1.02rem;letter-spacing:0.18em;text-transform:uppercase;color:rgba(242,240,236,0.9);font-weight:700;text-align:center;font-family:var(--font-ui)}
 .pick-reason{font-size:0.82rem;line-height:1.7;color:rgba(242,240,236,0.68);text-align:center}
-.poster-box{position:relative;border:2px solid var(--border);border-radius:0;overflow:hidden;background:#0a0f1f;display:flex;align-items:center;justify-content:center}
+.poster-box{position:relative;border:2px solid var(--border);border-radius:0;overflow:hidden;background:#0a0f1f;display:inline-block;max-width:100%;line-height:0;vertical-align:top;align-self:center}
 .poster-frame--hero{border-color:rgba(255,255,255,0.92)}
 .poster-frame--released{border-color:rgba(16,185,129,0.9)}
 .poster-frame--birthday{border-color:rgba(255,195,0,0.9)}
 .poster-frame--awful{border-color:rgba(239,68,68,0.9)}
-.poster-box--hero{height:460px}
-.poster-box--card{height:340px}
-.poster-img{width:100%;height:100%;object-fit:contain;display:block;background:#0a0f1f}
+.poster-img{display:block;height:auto;max-width:100%;width:auto;background:#0a0f1f}
+.poster-box--hero .poster-img{max-height:460px}
+.poster-box--card .poster-img{max-height:340px}
 .play-btn{position:absolute;bottom:10px;right:10px;z-index:3;width:40px;height:40px;border-radius:50%;background:var(--gold);border:none;display:flex;align-items:center;justify-content:center;cursor:pointer;transition:transform 0.15s,box-shadow 0.15s;color:#0b1020}
 .play-btn:hover{transform:scale(1.1);box-shadow:0 0 20px rgba(255,195,0,0.4)}
 .play-btn.hidden{display:none}
@@ -111,7 +111,8 @@ main{max-width:1100px;margin:0 auto;padding:2rem 1.75rem 3rem}
 .card--birthday .card-stripe{background:var(--gold)}
 .card--released .card-stripe{background:var(--teal)}
 .card--awful .card-stripe{background:var(--red)}
-.card-media{padding:1rem;display:flex;flex-direction:column;gap:0.75rem}
+.card-media{padding:1rem;display:flex;flex-direction:column;align-items:center;gap:0.75rem}
+.pick-head{width:100%}
 .pick-cat--hero{color:rgba(255,255,255,0.92)}
 .pick-cat--birthday{color:rgba(255,195,0,0.9)}
 .pick-cat--released{color:rgba(16,185,129,0.9)}
@@ -134,7 +135,7 @@ footer a:hover{color:var(--gold)}
 .footer-omdb{font-size:0.58rem;color:var(--dim);margin-top:0.75rem}
 
 @keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
-@media(max-width:680px){.hero{grid-template-columns:1fr}.hero-media{border-right:none;border-bottom:1px solid var(--border)}.poster-box--hero{height:360px}.film-title{font-size:1.9rem}.hero-body{padding:1.25rem}main{padding:1.25rem 1rem 2rem}.site-header{padding:0.875rem 1.25rem}}
+@media(max-width:680px){.hero{grid-template-columns:1fr}.hero-media{border-right:none;border-bottom:1px solid var(--border)}.poster-box--hero .poster-img{max-height:360px}.film-title{font-size:1.9rem}.hero-body{padding:1.25rem}main{padding:1.25rem 1rem 2rem}.site-header{padding:0.875rem 1.25rem}}
 </style>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4505572820522730"
      crossorigin="anonymous"></script>

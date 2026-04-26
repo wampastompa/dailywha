@@ -117,8 +117,8 @@ async function enrichPick(pick) {
 }
 
 async function main() {
-  if (!process.env.ANTHROPIC_API_KEY || !process.env.TMDB_API_KEY || !process.env.OMDB_API_KEY) {
-    console.error('Missing required env vars: ANTHROPIC_API_KEY, TMDB_API_KEY, OMDB_API_KEY');
+  if (!process.env.GROQ_API_KEY || !process.env.TMDB_API_KEY || !process.env.OMDB_API_KEY) {
+    console.error('Missing required env vars: GROQ_API_KEY, TMDB_API_KEY, OMDB_API_KEY');
     process.exit(1);
   }
 
@@ -198,26 +198,25 @@ Return this exact JSON structure:
   }
 }`;
 
-  const claudeRes = await httpsPost('api.anthropic.com', '/v1/messages', {
-    model: 'claude-haiku-4-5-20251001',
-    max_tokens: 1000,
+  const groqRes = await httpsPost('api.groq.com', '/openai/v1/chat/completions', {
+    model: 'llama-3.3-70b-versatile',
+    max_tokens: 2000,
     messages: [{ role: 'user', content: prompt }]
   }, {
-    'x-api-key': process.env.ANTHROPIC_API_KEY,
-    'anthropic-version': '2023-06-01'
+    'Authorization': 'Bearer ' + process.env.GROQ_API_KEY
   });
 
-  if (!claudeRes || claudeRes.error) {
-    console.error('Anthropic API error:', claudeRes && claudeRes.error ? claudeRes.error : claudeRes);
-    throw new Error('Anthropic request failed');
+  if (!groqRes || groqRes.error) {
+    console.error('Groq API error:', groqRes && groqRes.error ? groqRes.error : groqRes);
+    throw new Error('Groq request failed');
   }
-  if (!claudeRes.content || !claudeRes.content[0] || !claudeRes.content[0].text) {
-    console.error('Unexpected Anthropic response:', JSON.stringify(claudeRes, null, 2));
-    throw new Error('Anthropic response missing content');
+  if (!groqRes.choices || !groqRes.choices[0] || !groqRes.choices[0].message || !groqRes.choices[0].message.content) {
+    console.error('Unexpected Groq response:', JSON.stringify(groqRes, null, 2));
+    throw new Error('Groq response missing content');
   }
 
-  const rawText = claudeRes.content[0].text.trim();
-  console.log('Claude response received');
+  const rawText = groqRes.choices[0].message.content.trim();
+  console.log('Groq response received');
 
   const cleaned = rawText.replace(/^```json\s*/,'').replace(/^```\s*/,'').replace(/```\s*$/,'').trim();
   const picks = JSON.parse(cleaned);
