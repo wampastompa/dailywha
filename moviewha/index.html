@@ -7,12 +7,12 @@
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1024 1024'%3E%3Cpath fill='%23ffc300' d='M30.12,955.78c56.54-66.81,94.71-131.16,120.03-212.45-99.55-164.19-87.04-368.85,37.64-517.35,72.87-86.79,173.5-151.75,287.67-162.37l49.12-4.57c214.7-10.11,402.55,143.5,451.85,344.99,51.74,211.46-54.54,429.32-252.43,519.11-135.45,61.46-280.31,50.27-406.9-22.09-92.15,42.94-184.57,74.78-286.97,54.74ZM638.15,261.76c0-56.45-45.76-102.2-102.2-102.2s-102.2,45.76-102.2,102.2,45.76,102.2,102.2,102.2,102.2-45.76,102.2-102.2ZM866.89,429.93c0-57.33-46.47-103.8-103.8-103.8s-103.8,46.47-103.8,103.8,46.47,103.8,103.8,103.8,103.8-46.47,103.8-103.8ZM415.87,431.46c0-57.37-46.51-103.88-103.88-103.88s-103.88,46.51-103.88,103.88,46.51,103.88,103.88,103.88,103.88-46.51,103.88-103.88ZM598.23,516.64c0-32.8-26.59-59.39-59.39-59.39s-59.39,26.59-59.39,59.39,26.59,59.39,59.39,59.39,59.39-26.59,59.39-59.39ZM798.88,702.67c0-56.45-45.76-102.21-102.21-102.21s-102.21,45.76-102.21,102.21,45.76,102.21,102.21,102.21,102.21-45.76,102.21-102.21ZM434.79,810.19c65.73-24.3,92.94-91.77,64.36-147.23-30.6-59.38-103.55-77.05-156.42-35.45-32.55,25.61-47.85,63.15-40.7,102.49,9.4,51.74,71.44,102.87,132.76,80.19Z'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@1,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <!-- AdSense: uncomment after approval
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
 -->
 <style>
-:root{--bg:#0b1020;--card:#151d2e;--card-h:#1a2338;--border:rgba(255,255,255,0.07);--border-s:rgba(255,255,255,0.14);--text:#f2f0ec;--muted:#6b7280;--dim:#2d3748;--gold:#ffc300;--gold-glow:rgba(255,195,0,0.12);--teal:#10b981;--red:#ef4444;--radius:10px;--font-ui:'Poppins',system-ui,sans-serif;--font-film:'Playfair Display',Georgia,serif}
+:root{--bg:#0b1020;--card:#151d2e;--card-h:#1a2338;--border:rgba(255,255,255,0.07);--border-s:rgba(255,255,255,0.14);--text:#f2f0ec;--muted:#6b7280;--dim:#2d3748;--gold:#ffc300;--gold-glow:rgba(255,195,0,0.12);--teal:#10b981;--red:#ef4444;--radius:10px;--font-ui:'Poppins',system-ui,sans-serif;--font-film:'Poppins',system-ui,sans-serif}
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 body{background:var(--bg);color:var(--text);font-family:var(--font-ui);font-weight:300;line-height:1.6;min-height:100vh;padding-bottom:70px}
 .site-header{padding:1rem 2rem;border-bottom:1px solid var(--border);display:flex;justify-content:space-between;align-items:center;position:sticky;top:0;background:rgba(11,16,32,0.92);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);z-index:50}
@@ -50,7 +50,11 @@ main{max-width:1100px;margin:0 auto;padding:2rem 1.75rem 3rem}
 .pick-head{display:flex;flex-direction:column;gap:0.35rem}
 .pick-cat{font-size:1.02rem;letter-spacing:0.18em;text-transform:uppercase;color:rgba(242,240,236,0.9);font-weight:700;text-align:center;font-family:var(--font-ui)}
 .pick-reason{font-size:0.82rem;line-height:1.7;color:rgba(242,240,236,0.68);text-align:center}
-.poster-box{position:relative;border:1px solid var(--border);border-radius:12px;overflow:hidden;background:#0a0f1f;display:flex;align-items:center;justify-content:center}
+.poster-box{position:relative;border:2px solid var(--border);border-radius:0;overflow:hidden;background:#0a0f1f;display:flex;align-items:center;justify-content:center}
+.poster-frame--hero{border-color:rgba(255,255,255,0.92)}
+.poster-frame--released{border-color:rgba(16,185,129,0.9)}
+.poster-frame--birthday{border-color:rgba(255,195,0,0.9)}
+.poster-frame--awful{border-color:rgba(239,68,68,0.9)}
 .poster-box--hero{height:460px}
 .poster-box--card{height:340px}
 .poster-img{width:100%;height:100%;object-fit:contain;display:block;background:#0a0f1f}
@@ -62,7 +66,7 @@ main{max-width:1100px;margin:0 auto;padding:2rem 1.75rem 3rem}
 .trailer-wrap iframe{width:100%;height:100%;border:none;display:block}
 .trailer-close{position:absolute;top:8px;right:8px;z-index:11;width:28px;height:28px;border-radius:50%;background:rgba(0,0,0,0.7);border:1px solid rgba(255,255,255,0.2);color:#fff;cursor:pointer;font-size:16px;display:flex;align-items:center;justify-content:center;font-family:var(--font-ui)}
 .hero-body{padding:2rem 2rem 1.5rem;display:flex;flex-direction:column}
-.film-title{font-family:var(--font-film);font-style:italic;font-weight:700;font-size:2.4rem;line-height:1.1;margin-bottom:0.2rem;letter-spacing:-0.015em}
+.film-title{font-family:var(--font-ui);font-style:normal;font-weight:700;font-size:2.2rem;line-height:1.15;margin-bottom:0.2rem;letter-spacing:-0.01em}
 .film-starring{font-size:0.7rem;color:var(--muted);margin-bottom:0.7rem}
 .film-starring span{color:rgba(242,240,236,0.65)}
 .film-meta{font-size:0.7rem;color:var(--muted);margin-bottom:0.75rem;display:flex;align-items:center;gap:0.5rem;flex-wrap:wrap}
@@ -113,7 +117,7 @@ main{max-width:1100px;margin:0 auto;padding:2rem 1.75rem 3rem}
 .pick-cat--released{color:rgba(16,185,129,0.9)}
 .pick-cat--awful{color:rgba(239,68,68,0.9)}
 .card-body{padding:1rem;flex:1;display:flex;flex-direction:column}
-.card-title{font-family:var(--font-film);font-style:italic;font-weight:700;font-size:1.05rem;margin-bottom:3px;line-height:1.3;color:var(--text)}
+.card-title{font-family:var(--font-ui);font-style:normal;font-weight:700;font-size:1.05rem;margin-bottom:3px;line-height:1.3;color:var(--text)}
 .card-meta{font-size:0.65rem;color:var(--muted);margin-bottom:0.5rem;font-weight:300}
 .card-platforms{display:flex;gap:6px;flex-wrap:wrap;margin:-2px 0 0.65rem}
 .card-ratings{display:flex;gap:5px;margin-bottom:0.6rem;flex-wrap:wrap}
@@ -260,7 +264,7 @@ function buildHero(p, d) {
           <div class="pick-cat pick-cat--hero">Movie of the Day</div>
           <div class="pick-reason">${pickReason(p)}</div>
         </div>
-        <div class="poster-box poster-box--hero">
+        <div class="poster-box poster-box--hero poster-frame--hero">
           <div class="trailer-wrap" id="trailer-wrap">
             <button class="trailer-close" onclick="closeTrailer()">&times;</button>
             <iframe id="trailer-iframe" src="" allowfullscreen allow="autoplay; encrypted-media"></iframe>
@@ -300,7 +304,7 @@ function buildCard(p, type) {
         <div class="pick-cat ${catClass}">${catLabel}</div>
         <div class="pick-reason">${pickReason(p)}</div>
       </div>
-      <div class="poster-box poster-box--card">
+      <div class="poster-box poster-box--card ${type === 'released' ? 'poster-frame--released' : (type === 'birthday' ? 'poster-frame--birthday' : (type === 'awful' ? 'poster-frame--awful' : 'poster-frame--hero'))}">
         <img class="poster-img" src="${posterSrc(p)}" alt="${p.title} poster" loading="lazy">
       </div>
     </div>

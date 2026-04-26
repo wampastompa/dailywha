@@ -143,15 +143,15 @@ Hard requirements:
 - Keep it positive overall.
 
 Pick categories:
-1) hero (Movie of the Day): Must be tied to TODAY via a real, positive day-specific observance/event (non-medical when possible). Choose ONE observance and name it explicitly in the reason. The connection must be specific and plausible (e.g., "Hairstylist Appreciation Day" -> "Hairspray"). Avoid DNA/malaria/illness topics unless there are no reasonable alternatives.
-2) released (Released Today): A notable film whose initial theatrical release date matches today's month/day (${monthDay} / ${monthDayNumeric}) in its release year. The reason must clearly say it was released today in YEAR.
-3) birthday (Happy Birthday): Pick a real actor or actress born on ${monthDay}. The film MUST star them (they must be in the cast). Put their name FIRST in the cast array. Do NOT pick a film they are not in. The reason must name the person and that it's their birthday.
+1) hero (Movie of the Day): Must be tied to TODAY via a real, positive day-specific observance/event (non-medical when possible). Choose ONE observance and name it explicitly in the reason. The reason must spell out exactly why this movie fits the observance and should start with wording like: "In honor of <observance>, ...". The connection must be specific and plausible (e.g., "Hairstylist Appreciation Day" -> "Hairspray"). Avoid DNA/malaria/illness topics unless there are no reasonable alternatives.
+2) released (Released Today): A notable film whose initial theatrical release date matches today's month/day (${monthDay} / ${monthDayNumeric}) in its release year. The reason must spell out exactly why it was chosen and must explicitly include "Released today" and the release year (e.g., "Released today in 2007, ...").
+3) birthday (Happy Birthday): Pick a real actor or actress born on ${monthDay}. The film MUST star them (they must be in the cast). Put their name FIRST in the cast array. Do NOT pick a film they are not in. The reason must spell out exactly why it was chosen and should explicitly include "Happy birthday to <name>, ...".
 4) awful (Dumpster Dive): Any real film with terrible reviews/ratings (aim for IMDb under 4.0). The reason should be funny but not hateful.
 
 For each pick, provide:
 - title (string)
 - year (number)
-- reason (string): clear 1–2 sentence explanation that will be shown ABOVE the poster. Must include the day-specific anchor for hero/released/birthday. DO NOT include the category name (do not start with “Movie of the Day”, “Released Today”, “Happy Birthday”, or “Dumpster Dive”). Just write the reason.
+- reason (string): clear 1–2 sentence explanation that will be shown ABOVE the poster. For hero/released/birthday it MUST spell out exactly why it was chosen for that category (observance / release anniversary / birthday). DO NOT include the category name (do not start with “Movie of the Day”, “Released Today”, “Happy Birthday”, or “Dumpster Dive”). Just write the reason.
 - blurb (string): 2–3 sentence opinionated pitch/roast.
 - genre (string)
 - runtime_min (number or null; only required for hero/released if you know it)
