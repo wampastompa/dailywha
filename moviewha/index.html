@@ -48,8 +48,8 @@ main{max-width:1100px;margin:0 auto;padding:2rem 1.75rem 3rem}
 .hero{display:grid;grid-template-columns:320px 1fr;border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;background:var(--card)}
 .hero-media{padding:1.25rem;border-right:1px solid var(--border);display:flex;flex-direction:column;gap:0.85rem}
 .pick-head{display:flex;flex-direction:column;gap:0.35rem}
-.pick-cat{font-size:0.58rem;letter-spacing:0.14em;text-transform:uppercase;color:rgba(242,240,236,0.72);font-weight:700}
-.pick-reason{font-size:0.8rem;line-height:1.7;color:rgba(242,240,236,0.68)}
+.pick-cat{font-size:1.02rem;letter-spacing:0.18em;text-transform:uppercase;color:rgba(242,240,236,0.9);font-weight:700;text-align:center;font-family:var(--font-ui)}
+.pick-reason{font-size:0.82rem;line-height:1.7;color:rgba(242,240,236,0.68);text-align:center}
 .poster-box{position:relative;border:1px solid var(--border);border-radius:12px;overflow:hidden;background:#0a0f1f;display:flex;align-items:center;justify-content:center}
 .poster-box--hero{height:460px}
 .poster-box--card{height:340px}
@@ -67,6 +67,10 @@ main{max-width:1100px;margin:0 auto;padding:2rem 1.75rem 3rem}
 .film-starring span{color:rgba(242,240,236,0.65)}
 .film-meta{font-size:0.7rem;color:var(--muted);margin-bottom:0.75rem;display:flex;align-items:center;gap:0.5rem;flex-wrap:wrap}
 .platform-pill{background:rgba(255,195,0,0.1);color:var(--gold);border:1px solid rgba(255,195,0,0.25);padding:2px 9px;border-radius:4px;font-size:0.62rem;font-weight:500}
+.platform-pill{display:inline-flex;align-items:center;gap:6px;text-decoration:none}
+.platform-pill:hover{border-color:rgba(255,195,0,0.4);background:rgba(255,195,0,0.14)}
+.platform-pill:focus{outline:2px solid rgba(255,195,0,0.35);outline-offset:2px}
+.platform-pill[aria-disabled="true"]{cursor:default;opacity:0.85}
 .ratings-row{display:flex;align-items:center;gap:7px;margin-bottom:1.25rem;flex-wrap:wrap}
 .rating-badge{display:inline-flex;align-items:center;gap:5px;font-size:0.72rem;font-weight:500;padding:4px 9px;border-radius:5px;border:1px solid var(--border-s)}
 .rating-badge.imdb-r{background:rgba(245,197,24,0.08);border-color:rgba(245,197,24,0.22)}
@@ -104,12 +108,14 @@ main{max-width:1100px;margin:0 auto;padding:2rem 1.75rem 3rem}
 .card--released .card-stripe{background:var(--teal)}
 .card--awful .card-stripe{background:var(--red)}
 .card-media{padding:1rem;display:flex;flex-direction:column;gap:0.75rem}
+.pick-cat--hero{color:rgba(255,255,255,0.92)}
 .pick-cat--birthday{color:rgba(255,195,0,0.9)}
 .pick-cat--released{color:rgba(16,185,129,0.9)}
 .pick-cat--awful{color:rgba(239,68,68,0.9)}
 .card-body{padding:1rem;flex:1;display:flex;flex-direction:column}
 .card-title{font-family:var(--font-film);font-style:italic;font-weight:700;font-size:1.05rem;margin-bottom:3px;line-height:1.3;color:var(--text)}
 .card-meta{font-size:0.65rem;color:var(--muted);margin-bottom:0.5rem;font-weight:300}
+.card-platforms{display:flex;gap:6px;flex-wrap:wrap;margin:-2px 0 0.65rem}
 .card-ratings{display:flex;gap:5px;margin-bottom:0.6rem;flex-wrap:wrap}
 .mini-r{display:inline-flex;align-items:center;gap:4px;font-size:0.65rem;padding:2px 7px;border-radius:4px;border:1px solid var(--border-s)}
 .card-blurb{font-size:0.76rem;line-height:1.75;color:rgba(242,240,236,0.6);flex:1;margin-bottom:0.875rem;font-weight:300}
@@ -239,7 +245,10 @@ function miniRatings(p) {
 
 function buildHero(p, d) {
   const playBtn = p.trailer_key ? `<button class="play-btn" onclick="openTrailer('${p.trailer_key}')" title="Watch trailer"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><polygon points="5,3 19,12 5,21"/></svg></button>` : '';
-  const streaming = p.streaming && p.streaming.length ? p.streaming.map(s => `<span class="platform-pill">${s}</span>`).join('') : '';
+  const streaming = p.streaming && p.streaming.length ? p.streaming.map(s => {
+    if (p.watch_url) return `<a class="platform-pill" href="${p.watch_url}" target="_blank" rel="noopener">${s}</a>`;
+    return `<span class="platform-pill" aria-disabled="true">${s}</span>`;
+  }).join('') : '';
   const cast = p.cast ? p.cast.slice(0,3).join(', ') : '';
   const runtime = p.runtime_min ? p.runtime_min + ' min &nbsp;&middot;&nbsp; ' : '';
 
@@ -248,7 +257,7 @@ function buildHero(p, d) {
     <div class="hero">
       <div class="hero-media">
         <div class="pick-head">
-          <div class="pick-cat">Movie of the Day</div>
+          <div class="pick-cat pick-cat--hero">Movie of the Day</div>
           <div class="pick-reason">${pickReason(p)}</div>
         </div>
         <div class="poster-box poster-box--hero">
@@ -279,6 +288,10 @@ function buildCard(p, type) {
   const cast = p.cast ? p.cast.slice(0,2).join(', ') : '';
   const catLabel = type === 'released' ? 'Released Today' : (type === 'birthday' ? 'Happy Birthday' : (type === 'awful' ? 'Dumpster Dive' : ''));
   const catClass = type === 'released' ? 'pick-cat--released' : (type === 'birthday' ? 'pick-cat--birthday' : (type === 'awful' ? 'pick-cat--awful' : ''));
+  const streaming = p.streaming && p.streaming.length ? p.streaming.map(s => {
+    if (p.watch_url) return `<a class="platform-pill" href="${p.watch_url}" target="_blank" rel="noopener">${s}</a>`;
+    return `<span class="platform-pill" aria-disabled="true">${s}</span>`;
+  }).join('') : '';
   return `
   <div class="card card--${type}">
     <div class="card-stripe"></div>
@@ -294,6 +307,7 @@ function buildCard(p, type) {
     <div class="card-body">
       <div class="card-title">${p.title}</div>
       <div class="card-meta">${p.year}${cast ? ' &middot; ' + cast : ''}</div>
+      ${streaming ? `<div class="card-platforms">${streaming}</div>` : ''}
       ${miniRatings(p)}
       <div class="card-blurb">${p.blurb}</div>
       <div class="card-actions">

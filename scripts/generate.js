@@ -1,6 +1,21 @@
 const https = require('https');
 const fs = require('fs');
 
+function normalizeReason(s) {
+  if (!s || typeof s !== 'string') return s;
+  return s
+    .replace(/^\s*(movie of the day|released today|happy birthday|dumpster dive)\s*[-—:]\s*/i, '')
+    .trim();
+}
+
+function normalizePick(p) {
+  if (!p || typeof p !== 'object') return p;
+  return {
+    ...p,
+    reason: normalizeReason(p.reason),
+  };
+}
+
 function httpsGet(url) {
   return new Promise((resolve, reject) => {
     https.get(url, (res) => {
@@ -70,6 +85,7 @@ async function enrichPick(pick) {
 
     const usProviders = providers.results && providers.results.US;
     const streaming = [];
+    const watchUrl = usProviders && usProviders.link ? usProviders.link : null;
     if (usProviders && usProviders.flatrate) {
       usProviders.flatrate.slice(0, 3).forEach(p => streaming.push(p.provider_name));
     }
@@ -91,6 +107,7 @@ async function enrichPick(pick) {
       rt_score: rtScore,
       metacritic: ratings.Metascore || null,
       runtime_min: details.runtime || pick.runtime_min || null,
+      watch_url: watchUrl,
       streaming: streaming.length > 0 ? streaming : (pick.streaming || [])
     };
   } catch(e) {
@@ -128,13 +145,13 @@ Hard requirements:
 Pick categories:
 1) hero (Movie of the Day): Must be tied to TODAY via a real, positive day-specific observance/event (non-medical when possible). Choose ONE observance and name it explicitly in the reason. The connection must be specific and plausible (e.g., "Hairstylist Appreciation Day" -> "Hairspray"). Avoid DNA/malaria/illness topics unless there are no reasonable alternatives.
 2) released (Released Today): A notable film whose initial theatrical release date matches today's month/day (${monthDay} / ${monthDayNumeric}) in its release year. The reason must clearly say it was released today in YEAR.
-3) birthday (Happy Birthday): Pick a real actor/director born on ${monthDay}. The film must actually involve that person (starred in or directed). The reason must name the person and that it's their birthday.
+3) birthday (Happy Birthday): Pick a real actor or actress born on ${monthDay}. The film MUST star them (they must be in the cast). Put their name FIRST in the cast array. Do NOT pick a film they are not in. The reason must name the person and that it's their birthday.
 4) awful (Dumpster Dive): Any real film with terrible reviews/ratings (aim for IMDb under 4.0). The reason should be funny but not hateful.
 
 For each pick, provide:
 - title (string)
 - year (number)
-- reason (string): clear 1–2 sentence explanation that will be shown ABOVE the poster. Must include the day-specific anchor for hero/released/birthday.
+- reason (string): clear 1–2 sentence explanation that will be shown ABOVE the poster. Must include the day-specific anchor for hero/released/birthday. DO NOT include the category name (do not start with “Movie of the Day”, “Released Today”, “Happy Birthday”, or “Dumpster Dive”). Just write the reason.
 - blurb (string): 2–3 sentence opinionated pitch/roast.
 - genre (string)
 - runtime_min (number or null; only required for hero/released if you know it)
@@ -211,10 +228,10 @@ Return this exact JSON structure:
   }
 
   const [hero, released, birthday, awful] = await Promise.all([
-    enrichPick(picks.hero),
-    enrichPick(picks.released),
-    enrichPick(picks.birthday),
-    enrichPick(picks.awful)
+    enrichPick(normalizePick(picks.hero)),
+    enrichPick(normalizePick(picks.released)),
+    enrichPick(normalizePick(picks.birthday)),
+    enrichPick(normalizePick(picks.awful))
   ]);
 
   const output = {
@@ -229,8 +246,8 @@ Return this exact JSON structure:
   fs.writeFileSync('moviewha/today.json', JSON.stringify(output, null, 2));
   console.log('today.json written successfully');
   console.log('Hero:', hero.title, '(' + hero.year + ')');
+  console.log('Released:', released.title);
   console.log('Birthday:', birthday.title);
-  console.log('Gem:', gem.title);
   console.log('Awful:', awful.title);
 }
 
