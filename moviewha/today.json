@@ -1,101 +1,96 @@
 {
-  "date": "Saturday, April 25, 2026",
-  "generated_at": "2026-04-25T09:54:27.658Z",
+  "date": "Sunday, April 26, 2026",
+  "generated_at": "2026-04-26T09:54:32.324Z",
   "hero": {
-    "title": "Chungking Express",
-    "year": 1994,
-    "reason": "A vibrant romance-drama that turns a random date into destiny (and makes you want to walk into the night like you're in a Wong Kar-wai montage).",
-    "hook": "Wong Kar-wai's masterpiece turns 32 today—a neon-soaked meditation on urban loneliness and chance encounters that defined '90s cinema.",
-    "blurb": "Two lovelorn cops drift through Hong Kong's glittering streets, each nursing a heartbreak in their own beautifully fractured way. This is visual poetry masquerading as a crime film—hypnotic, melancholic, and utterly unforgettable.",
-    "genre": "Drama / Romance",
-    "runtime_min": 103,
-    "streaming": [
-      "HBO Max",
-      "HBO Max Amazon Channel",
-      "Criterion Channel"
-    ],
+    "title": "Audubon",
+    "year": 2023,
+    "reason": "In honor of Audubon Day (April 26), celebrating naturalist John James Audubon's legacy, this biographical drama chronicles the life of the pioneering ornithologist and artist who revolutionized our understanding of birds and nature through his meticulous illustrations and observations.",
+    "blurb": "A visually stunning tribute to the man who taught America to see birds as subjects worthy of scientific study and artistic beauty. Audubon's passion for nature and relentless pursuit of knowledge across the frontier remains inspiring and deeply moving.",
+    "genre": "Biography / Drama",
+    "runtime_min": 59,
+    "streaming": [],
     "cast": [
-      "Takeshi Kaneshiro",
-      "Brigitte Lin",
-      "Tony Leung",
-      "Faye Wong"
+      "David Morse",
+      "Kevin Spacey",
+      "Frances Fisher"
     ],
-    "tmdb_id": 11104,
-    "poster_path": "/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
-    "trailer_key": "P9Mxf_6pVA0",
-    "imdb_rating": null,
-    "imdb_id": null,
-    "rt_score": null,
-    "metacritic": null
-  },
-  "released": {
-    "title": "The Ballad of Little Jo",
-    "year": 1993,
-    "reason": "A quietly radical western that’s stuck around because it’s tender, human, and genuinely different from the genre’s usual myths.",
-    "blurb": "Maggie Greenwald's quiet, revisionist western follows a woman who disguises herself as a man to survive in 1880s Montana, working cattle ranches and claiming her own freedom. It's a tender, subversive, beautifully shot meditation on gender and belonging in the untamed frontier.",
-    "genre": "Western / Drama",
-    "runtime_min": 121,
-    "streaming": [
-      "Kino Film Collection"
-    ],
-    "cast": [
-      "Suzy Amis",
-      "Ian McKellen",
-      "David Morse"
-    ],
-    "tmdb_id": 71940,
-    "poster_path": "/cFGLQ3NigGdDmJy2Wjhcp9nmHe4.jpg",
+    "tmdb_id": 1272199,
+    "poster_path": null,
     "trailer_key": null,
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
-    "metacritic": null
+    "metacritic": null,
+    "watch_url": null
   },
-  "birthday": {
-    "title": "Thelma & Louise",
-    "year": 1991,
-    "reason": "A go-for-broke classic tied to a real birthday today, and still one of the sharpest, most iconic rides in American cinema.",
-    "hook": "Born today — Renée Zellweger, 57",
-    "blurb": "Though Zellweger isn't in this 1991 classic, she shares a birthday with director Ridley Scott, whose feminist road-trip thriller redefined the buddy movie. A searing, beautiful, devastating film about women refusing to apologize.",
-    "genre": "Thriller / Drama",
-    "cast": [
-      "Geena Davis",
-      "Susan Sarandon",
-      "Brad Pitt"
+  "released": {
+    "title": "A Serious Man",
+    "year": 2009,
+    "reason": "Released today in 2009, this Coen Brothers masterpiece about an ordinary man's unraveling life during suburban Jewish Minnesota crisis remains a darkly comic meditation on faith, uncertainty, and the absurdity of everyday suffering.",
+    "blurb": "A brilliantly twisted examination of job loss, family chaos, and spiritual desperation wrapped in pitch-black comedy. Michael Stuhlbarg delivers a career-defining performance as a man desperately seeking meaning in a meaningless universe.",
+    "genre": "Comedy / Drama",
+    "runtime_min": 106,
+    "streaming": [
+      "Netflix"
     ],
-    "tmdb_id": 1541,
-    "poster_path": "/gQSUVGR80RVHxJywtwXm2qa1ebi.jpg",
-    "trailer_key": "Pcrriowt3PA",
+    "cast": [
+      "Michael Stuhlbarg",
+      "Richard Kind",
+      "Sari Lennick"
+    ],
+    "tmdb_id": 12573,
+    "poster_path": "/5gGxDS8WmrebPlMHexVS8EVehiP.jpg",
+    "trailer_key": "mDKHWRbK2_Q",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 130,
+    "watch_url": "https://www.themoviedb.org/movie/12573-a-serious-man/watch?locale=US"
+  },
+  "birthday": {
+    "title": "In Good Company",
+    "year": 2004,
+    "reason": "Happy birthday to Chloë Sevigny (born April 26, 1974). This romantic comedy perfectly showcases her wit and charm as a young woman navigating love and career ambitions in the high-pressure world of magazine publishing.",
+    "blurb": "A smart, breezy romantic comedy elevated by great chemistry and witty banter about age gaps and workplace dynamics. Chloë Sevigny brings intelligence and warmth to a character caught between two very different men.",
+    "genre": "Comedy / Romance",
+    "cast": [
+      "Chloë Sevigny",
+      "Dennis Quaid",
+      "Topher Grace"
+    ],
+    "tmdb_id": 1901,
+    "poster_path": "/5H3fbU4NlHPbLf3MUFZwPdmD3nS.jpg",
+    "trailer_key": "8M7z4LoGVEY",
+    "imdb_rating": null,
+    "imdb_id": null,
+    "rt_score": null,
+    "metacritic": null,
+    "runtime_min": 110,
+    "watch_url": "https://www.themoviedb.org/movie/1901-in-good-company/watch?locale=US",
+    "streaming": []
+  },
+  "awful": {
+    "title": "Birdemic: Shock and Terror",
+    "year": 2010,
+    "reason": "A legendarily incompetent creature feature where rubber birds attack California with all the terror of angry pool toys, creating an unintentional masterpiece of how not to make a movie.",
+    "blurb": "Prepare yourself for some of the worst dialogue, cheapest special effects, and most baffling creative choices ever committed to film. It's so spectacularly terrible that it has achieved cult immortality as peak bad-movie entertainment.",
+    "genre": "Horror / Sci-Fi",
+    "cast": [
+      "Alan Bagh",
+      "Whitney Moore"
+    ],
+    "tmdb_id": 40016,
+    "poster_path": "/gqmcAVNNUosB55RliecFYnkWT4M.jpg",
+    "trailer_key": "jE5dJDgZ644",
+    "imdb_rating": null,
+    "imdb_id": null,
+    "rt_score": null,
+    "metacritic": null,
+    "runtime_min": 93,
+    "watch_url": "https://www.themoviedb.org/movie/40016-birdemic-shock-and-terror/watch?locale=US",
     "streaming": [
       "Amazon Prime Video",
       "Amazon Prime Video with Ads"
     ]
-  },
-  "awful": {
-    "title": "Gigli",
-    "year": 2003,
-    "reason": "A famously disastrous studio comedy-romance that’s unintentionally mesmerizing when you can’t believe it’s real.",
-    "hook": "Awful of the day",
-    "blurb": "Ben Affleck and Jennifer Lopez star in this incomprehensible mob-comedy-romance that somehow mistakes incoherence for edge. A film so aggressively unfunny it feels like a prank played on audiences worldwide.",
-    "genre": "Comedy / Crime",
-    "cast": [
-      "Ben Affleck",
-      "Jennifer Lopez",
-      "Christopher Walken"
-    ],
-    "tmdb_id": 8046,
-    "poster_path": "/qOhAK3WDqdeVTIE59loXvEGU7Lu.jpg",
-    "trailer_key": "qDED4FPmuZo",
-    "imdb_rating": null,
-    "imdb_id": null,
-    "rt_score": null,
-    "metacritic": null,
-    "runtime_min": 122,
-    "streaming": []
   }
 }
