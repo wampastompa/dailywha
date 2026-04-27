@@ -1,0 +1,343 @@
+{
+  "date": "Monday, April 27, 2026",
+  "generated_at": "2026-04-27T14:47:42.302Z",
+  "updated_at": "2026-04-27",
+  "categories": {
+    "Gear": [
+      {
+        "id": "Gear:0",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Gear:1",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Gear:2",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Gear:3",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      }
+    ],
+    "Home": [
+      {
+        "id": "Home:0",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Home:1",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Home:2",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Home:3",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      }
+    ],
+    "Health": [
+      {
+        "id": "Health:0",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Health:1",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Health:2",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Health:3",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      }
+    ],
+    "Outside": [
+      {
+        "id": "Outside:0",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Outside:1",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Outside:2",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Outside:3",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      }
+    ],
+    "Play": [
+      {
+        "id": "Play:0",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Play:1",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Play:2",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Play:3",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      }
+    ],
+    "Read": [
+      {
+        "id": "Read:0",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Read:1",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Read:2",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Read:3",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      }
+    ],
+    "Fashion": [
+      {
+        "id": "Fashion:0",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Fashion:1",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Fashion:2",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Fashion:3",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      }
+    ],
+    "Gourmet": [
+      {
+        "id": "Gourmet:0",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Gourmet:1",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Gourmet:2",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      },
+      {
+        "id": "Gourmet:3",
+        "url": "",
+        "title": "",
+        "image": "",
+        "price": "",
+        "store": "",
+        "why": "",
+        "caption": ""
+      }
+    ]
+  }
+}

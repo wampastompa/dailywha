@@ -1,13 +1,317 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta http-equiv="refresh" content="0; url=/moviewha/">
-<title>DailyWha</title>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4505572820522730"
-     crossorigin="anonymous"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DailyWha? Deals — Fresh finds, daily</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --accent:#FF5A3D;
+      --accent-warm:#FFB02E;
+      --bg:#1B1F24;
+      --bg2:#3A4048;
+      --text:#f2f0ec;
+      --muted:rgba(242,240,236,0.62);
+      --border:rgba(255,255,255,0.10);
+      --border2:rgba(255,255,255,0.18);
+      --radius:12px;
+      --font:'Poppins',system-ui,sans-serif;
+    }
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{background:var(--bg);color:var(--text);font-family:var(--font);font-weight:300;line-height:1.6;min-height:100vh}
+    a{color:inherit}
+
+    .site-header{
+      position:sticky;top:0;z-index:50;
+      background:rgba(27,31,36,0.92);
+      backdrop-filter:blur(14px);
+      border-bottom:1px solid var(--border);
+      padding:1rem 1.25rem;
+      display:flex;align-items:center;justify-content:space-between;gap:1rem;
+    }
+    .brand{display:flex;align-items:center;gap:12px}
+    .brand-logo{
+      height:34px;
+      width:auto;
+      display:block;
+    }
+    .brand-text{display:flex;flex-direction:column;gap:2px}
+    .brand-title{font-weight:700;letter-spacing:-0.02em;font-size:1.15rem}
+    .brand-sub{font-size:0.72rem;color:var(--muted);letter-spacing:0.12em;text-transform:uppercase;font-weight:600}
+    .header-right{display:flex;align-items:center;gap:12px}
+    .date{font-size:0.78rem;color:var(--muted);text-align:right}
+    .pill{
+      display:inline-flex;align-items:center;gap:8px;
+      padding:7px 12px;border-radius:999px;
+      border:1px solid var(--border2);
+      background:rgba(255,255,255,0.04);
+      font-size:0.75rem;font-weight:600;text-decoration:none;
+      white-space:nowrap;
+    }
+    .pill strong{color:var(--accent-warm)}
+    .pill:hover{background:rgba(255,255,255,0.07)}
+
+    main{max-width:1180px;margin:0 auto;padding:1.5rem 1.25rem 3rem}
+
+    .intro{
+      border:1px solid var(--border);
+      background:linear-gradient(160deg, rgba(255,90,61,0.14), rgba(255,176,46,0.08) 45%, rgba(255,255,255,0.02) 100%);
+      border-radius:var(--radius);
+      padding:1.15rem 1.15rem;
+      margin-bottom:1.25rem;
+    }
+    .intro h1{font-size:1.45rem;line-height:1.2;font-weight:700;margin-bottom:6px}
+    .intro p{color:rgba(242,240,236,0.70);font-size:0.92rem}
+
+    .category{margin-top:1.35rem}
+    .cat-head{display:flex;align-items:center;justify-content:space-between;gap:1rem;margin-bottom:0.65rem}
+    .cat-title{font-size:0.85rem;letter-spacing:0.18em;text-transform:uppercase;font-weight:700}
+    .cat-title span{color:var(--accent-warm)}
+    .nav{display:flex;gap:8px}
+    .nav-btn{
+      width:36px;height:36px;border-radius:10px;
+      border:1px solid var(--border2);
+      background:rgba(255,255,255,0.04);
+      color:var(--text);
+      cursor:pointer;
+    }
+    .nav-btn:hover{background:rgba(255,255,255,0.08)}
+
+    .scroller{
+      position:relative;
+      display:flex;gap:12px;
+      overflow-x:auto;
+      scroll-snap-type:x mandatory;
+      padding-bottom:8px;
+      -webkit-overflow-scrolling:touch;
+    }
+    .scroller::-webkit-scrollbar{height:10px}
+    .scroller::-webkit-scrollbar-thumb{background:rgba(255,255,255,0.12);border-radius:999px}
+    .card{
+      scroll-snap-align:start;
+      flex:0 0 280px;
+      border:1px solid var(--border);
+      background:rgba(255,255,255,0.03);
+      border-radius:var(--radius);
+      overflow:hidden;
+      display:flex;flex-direction:column;
+      min-height:420px;
+    }
+    .thumb{
+      width:100%;
+      aspect-ratio: 16 / 10;
+      background:rgba(255,255,255,0.03);
+      border-bottom:1px solid var(--border);
+      overflow:hidden;
+    }
+    .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+    .body{padding:0.95rem 0.95rem 0.9rem;display:flex;flex-direction:column;gap:0.55rem;flex:1}
+    .meta{display:flex;align-items:center;justify-content:space-between;gap:8px}
+    .store{font-size:0.72rem;color:var(--muted);font-weight:600;letter-spacing:0.08em;text-transform:uppercase}
+    .price{font-size:0.86rem;font-weight:700;color:var(--accent-warm)}
+    .title{font-size:0.98rem;font-weight:700;line-height:1.25}
+    .caption{font-size:0.82rem;color:rgba(242,240,236,0.70);line-height:1.7}
+    .why{font-size:0.76rem;color:rgba(242,240,236,0.55)}
+
+    .cta-row{margin-top:auto;display:flex;gap:10px;align-items:center}
+    .btn{
+      display:inline-flex;align-items:center;justify-content:center;gap:8px;
+      padding:10px 12px;border-radius:10px;
+      border:1px solid rgba(255,90,61,0.35);
+      background:rgba(255,90,61,0.14);
+      text-decoration:none;
+      font-weight:700;font-size:0.82rem;
+    }
+    .btn:hover{background:rgba(255,90,61,0.20)}
+    .btn-secondary{
+      border:1px solid var(--border2);
+      background:rgba(255,255,255,0.04);
+      font-weight:600;
+    }
+
+    .loading{
+      display:flex;flex-direction:column;align-items:center;justify-content:center;
+      min-height:340px;
+      gap:12px;
+      border:1px solid var(--border);
+      border-radius:var(--radius);
+      background:rgba(255,255,255,0.02);
+      padding:1.25rem;
+      text-align:center;
+    }
+    .spinner{
+      width:34px;height:34px;border-radius:999px;
+      border:2px solid rgba(255,255,255,0.14);
+      border-top-color:var(--accent-warm);
+      animation:spin 0.9s linear infinite;
+    }
+    @keyframes spin{to{transform:rotate(360deg)}}
+
+    footer{
+      margin-top:2.5rem;
+      border-top:1px solid var(--border);
+      padding:1.25rem 1.25rem 2.25rem;
+      text-align:center;
+      color:rgba(242,240,236,0.55);
+      font-size:0.78rem;
+    }
+    footer a{color:rgba(242,240,236,0.70);text-decoration:none}
+    footer a:hover{text-decoration:underline}
+
+    @media (max-width:560px){
+      .header-right{flex-direction:column;align-items:flex-end;gap:6px}
+      .pill{font-size:0.7rem}
+      .card{flex-basis:86vw}
+    }
+  </style>
 </head>
 <body>
-<a href="/moviewha/">MovieWha</a>
+  <header class="site-header">
+    <div class="brand">
+      <img class="brand-logo" src="/assets/DailyWhaDeals_Logo.svg" alt="DailyWha? Deals">
+      <div class="brand-text">
+        <div class="brand-title">DailyWha? <span style="color:var(--accent-warm)">Deals</span></div>
+        <div class="brand-sub">fresh finds, daily</div>
+      </div>
+    </div>
+    <div class="header-right">
+      <div class="date" id="site-date">Loading…</div>
+      <a class="pill" href="/moviewha/" title="MovieWha">
+        MovieWha <strong>→</strong>
+      </a>
+    </div>
+  </header>
+
+  <main id="app">
+    <div class="intro">
+      <h1>Today’s Deals</h1>
+      <p>Hand-picked links with a warm, human caption for each — updated whenever you run the generator.</p>
+    </div>
+
+    <div class="loading" id="loading">
+      <div class="spinner"></div>
+      <div style="color:var(--muted);font-weight:600;letter-spacing:0.08em;text-transform:uppercase;font-size:0.72rem">Preparing deals</div>
+      <div style="color:rgba(242,240,236,0.70);max-width:50ch">If you just updated links, run the “DailyWha Deals Update” workflow to generate today’s captions.</div>
+    </div>
+  </main>
+
+  <footer>
+    <div>Part of the <a href="https://dailywha.com">DailyWha</a> family.</div>
+    <div style="margin-top:6px">Privacy: <a href="/privacy">Policy</a> · Terms: <a href="/terms">Service</a></div>
+  </footer>
+
+  <script>
+    const CATEGORY_ORDER = ['Gear','Home','Health','Outside','Play','Read','Fashion','Gourmet'];
+
+    function el(tag, attrs = {}, children = []) {
+      const n = document.createElement(tag);
+      Object.entries(attrs).forEach(([k,v]) => {
+        if (k === 'class') n.className = v;
+        else if (k === 'html') n.innerHTML = v;
+        else n.setAttribute(k, v);
+      });
+      children.forEach(c => n.appendChild(c));
+      return n;
+    }
+
+    function scrollRow(id, dir) {
+      const sc = document.getElementById(id);
+      if (!sc) return;
+      sc.scrollBy({ left: dir * 320, behavior: 'smooth' });
+    }
+
+    function escAttr(s) {
+      return String(s || '')
+        .replace(/&/g, '&amp;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;');
+    }
+
+    function cardHtml(item) {
+      const safeImg = item.image || '';
+      const caption = item.caption || '';
+      const why = item.why || '';
+      const urlAttr = escAttr(item.url || '');
+      return `
+        <div class="thumb">${safeImg ? `<img src="${safeImg}" alt="${item.title || 'Deal'}" loading="lazy">` : ''}</div>
+        <div class="body">
+          <div class="meta">
+            <div class="store">${item.store || ''}</div>
+            <div class="price">${item.price || ''}</div>
+          </div>
+          <div class="title">${item.title || ''}</div>
+          ${caption ? `<div class="caption">${caption}</div>` : `<div class="caption" style="color:rgba(242,240,236,0.45)">Caption will appear after you run the generator.</div>`}
+          ${why ? `<div class="why">${why}</div>` : ''}
+          <div class="cta-row">
+            <a class="btn" href="${item.url || '#'}" target="_blank" rel="noopener">View deal</a>
+            <button class="btn btn-secondary" type="button" data-copy-url="${urlAttr}" onclick="copyFromBtn(this)">Copy link</button>
+          </div>
+        </div>
+      `;
+    }
+
+    function buildCategory(cat, items) {
+      const rowId = `row-${cat.toLowerCase()}`;
+      const section = el('section', { class: 'category' });
+
+      const head = el('div', { class: 'cat-head' });
+      head.appendChild(el('div', { class: 'cat-title', html: `${cat} <span>•</span> 4 picks` }));
+
+      const nav = el('div', { class: 'nav' });
+      const left = el('button', { class: 'nav-btn', title: 'Scroll left', 'aria-label': 'Scroll left' });
+      left.innerHTML = '‹';
+      left.onclick = () => scrollRow(rowId, -1);
+      const right = el('button', { class: 'nav-btn', title: 'Scroll right', 'aria-label': 'Scroll right' });
+      right.innerHTML = '›';
+      right.onclick = () => scrollRow(rowId, 1);
+      nav.appendChild(left);
+      nav.appendChild(right);
+      head.appendChild(nav);
+
+      const scroller = el('div', { class: 'scroller', id: rowId });
+      (items || []).forEach(it => {
+        const card = el('article', { class: 'card' });
+        card.innerHTML = cardHtml(it);
+        scroller.appendChild(card);
+      });
+
+      section.appendChild(head);
+      section.appendChild(scroller);
+      return section;
+    }
+
+    async function init() {
+      const app = document.getElementById('app');
+      const loading = document.getElementById('loading');
+      try {
+        const res = await fetch('/deals/today.json', { cache: 'no-store' });
+        if (!res.ok) throw new Error('Missing today.json');
+        const data = await res.json();
+        document.getElementById('site-date').textContent = data.date || '';
+
+        if (loading) loading.remove();
+
+        const cats = data.categories || {};
+        CATEGORY_ORDER.forEach(cat => {
+          app.appendChild(buildCategory(cat, cats[cat] || []));
+        });
+      } catch (e) {
+        document.getElementById('site-date').textContent = 'Not generated yet';
+      }
+    }
+
+    function copyFromBtn(btn) {
+      const url = btn && btn.getAttribute('data-copy-url');
+      if (!url) return;
+      navigator.clipboard.writeText(url).catch(() => {});
+    }
+
+    init();
+  </script>
 </body>
 </html>

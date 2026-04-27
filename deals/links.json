@@ -1,0 +1,277 @@
+{
+  "updated_at": "2026-04-27",
+  "categories": {
+    "Gear": [
+      {
+        "url": "https://amzn.to/4eLeHE4",
+        "title": "Apple 2026 MacBook Air 13-inch Laptop",
+        "image": "https://m.media-amazon.com/images/I/71rILSY5t-L._AC_SL1500_.jpg",
+        "price": "1,318.99",
+        "store": "Amazon",
+        "why": "MacBook Air with the M5 chip packs blazing speed and powerful AI capabilities into an incredibly portable design."
+      },
+      {
+        "url": "https://amzn.to/4cOfpxY",
+        "title": "Amazon Kindle Colorsoft 16 GB",
+        "image": "https://m.media-amazon.com/images/I/716721bJV3L._AC_SL1500_.jpg",
+        "price": "$189.99",
+        "store": "Amazon",
+        "why": "A brand-new experience – The Kindle Colorsoft display is optimized for reading in color and is different from the Kindle Paperwhite display, which is optimized for black and white reading."
+      },
+      {
+        "url": "https://amzn.to/4ubB6Pm",
+        "title": "GL.iNet GL-MT3000 (Beryl AX) Portable Travel Router",
+        "image": "https://m.media-amazon.com/images/I/41IiLQJghoL._AC_SL1000_.jpg",
+        "price": "98.99",
+        "store": "Amazon",
+        "why": "The Beryl AX is an ideal pocket Wi-Fi device perfect for international travel. With its compact size and travel-friendly features, the portable Wi-Fi router is the perfect companion for travelers in need of a secure internet connectivity on the go."
+      },
+      {
+        "url": "https://amzn.to/4tAXKkr",
+        "title": "Garmin vívoactive® 6 Health and Fitness GPS Smartwatch",
+        "image": "https://m.media-amazon.com/images/I/61Ig4EG1K6L._AC_SL1500_.jpg",
+        "price": "249.99",
+        "store": "Amazon",
+        "why": "Know your body better with extensive health monitoring features, including wrist-based heart rate, morning report, fitness age, stress tracking, menstrual cycle and pregnancy tracking, meditation and more"
+      }
+    ],
+    "Home": [
+      {
+        "url": "https://amzn.to/4cQkB4s",
+        "title": "Flexi Hose with 8 Function Nozzle, 50FT - Lightweight Expandable Garden Hose",
+        "image": "https://m.media-amazon.com/images/I/713hSqNT+xL._AC_SL1000_.jpg",
+        "price": "42.49",
+        "store": "Amazon",
+        "why": "The Flexi Hose expandable garden hose automatically expands to the stated product length - roughly 3 times extension - with standard pressure when water is turned on and shortens to compact length when the water is turned off. Storing the Flexi Hose is a breeze!"
+      },
+      {
+        "url": "https://amzn.to/41U1tgR",
+        "title": "Kitsch Satin Pillowcase with Zipper for Hair & Skin",
+        "image": "https://m.media-amazon.com/images/I/71nDc1YtcVL._AC_SL1500_.jpg",
+        "price": "15.19",
+        "store": "Amazon",
+        "why": "LUXURY SATIN PILLOWCASE FOR HAIR & SKIN: Wake up to smoother hair and glowing skin with our silky satin pillowcase, a luxe alternative to silk pillowcases. Designed to reduce frizz, tangles, and breakage by creating less friction than cotton pillow cases, this silk pillow case–inspired fabric also helps prevent sleep lines and facial creases."
+      },
+      {
+        "url": "https://amzn.to/4mSVFh7",
+        "title": "Solar Fountain, Solatec Solar Powered Bird Bath Fountain Pump",
+        "image": "https://m.media-amazon.com/images/I/91Jn6wRWR4L._AC_SL1500_.jpg",
+        "price": "8.75",
+        "store": "Amazon",
+        "why": "Operates entirely on solar energy, eliminating the need for batteries or electricity, saving you money and reducing your environmental impact."
+      },
+      {
+        "url": "https://amzn.to/4sUithT",
+        "title": "Fruit storage Containers for Fridge with Removable Colander and Chopper Set",
+        "image": "https://m.media-amazon.com/images/I/710pRDh9H3L._AC_SL1500_.jpg",
+        "price": "34.99",
+        "store": "Amazon",
+        "why": "Keep food fresh for longer : The berry containers for fridge have a sealed environment built with the colanders and snap locks. The built-in colander can separate water droplets attached to fruits, thereby prolonging their freshness"
+      }
+    ],
+    "Health": [
+      {
+        "url": "https://amzn.to/4mQCa8R",
+        "title": "LMNT Zero Sugar Electrolytes - Citrus Salt",
+        "image": "https://m.media-amazon.com/images/I/71Jk1OXuboL._AC_SL1500_.jpg",
+        "price": "44.97",
+        "store": "Amazon",
+        "why": "LMNT is a tasty electrolyte drink mix with everything you need and nothing you don't — perfect for training, low-carb or keto diets, fasting, and those leading active lifestyles."
+      },
+      {
+        "url": "https://amzn.to/3QAzpwv",
+        "title": "Multivitamin for Men",
+        "image": "https://m.media-amazon.com/images/I/81bPLePWJUL._AC_SL1500_.jpg",
+        "price": "18.33",
+        "store": "Amazon",
+        "why": "Focused Energy, Built for Him — Made for busy dads and driven professionals who want to power through work, workouts, and weekends — without relying on caffeine or dealing with a crash."
+      },
+      {
+        "url": "https://amzn.to/4t4cbfR",
+        "title": "Physician's CHOICE Digestive Enzymes for Bloating",
+        "image": "https://m.media-amazon.com/images/I/8180gAIXo-L._AC_SL1500_.jpg",
+        "price": "19.97",
+        "store": "Amazon",
+        "why": "16 beneficial enzymes that digest proteins, carbs, fruits, veggies, beans, dairy, & fats to cover all diets. With SBO Probiotics & Prebiotics to aid digestion further - Your New Meal Time Hack!"
+      },
+      {
+        "url": "https://amzn.to/42v0XpF",
+        "title": "Nutricost Creatine Monohydrate Powder",
+        "image": "https://m.media-amazon.com/images/I/71u8+VHFA0L._AC_SL1500_.jpg",
+        "price": "23.95",
+        "store": "Amazon",
+        "why": "500g of Creatine Monohydrate with delicious flavors!"
+      }
+    ],
+    "Outside": [
+      {
+        "url": "https://amzn.to/4cyDhXs",
+        "title": "Rantizon Swim Goggles 2 Pack",
+        "image": "https://m.media-amazon.com/images/I/61Cig2bBBSL._AC_SX466_.jpg",
+        "price": "15.99",
+        "store": "Amazon",
+        "why": "Experience an unparalleled underwater adventure with our goggles swimming adult. Our lenses offer an ultra-wide 180-degree view, giving you a crystal-clear and expansive perspective of your surroundings, making your swimming experience safer and more enjoyable. With our swim goggles, you can explore the underwater world with ease."
+      },
+      {
+        "url": "https://amzn.to/3P2YZtC",
+        "title": "Dr.meter Fish Scale",
+        "image": "https://m.media-amazon.com/images/I/61RWYQ4qk-L._AC_SL1500_.jpg",
+        "price": "5.99",
+        "store": "Amazon",
+        "why": "Digital Fish Scale with Luggage Weighing Function: Specifically designed for anglers who also travel. Weigh your fish catches up to 110lbs or use as a luggage scale for airline check-ins."
+      },
+      {
+        "url": "https://amzn.to/4n20Sn2",
+        "title": "Stanley All Day Julienne Soft Cooler Bag and Lunch Box",
+        "image": "https://m.media-amazon.com/images/I/61vyqXmDAdL._AC_SL1500_.jpg",
+        "price": "143.97",
+        "store": "Amazon",
+        "why": "COMPACT CAPACITY: Pack up to 30 cans in this Stanley soft cooler bag for a full day of refreshment. The insulated lunch bag keeps food and drinks chilled for up to 12 hours, so you can enjoy cool treats from morning to evening."
+      },
+      {
+        "url": "https://amzn.to/4cCjHtu",
+        "title": "Zikopomi Weighted Vest",
+        "image": "https://m.media-amazon.com/images/I/714uJ+AWKlL._AC_SL1500_.jpg",
+        "price": "14.99",
+        "store": "Amazon",
+        "why": "6Lb Weighted Vest adds an extra challenge to your workout routine. Its added resistance helps build strength and endurance, improving your overall fitness results."
+      }
+    ],
+    "Play": [
+      {
+        "url": "https://amzn.to/49exST8",
+        "title": "Magic: The Gathering Secrets of Strixhaven - Codex Bundle",
+        "image": "https://m.media-amazon.com/images/I/719Ra35ZgvL._AC_SL1500_.jpg",
+        "price": "219.95",
+        "store": "Amazon",
+        "why": "Paging all bookworms! This spell-bound bundle is studiously stuffed with all the extra credit any honors student could want. Buried in its pages you’ll find Collector Boosters, Play Boosters, Foil promo cards, a special Spindown, and more!"
+      },
+      {
+        "url": "https://amzn.to/4e7aeeJ",
+        "title": "Masters of the Universe Chronicles Action Figure Battle Cat",
+        "image": "https://m.media-amazon.com/images/I/814f+7VWpRL._AC_SL1500_.jpg",
+        "price": "43.19",
+        "store": "Amazon",
+        "why": "This Chronicles action figure of He-Man’s loyal steed, Battle Cat, celebrates the thrilling 2026 Masters of the Universe movie at 6.5-inch scale."
+      },
+      {
+        "url": "https://amzn.to/4ucGKAH",
+        "title": "Classic 3 Foot Bag Gift Set, Handmade",
+        "image": "https://m.media-amazon.com/images/I/71Fa5GR2MLL._AC_SL1500_.jpg",
+        "price": "25",
+        "store": "Amazon",
+        "why": "A Gift That Actually Gets Played With – Way better than the usual gift or throwaway present. These footbags get people moving and instantly become the hit of parties, camping trips, and holiday gift exchanges."
+      },
+      {
+        "url": "https://amzn.to/3QKtzZp",
+        "title": "Prang Construction Paper",
+        "image": "https://m.media-amazon.com/images/I/81hnModZswL._AC_SL1500_.jpg",
+        "price": "2.39",
+        "store": "Amazon",
+        "why": "THE GO-TO, ALL-PURPOSE PAPER: Medium weight, groundwood construction provides the best value in school grade construction paper."
+      }
+    ],
+    "Read": [
+      {
+        "url": "https://amzn.to/4uhHPaO",
+        "title": "The Tree Collectors: Tales of Arboreal Obsession",
+        "image": "https://m.media-amazon.com/images/I/817U--+H0JL._SL1500_.jpg",
+        "price": "14.77",
+        "store": "Amazon",
+        "why": "Fifty vignettes of remarkable people whose lives have been transformed by their obsessive passion for trees"
+      },
+      {
+        "url": "https://amzn.to/3OK9Jgo",
+        "title": "Micro Peas - The Mini Cookbook Series: Quick Cooking Meat",
+        "image": "https://m.media-amazon.com/images/I/81heQAB4jzL._SL1500_.jpg",
+        "price": "19.99",
+        "store": "Amazon",
+        "why": "From master chef, bestselling author, and beloved Instagram personality Danielle Renov comes the newest installment in her wildly popular MICRO PEAS SERIES."
+      },
+      {
+        "url": "https://amzn.to/3P5zzLV",
+        "title": "Knowing: The Journey to Certainty in an Uncertain World",
+        "image": "https://m.media-amazon.com/images/I/913ZJcTCbnL._SL1500_.jpg",
+        "price": "23.06",
+        "store": "Amazon",
+        "why": "The world is loud, uncertain, and unsettled--and almost everyone feels it. Concerns about the future loom while anxiety rates continue to climb across the globe. Confusion and overwhelm have become a quiet epidemic in our homes and our minds."
+      },
+      {
+        "url": "https://amzn.to/4cKpAU1",
+        "title": "The Paradigm: The Ancient Blueprint That Holds the Mystery of Our Times",
+        "image": "https://m.media-amazon.com/images/I/71qsyDW4JnL._SL1360_.jpg",
+        "price": "20.05",
+        "store": "Amazon",
+        "why": "Prepare to be stunned, shocked, illuminated, and amazed. The Paradigm will reveal secrets and mysteries taking place all around you and show you what you never could have imagined."
+      }
+    ],
+    "Fashion": [
+      {
+        "url": "https://amzn.to/4cFAdaA",
+        "title": "Flower Mesh Ribbons Feathers on a Headband",
+        "image": "https://m.media-amazon.com/images/I/71P0+KP1grL._AC_SX569_.jpg",
+        "price": "12.99",
+        "store": "Amazon",
+        "why": "Our veil fascinator hat is made of mesh, beads and faux feathers featuring polka dots design, lightweightand delicate. The classic faux pearl necklace and bracelet are shiny and elegant, and the faux pearl drop earrings are small and vintage. The satin short gloves are decorated with bow and pearls and with an oval opening design at the top, properly elasticized and displaying elegance when wearing."
+      },
+      {
+        "url": "https://amzn.to/4tB8mj5",
+        "title": "Men's Dress Shirts Long Sleeve Stretch Wrinkle Free Wedding Formal Business Button Down Shirt",
+        "image": "https://m.media-amazon.com/images/I/71j-hgpu-WL._AC_SX466_.jpg",
+        "price": "18.99",
+        "store": "Amazon",
+        "why": "Our shirt is designed for easy maintenance. You can simply machine wash it, choose to tumble dry or line dry according to your preference. And when it comes to ironing, just use a low - temperature setting to keep it looking neat and tidy"
+      },
+      {
+        "url": "https://amzn.to/3QBXEua",
+        "title": "Skechers Women's Go Walk Joy Slip-On Sneaker",
+        "image": "https://m.media-amazon.com/images/I/81EWZujRscL._AC_SY395_.jpg",
+        "price": "40",
+        "store": "Amazon",
+        "why": "Experience premium cushioning with 5GEN technology and Goga Max high rebound insole for enhanced comfort during your walks"
+      },
+      {
+        "url": "https://amzn.to/4czEyxo",
+        "title": "G Gradual Men's Athletic Workout T-Shirt",
+        "image": "https://m.media-amazon.com/images/I/71jzLJuB-IL._AC_SX466_.jpg",
+        "price": "17.99",
+        "store": "Amazon",
+        "why": "Crewneck with high-quality threads is not easily deformed and avoids irritation. Reflective G-columns on the back ensure visibility in low light, improving safety and stylish for all outdoor activities"
+      }
+    ],
+    "Gourmet": [
+      {
+        "url": "https://amzn.to/4cQRYUL",
+        "title": "The Only Bean Crunchy Dry Roasted Edamame Snacks",
+        "image": "https://m.media-amazon.com/images/I/81ozN-JIUVL._SL1500_.jpg",
+        "price": "12.72",
+        "store": "Amazon",
+        "why": "Packed with 11 grams of complete plant based protein in a convenient individual wrapped 100 calorie snack pack perfect for the gym, as office snacks, or even a school lunch snack for kids!"
+      },
+      {
+        "url": "https://amzn.to/41YuOqs",
+        "title": "PB2 Powdered Chocolate Peanut Butter with Cocoa",
+        "image": "https://m.media-amazon.com/images/I/81Vs4Av7YaL._SL1500_.jpg",
+        "price": "19.99",
+        "store": "Amazon",
+        "why": "Real Ingredients. Unreal taste."
+      },
+      {
+        "url": "https://amzn.to/3P5BWOP",
+        "title": "Propel Powder Packets, Berry (Pack of 32)",
+        "image": "https://m.media-amazon.com/images/I/81fn3y+0q3L._SL1500_.jpg",
+        "price": "17.49",
+        "store": "Amazon",
+        "why": "Everyday hydration with zero sugar. Propel delivers electrolytes to help replace what you lose in sweat so you can stay hydrated during workouts or daily activity."
+      },
+      {
+        "url": "https://amzn.to/48lgax6",
+        "title": "Gatorade G2 Thirst Quencher Sports Drink",
+        "image": "https://m.media-amazon.com/images/I/91VYg0729JL._SL1500_.jpg",
+        "price": "15.25",
+        "store": "Amazon",
+        "why": "When you sweat, you lose more than water. G2 contains critical electrolytes to help replace what’s lost in sweat"
+      }
+    ]
+  }
+}

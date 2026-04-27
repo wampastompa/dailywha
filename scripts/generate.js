@@ -1,6 +1,17 @@
 const https = require('https');
 const fs = require('fs');
 
+/** Clean API key from env (whitespace, accidental Bearer, quotes). */
+function readGroqApiKey() {
+  let k = String(process.env.GROQ_API_KEY || '');
+  k = k.trim();
+  if ((k.startsWith('"') && k.endsWith('"')) || (k.startsWith("'") && k.endsWith("'"))) {
+    k = k.slice(1, -1).trim();
+  }
+  k = k.replace(/^Bearer\s+/i, '').trim();
+  return k;
+}
+
 function normalizeReason(s) {
   if (!s || typeof s !== 'string') return s;
   return s
@@ -117,9 +128,16 @@ async function enrichPick(pick) {
 }
 
 async function main() {
-  if (!process.env.GROQ_API_KEY || !process.env.TMDB_API_KEY || !process.env.OMDB_API_KEY) {
+  const groqKey = readGroqApiKey();
+  if (!groqKey || !process.env.TMDB_API_KEY || !process.env.OMDB_API_KEY) {
     console.error('Missing required env vars: GROQ_API_KEY, TMDB_API_KEY, OMDB_API_KEY');
+    if (process.env.GROQ_API_KEY && !groqKey) {
+      console.error('(GROQ_API_KEY is set but empty after trim — check the secret value in GitHub.)');
+    }
     process.exit(1);
+  }
+  if (!groqKey.startsWith('gsk_')) {
+    console.error('GROQ_API_KEY should start with gsk_ (Groq). If you stored "Bearer ..." or extra characters, re-save the secret with only the key.');
   }
 
   const now = new Date();
@@ -203,11 +221,15 @@ Return this exact JSON structure:
     max_tokens: 2000,
     messages: [{ role: 'user', content: prompt }]
   }, {
-    'Authorization': 'Bearer ' + process.env.GROQ_API_KEY
+    'Authorization': 'Bearer ' + groqKey
   });
 
   if (!groqRes || groqRes.error) {
-    console.error('Groq API error:', groqRes && groqRes.error ? groqRes.error : groqRes);
+    const err = groqRes && groqRes.error ? groqRes.error : groqRes;
+    console.error('Groq API error:', err);
+    if (err && err.code === 'invalid_api_key') {
+      console.error('Hint: Re-copy the key from https://console.groq.com/keys — GitHub secret value must be the raw key only (no "Bearer", no quotes). Re-save GROQ_API_KEY if you pasted a different key locally.');
+    }
     throw new Error('Groq request failed');
   }
   if (!groqRes.choices || !groqRes.choices[0] || !groqRes.choices[0].message || !groqRes.choices[0].message.content) {

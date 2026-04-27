@@ -1,0 +1,31 @@
+name: DailyWha Deals Update
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate-deals:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v6
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+
+      - name: Generate deals captions
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: node scripts/generate-deals.js
+
+      - name: Commit and push deals/today.json
+        run: |
+          git config user.name "DailyWha Bot"
+          git config user.email "bot@dailywha.com"
+          git add deals/today.json
+          git diff --staged --quiet || git commit -m "Daily deals: $(date +'%Y-%m-%d')"
+          git push
+
