@@ -1,96 +1,98 @@
 {
-  "date": "Sunday, April 26, 2026",
-  "generated_at": "2026-04-26T09:54:32.324Z",
+  "date": "Monday, April 27, 2026",
+  "generated_at": "2026-04-27T11:06:16.224Z",
   "hero": {
-    "title": "Audubon",
-    "year": 2023,
-    "reason": "In honor of Audubon Day (April 26), celebrating naturalist John James Audubon's legacy, this biographical drama chronicles the life of the pioneering ornithologist and artist who revolutionized our understanding of birds and nature through his meticulous illustrations and observations.",
-    "blurb": "A visually stunning tribute to the man who taught America to see birds as subjects worthy of scientific study and artistic beauty. Audubon's passion for nature and relentless pursuit of knowledge across the frontier remains inspiring and deeply moving.",
-    "genre": "Biography / Drama",
-    "runtime_min": 59,
-    "streaming": [],
-    "cast": [
-      "David Morse",
-      "Kevin Spacey",
-      "Frances Fisher"
+    "title": "Hairspray",
+    "year": 2007,
+    "reason": "In honor of Hairstylist Appreciation Day, Hairspray stands out as a fun and energetic film celebrating the creativity and talents of hairstylists in the 1960s.",
+    "blurb": "With its catchy musical numbers and uplifting message, Hairspray is a joyful tribute to the power of hair and music to bring people together. The film features an all-star cast and impressive dance choreography.",
+    "genre": "Musical / Comedy",
+    "runtime_min": 116,
+    "streaming": [
+      "Amazon Prime"
     ],
-    "tmdb_id": 1272199,
-    "poster_path": null,
-    "trailer_key": null,
+    "cast": [
+      "John Travolta",
+      "Queen Latifah",
+      "Michelle Pfeiffer"
+    ],
+    "tmdb_id": 2976,
+    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
+    "trailer_key": "hsFtWsRn99U",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": null
+    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
   },
   "released": {
-    "title": "A Serious Man",
-    "year": 2009,
-    "reason": "Released today in 2009, this Coen Brothers masterpiece about an ordinary man's unraveling life during suburban Jewish Minnesota crisis remains a darkly comic meditation on faith, uncertainty, and the absurdity of everyday suffering.",
-    "blurb": "A brilliantly twisted examination of job loss, family chaos, and spiritual desperation wrapped in pitch-black comedy. Michael Stuhlbarg delivers a career-defining performance as a man desperately seeking meaning in a meaningless universe.",
-    "genre": "Comedy / Drama",
-    "runtime_min": 106,
+    "title": "Next",
+    "year": 2007,
+    "reason": "Released today in 2007, Next is an action-thriller that still holds up today with its unique blend of sci-fi and suspense.",
+    "blurb": "With Nicolas Cage starring as a man who can see into his future, Next offers a thrilling ride full of twists and turns. The film's fast-paced action sequences and intriguing plot make it a compelling watch.",
+    "genre": "Action / Thriller",
+    "runtime_min": 96,
     "streaming": [
-      "Netflix"
+      "Paramount+"
     ],
     "cast": [
-      "Michael Stuhlbarg",
-      "Richard Kind",
-      "Sari Lennick"
+      "Nicolas Cage",
+      "Jessica Biel",
+      "Julianne Moore"
     ],
-    "tmdb_id": 12573,
-    "poster_path": "/5gGxDS8WmrebPlMHexVS8EVehiP.jpg",
-    "trailer_key": "mDKHWRbK2_Q",
+    "tmdb_id": 1738,
+    "poster_path": "/wtBOCJBCP0MWNjmBwjMAzbwgtTK.jpg",
+    "trailer_key": "wOLv3cqeolk",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/12573-a-serious-man/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/1738-next/watch?locale=US"
   },
   "birthday": {
-    "title": "In Good Company",
-    "year": 2004,
-    "reason": "Happy birthday to Chloë Sevigny (born April 26, 1974). This romantic comedy perfectly showcases her wit and charm as a young woman navigating love and career ambitions in the high-pressure world of magazine publishing.",
-    "blurb": "A smart, breezy romantic comedy elevated by great chemistry and witty banter about age gaps and workplace dynamics. Chloë Sevigny brings intelligence and warmth to a character caught between two very different men.",
-    "genre": "Comedy / Romance",
+    "title": "The Devil's Advocate",
+    "year": 1997,
+    "reason": "Happy birthday to Al Pacino, born April 27, 1940, The Devil's Advocate is a classic film that showcases his incredible acting talents as the charismatic and mysterious John Milton.",
+    "blurb": "This supernatural thriller follows a young lawyer who discovers his boss is the devil, and Al Pacino's performance is both captivating and chilling. The film's dark and suspenseful atmosphere makes it a gripping watch.",
+    "genre": "Thriller / Drama",
     "cast": [
-      "Chloë Sevigny",
-      "Dennis Quaid",
-      "Topher Grace"
+      "Al Pacino",
+      "Keanu Reeves",
+      "Charlize Theron"
     ],
-    "tmdb_id": 1901,
-    "poster_path": "/5H3fbU4NlHPbLf3MUFZwPdmD3nS.jpg",
-    "trailer_key": "8M7z4LoGVEY",
+    "tmdb_id": 1813,
+    "poster_path": "/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
+    "trailer_key": "etrZJJC4ox8",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 110,
-    "watch_url": "https://www.themoviedb.org/movie/1901-in-good-company/watch?locale=US",
-    "streaming": []
+    "runtime_min": 144,
+    "watch_url": "https://www.themoviedb.org/movie/1813-the-devil-s-advocate/watch?locale=US",
+    "streaming": [
+      "Criterion Channel"
+    ]
   },
   "awful": {
-    "title": "Birdemic: Shock and Terror",
-    "year": 2010,
-    "reason": "A legendarily incompetent creature feature where rubber birds attack California with all the terror of angry pool toys, creating an unintentional masterpiece of how not to make a movie.",
-    "blurb": "Prepare yourself for some of the worst dialogue, cheapest special effects, and most baffling creative choices ever committed to film. It's so spectacularly terrible that it has achieved cult immortality as peak bad-movie entertainment.",
-    "genre": "Horror / Sci-Fi",
+    "title": "I Know Who Killed Me",
+    "year": 2007,
+    "reason": "a famously bad movie with terrible reviews, I Know Who Killed Me is a convoluted and confusing thriller that fails to deliver on its promising premise.",
+    "blurb": "With a nonsensical plot and poor acting, this film is a cringeworthy mess that's so bad it's almost good. Lindsay Lohan's performance is particularly disappointing, making this a skippable movie.",
+    "genre": "Thriller / Mystery",
     "cast": [
-      "Alan Bagh",
-      "Whitney Moore"
+      "Lindsay Lohan",
+      "Julia Ormond",
+      "Neal McDonough"
     ],
-    "tmdb_id": 40016,
-    "poster_path": "/gqmcAVNNUosB55RliecFYnkWT4M.jpg",
-    "trailer_key": "jE5dJDgZ644",
+    "tmdb_id": 5857,
+    "poster_path": "/7hz8jYHGNsNsnF0FPngxQEEVyR6.jpg",
+    "trailer_key": "KSZ98kUVQFo",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 93,
-    "watch_url": "https://www.themoviedb.org/movie/40016-birdemic-shock-and-terror/watch?locale=US",
-    "streaming": [
-      "Amazon Prime Video",
-      "Amazon Prime Video with Ads"
-    ]
+    "runtime_min": 105,
+    "watch_url": "https://www.themoviedb.org/movie/5857-i-know-who-killed-me/watch?locale=US",
+    "streaming": []
   }
 }
