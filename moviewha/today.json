@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, April 26, 2026",
-  "generated_at": "2026-04-26T21:58:23.660Z",
+  "date": "Monday, April 27, 2026",
+  "generated_at": "2026-04-27T11:06:16.224Z",
   "hero": {
     "title": "Hairspray",
     "year": 2007,
-    "reason": "In honor of World Intellectual Property Day, Hairspray is a movie that celebrates self-expression and creativity, values that are at the heart of intellectual property.",
-    "blurb": "This musical comedy is a fun and upbeat film that showcases the importance of individuality and innovation. With its catchy soundtrack and energetic dance numbers, Hairspray is a movie that will leave you feeling inspired and empowered.",
+    "reason": "In honor of Hairstylist Appreciation Day, Hairspray stands out as a fun and energetic film celebrating the creativity and talents of hairstylists in the 1960s.",
+    "blurb": "With its catchy musical numbers and uplifting message, Hairspray is a joyful tribute to the power of hair and music to bring people together. The film features an all-star cast and impressive dance choreography.",
     "genre": "Musical / Comedy",
     "runtime_min": 116,
     "streaming": [
@@ -26,62 +26,59 @@
     "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
   },
   "released": {
-    "title": "The Hitcher",
+    "title": "Next",
     "year": 2007,
-    "reason": "Released today in 2007, The Hitcher is a suspenseful thriller that still holds up today with its tense atmosphere and strong performances.",
-    "blurb": "This movie is a gripping road trip thriller that will keep you on the edge of your seat. With its twists and turns, The Hitcher is a wild ride that you won't want to miss.",
-    "genre": "Thriller / Horror",
-    "runtime_min": 98,
+    "reason": "Released today in 2007, Next is an action-thriller that still holds up today with its unique blend of sci-fi and suspense.",
+    "blurb": "With Nicolas Cage starring as a man who can see into his future, Next offers a thrilling ride full of twists and turns. The film's fast-paced action sequences and intriguing plot make it a compelling watch.",
+    "genre": "Action / Thriller",
+    "runtime_min": 96,
     "streaming": [
-      "Cinemax Amazon Channel",
-      "Cinemax Apple TV Channel"
+      "Paramount+"
     ],
     "cast": [
-      "Sean Bean",
-      "Sophia Bush",
-      "Zachary Knighton"
+      "Nicolas Cage",
+      "Jessica Biel",
+      "Julianne Moore"
     ],
-    "tmdb_id": 9542,
-    "poster_path": "/89giuiFssSVCUxkCP386v66cry8.jpg",
-    "trailer_key": "dTs-9jKh5_U",
+    "tmdb_id": 1738,
+    "poster_path": "/wtBOCJBCP0MWNjmBwjMAzbwgtTK.jpg",
+    "trailer_key": "wOLv3cqeolk",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/9542-the-hitcher/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/1738-next/watch?locale=US"
   },
   "birthday": {
-    "title": "The Big Lebowski",
-    "year": 1998,
-    "reason": "Happy birthday to Carol Kane, The Big Lebowski is a quirky comedy that showcases her unique talent and offbeat charm.",
-    "blurb": "This cult classic is a hilarious and offbeat comedy that has become a staple of modern cinema. With its eccentric characters and witty dialogue, The Big Lebowski is a movie that will leave you laughing and entertained.",
-    "genre": "Comedy / Crime",
+    "title": "The Devil's Advocate",
+    "year": 1997,
+    "reason": "Happy birthday to Al Pacino, born April 27, 1940, The Devil's Advocate is a classic film that showcases his incredible acting talents as the charismatic and mysterious John Milton.",
+    "blurb": "This supernatural thriller follows a young lawyer who discovers his boss is the devil, and Al Pacino's performance is both captivating and chilling. The film's dark and suspenseful atmosphere makes it a gripping watch.",
+    "genre": "Thriller / Drama",
     "cast": [
-      "Carol Kane",
-      "Jeff Bridges",
-      "John Goodman"
+      "Al Pacino",
+      "Keanu Reeves",
+      "Charlize Theron"
     ],
-    "tmdb_id": 115,
-    "poster_path": "/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
-    "trailer_key": "GiwMMziJdqg",
+    "tmdb_id": 1813,
+    "poster_path": "/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
+    "trailer_key": "etrZJJC4ox8",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 117,
-    "watch_url": "https://www.themoviedb.org/movie/115-the-big-lebowski/watch?locale=US",
+    "runtime_min": 144,
+    "watch_url": "https://www.themoviedb.org/movie/1813-the-devil-s-advocate/watch?locale=US",
     "streaming": [
-      "Amazon Prime Video",
-      "YouTube TV",
-      "Amazon Prime Video with Ads"
+      "Criterion Channel"
     ]
   },
   "awful": {
     "title": "I Know Who Killed Me",
     "year": 2007,
-    "reason": "This psychological thriller is infamous for its confusing plot and poor acting, making it a notoriously bad movie with terrible reviews.",
-    "blurb": "This movie is a cringeworthy mess that will leave you scratching your head. With its nonsensical plot twists and over-the-top performances, I Know Who Killed Me is a trainwreck that you can't look away from.",
-    "genre": "Thriller / Drama",
+    "reason": "a famously bad movie with terrible reviews, I Know Who Killed Me is a convoluted and confusing thriller that fails to deliver on its promising premise.",
+    "blurb": "With a nonsensical plot and poor acting, this film is a cringeworthy mess that's so bad it's almost good. Lindsay Lohan's performance is particularly disappointing, making this a skippable movie.",
+    "genre": "Thriller / Mystery",
     "cast": [
       "Lindsay Lohan",
       "Julia Ormond",
