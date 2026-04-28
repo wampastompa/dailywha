@@ -1,11 +1,11 @@
 {
-  "date": "Monday, April 27, 2026",
-  "generated_at": "2026-04-27T11:06:16.224Z",
+  "date": "Tuesday, April 28, 2026",
+  "generated_at": "2026-04-28T11:06:46.882Z",
   "hero": {
     "title": "Hairspray",
     "year": 2007,
-    "reason": "In honor of Hairstylist Appreciation Day, Hairspray stands out as a fun and energetic film celebrating the creativity and talents of hairstylists in the 1960s.",
-    "blurb": "With its catchy musical numbers and uplifting message, Hairspray is a joyful tribute to the power of hair and music to bring people together. The film features an all-star cast and impressive dance choreography.",
+    "reason": "In honor of World Day for Safety and Health at Work, we choose a film that celebrates unity and acceptance in the workplace, as the characters in Hairspray come together to integrate a local dance show.",
+    "blurb": "Hairspray is a fun, energetic film that combines music and dance to tell a story of overcoming adversity. With its upbeat soundtrack and impressive choreography, this movie is sure to leave you smiling.",
     "genre": "Musical / Comedy",
     "runtime_min": 116,
     "streaming": [
@@ -26,58 +26,61 @@
     "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
   },
   "released": {
-    "title": "Next",
+    "title": "The Hitcher",
     "year": 2007,
-    "reason": "Released today in 2007, Next is an action-thriller that still holds up today with its unique blend of sci-fi and suspense.",
-    "blurb": "With Nicolas Cage starring as a man who can see into his future, Next offers a thrilling ride full of twists and turns. The film's fast-paced action sequences and intriguing plot make it a compelling watch.",
-    "genre": "Action / Thriller",
-    "runtime_min": 96,
+    "reason": "Released today in 2007, this horror thriller still delivers plenty of suspense and scares, with a gripping storyline that keeps viewers on the edge of their seats.",
+    "blurb": "The Hitcher is a tense, well-crafted film that explores the dangers of picking up strangers. With strong performances from its cast, this movie is a must-see for fans of the horror genre.",
+    "genre": "Horror / Thriller",
+    "runtime_min": 98,
     "streaming": [
-      "Paramount+"
+      "Cinemax Amazon Channel",
+      "Cinemax Apple TV Channel"
     ],
     "cast": [
-      "Nicolas Cage",
-      "Jessica Biel",
-      "Julianne Moore"
+      "Sean Bean",
+      "Sophia Bush",
+      "Zachary Knighton"
     ],
-    "tmdb_id": 1738,
-    "poster_path": "/wtBOCJBCP0MWNjmBwjMAzbwgtTK.jpg",
-    "trailer_key": "wOLv3cqeolk",
+    "tmdb_id": 9542,
+    "poster_path": "/89giuiFssSVCUxkCP386v66cry8.jpg",
+    "trailer_key": "dTs-9jKh5_U",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/1738-next/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/9542-the-hitcher/watch?locale=US"
   },
   "birthday": {
-    "title": "The Devil's Advocate",
-    "year": 1997,
-    "reason": "Happy birthday to Al Pacino, born April 27, 1940, The Devil's Advocate is a classic film that showcases his incredible acting talents as the charismatic and mysterious John Milton.",
-    "blurb": "This supernatural thriller follows a young lawyer who discovers his boss is the devil, and Al Pacino's performance is both captivating and chilling. The film's dark and suspenseful atmosphere makes it a gripping watch.",
-    "genre": "Thriller / Drama",
+    "title": "Spaceballs",
+    "year": 1987,
+    "reason": "Happy birthday to Jessica Rue, but more notably Kari Wuhrer and Ann Magnuson aren't our pick,  Happy birthday to Ann Magnuson (born April 28, 1956), as she stars in this hilarious science fiction parody that spoofs some of the most iconic films in the genre.",
+    "blurb": "Spaceballs is a side-splitting comedy that lovingly sends up science fiction classics like Star Wars. With its witty dialogue and over-the-top characters, this movie is a must-see for fans of Mel Brooks.",
+    "genre": "Science Fiction / Comedy",
     "cast": [
-      "Al Pacino",
-      "Keanu Reeves",
-      "Charlize Theron"
+      "Ann Magnuson",
+      "Mel Brooks",
+      "John Candy"
     ],
-    "tmdb_id": 1813,
-    "poster_path": "/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
-    "trailer_key": "etrZJJC4ox8",
+    "tmdb_id": 957,
+    "poster_path": "/kNbaxEsnCyWBTfANVPHayujBsxp.jpg",
+    "trailer_key": "LYqTjnSrDuQ",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 144,
-    "watch_url": "https://www.themoviedb.org/movie/1813-the-devil-s-advocate/watch?locale=US",
+    "runtime_min": 96,
+    "watch_url": "https://www.themoviedb.org/movie/957-spaceballs/watch?locale=US",
     "streaming": [
-      "Criterion Channel"
+      "Amazon Prime Video",
+      "AMC Plus Apple TV Channel ",
+      "AMC+ Amazon Channel"
     ]
   },
   "awful": {
     "title": "I Know Who Killed Me",
     "year": 2007,
-    "reason": "a famously bad movie with terrible reviews, I Know Who Killed Me is a convoluted and confusing thriller that fails to deliver on its promising premise.",
-    "blurb": "With a nonsensical plot and poor acting, this film is a cringeworthy mess that's so bad it's almost good. Lindsay Lohan's performance is particularly disappointing, making this a skippable movie.",
+    "reason": "a famously bad movie with terrible reviews, I Know Who Killed Me is a convoluted thriller that fails to deliver on its intriguing premise.",
+    "blurb": "I Know Who Killed Me is a mess of a film, with a nonsensical plot and poor performances from its cast. Despite its best efforts, this movie is a chore to watch from start to finish.",
     "genre": "Thriller / Mystery",
     "cast": [
       "Lindsay Lohan",
