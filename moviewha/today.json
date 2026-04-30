@@ -1,33 +1,35 @@
 {
-  "date": "Wednesday, April 29, 2026",
-  "generated_at": "2026-04-29T10:58:13.107Z",
+  "date": "Thursday, April 30, 2026",
+  "generated_at": "2026-04-30T10:56:22.284Z",
   "hero": {
-    "title": "The Day After",
-    "year": 1983,
-    "reason": "In honor of International Dance Day, The Day After is a film that portrays the importance of human connection and community, values that are also reflected in the universal language of dance.",
-    "blurb": "This powerful film depicts the aftermath of a nuclear disaster and serves as a reminder of the importance of human relationships. With its strong message and emotional impact, it's a must-watch.",
-    "genre": "Drama",
-    "runtime_min": 127,
-    "streaming": [],
-    "cast": [
-      "Jason Robards",
-      "JoBeth Williams",
-      "Steve Guttenberg"
+    "title": "Hairspray",
+    "year": 2007,
+    "reason": "In honor of Adopt a Shelter Pet Day, Hairspray is a fun and upbeat film that features a variety of pet adoption themes and a heartwarming story about self-acceptance and community, making it a great choice for this observance.",
+    "blurb": "Hairspray is a classic musical comedy that will have you dancing in your seat with its catchy tunes and lovable characters. With a talented cast and impressive choreography, this film is sure to delight audiences of all ages.",
+    "genre": "Comedy / Musical",
+    "runtime_min": 116,
+    "streaming": [
+      "Amazon Prime"
     ],
-    "tmdb_id": 7012,
-    "poster_path": "/brieV17D6R6HcubOqehLNYuxnvs.jpg",
-    "trailer_key": "gIk6aBLCoHg",
+    "cast": [
+      "John Travolta",
+      "Queen Latifah",
+      "Zac Efron"
+    ],
+    "tmdb_id": 2976,
+    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
+    "trailer_key": "hsFtWsRn99U",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": null
+    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
   },
   "released": {
     "title": "Disturbia",
     "year": 2007,
-    "reason": "Released today in 2007, Disturbia is a gripping thriller that pays homage to Hitchcock's Rear Window, offering a fresh take on the classic voyeuristic theme.",
-    "blurb": "This suspenseful film follows a teenager who becomes convinced that his neighbor is a serial killer, keeping viewers on the edge of their seats. With its clever plot twists and relatable characters, it's a great watch.",
+    "reason": "Released today in 2007, Disturbia is a gripping thriller that showcases Shia LaBeouf's talents as a young actor and pays homage to the classic Hitchcock film Rear Window, making it a notable release on this day.",
+    "blurb": "Disturbia is a tense and suspenseful film that will keep you on the edge of your seat as you follow the story of a teenage boy who becomes convinced that his neighbor is a serial killer. With its clever plot twists and strong performances, this movie is a must-see for fans of the thriller genre.",
     "genre": "Mystery / Thriller",
     "runtime_min": 105,
     "streaming": [
@@ -36,8 +38,8 @@
     ],
     "cast": [
       "Shia LaBeouf",
-      "Carrie-Anne Moss",
-      "David Morse"
+      "David Morse",
+      "Carrie-Anne Moss"
     ],
     "tmdb_id": 8271,
     "poster_path": "/3f9KwSrieczuH9nRrwfOsoMoMNd.jpg",
@@ -49,51 +51,53 @@
     "watch_url": "https://www.themoviedb.org/movie/8271-disturbia/watch?locale=US"
   },
   "birthday": {
-    "title": "The Prophecy",
-    "year": 1995,
-    "reason": "Happy birthday to Daniel Day-Lewis, The Prophecy is an action-packed fantasy film that showcases his range and talent as an actor, even in a supporting role.",
-    "blurb": "This dark fantasy film explores the battle between good and evil, with an all-star cast and impressive action sequences. Daniel Day-Lewis's performance adds depth to the story.",
-    "genre": "Action / Fantasy",
+    "title": "Clue",
+    "year": 1985,
+    "reason": "Happy birthday to Christopher Lloyd, Clue is a hilarious comedy classic that showcases his talents as a comedic actor and features a star-studded cast, including Tim Curry and Madeline Kahn.",
+    "blurb": "Clue is a sidesplitting mystery comedy that will have you laughing out loud with its witty dialogue and physical humor. With its intricate plot and talented cast, this film is a must-see for fans of the genre.",
+    "genre": "Comedy / Mystery",
     "cast": [
-      "Daniel Day-Lewis",
-      "Christopher Walken",
-      "Eric Stoltz"
+      "Christopher Lloyd",
+      "Tim Curry",
+      "Madeline Kahn"
     ],
-    "tmdb_id": 11980,
-    "poster_path": "/4ZWFhQipzBHJze2llzCzhrSIZsn.jpg",
-    "trailer_key": "okN79Z_uw9Y",
+    "tmdb_id": 15196,
+    "poster_path": "/aRxbYOYHS8T73nzR8hsLousoplR.jpg",
+    "trailer_key": "KEXdWfsKZ1k",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 98,
-    "watch_url": "https://www.themoviedb.org/movie/11980-the-prophecy/watch?locale=US",
+    "runtime_min": 94,
+    "watch_url": "https://www.themoviedb.org/movie/15196-clue/watch?locale=US",
     "streaming": [
-      "fuboTV",
-      "Paramount Plus Premium",
-      "Paramount Plus Essential"
+      "MGM Plus Roku Premium Channel"
     ]
   },
   "awful": {
-    "title": "I Know Who Killed Me",
-    "year": 2007,
-    "reason": "a famously bad movie with terrible reviews, I Know Who Killed Me is a mess of a thriller that fails to deliver on its intriguing premise.",
-    "blurb": "This convoluted film tries to pass off its nonsensical plot as clever, but ends up being a boring and confusing mess. With a talented cast wasted in underwritten roles, it's a shame this movie didn't live up to its potential.",
-    "genre": "Mystery / Thriller",
+    "title": "Son of the Mask",
+    "year": 2005,
+    "reason": "This infamous comedy is often cited as one of the worst sequels of all time, with a convoluted plot and cringeworthy performances that make it a fascinatingly bad watch.",
+    "blurb": "Son of the Mask is a laughably bad film that will have you questioning the sanity of the people who made it. With its nonsensical plot and atrocious acting, this movie is a trainwreck that you won't be able to look away from.",
+    "genre": "Comedy / Fantasy",
     "cast": [
-      "Lindsay Lohan",
-      "Julia Ormond",
-      "Neal McDonough"
+      "Jamie Kennedy",
+      "Alan Cumming",
+      "Traylor Howard"
     ],
-    "tmdb_id": 5857,
-    "poster_path": "/7hz8jYHGNsNsnF0FPngxQEEVyR6.jpg",
-    "trailer_key": "KSZ98kUVQFo",
+    "tmdb_id": 10214,
+    "poster_path": "/Adgnfhm9B8YAQmC0osuP4zO9SRc.jpg",
+    "trailer_key": "FKwtGHbpVDU",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 105,
-    "watch_url": "https://www.themoviedb.org/movie/5857-i-know-who-killed-me/watch?locale=US",
-    "streaming": []
+    "runtime_min": 94,
+    "watch_url": "https://www.themoviedb.org/movie/10214-son-of-the-mask/watch?locale=US",
+    "streaming": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Cinemax Amazon Channel"
+    ]
   }
 }
