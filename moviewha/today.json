@@ -1,35 +1,36 @@
 {
-  "date": "Friday, May 1, 2026",
-  "generated_at": "2026-05-01T10:23:45.874Z",
+  "date": "Saturday, May 2, 2026",
+  "generated_at": "2026-05-02T09:58:36.015Z",
   "hero": {
-    "title": "Mayday",
-    "year": 2001,
-    "reason": "In honor of May Day, a traditional spring holiday celebrated on May 1, this film's setting and themes of renewal make it a fitting choice for today.",
-    "blurb": "Mayday is a thought-provoking drama that explores the complexities of human relationships, set against the backdrop of a mysterious and potentially catastrophic event. With its strong performances and tight direction, this film is sure to leave you on the edge of your seat. As the world celebrates the arrival of spring, Mayday offers a compelling and unsettling counterpoint.",
-    "genre": "Drama / Thriller",
-    "runtime_min": 94,
+    "title": "Space Jam",
+    "year": 1996,
+    "reason": "In honor of National Space Day, a fun-filled day to appreciate the wonders of space and our favorite athletes who have taken their talents to new heights, or in this case, new courts.",
+    "blurb": "Get ready to slam dunk with Michael Jordan and the Looney Tunes gang in this out-of-this-world sports comedy. A fun film for the whole family, Space Jam is a classic that never gets old.",
+    "genre": "Comedy / Family",
+    "runtime_min": 87,
     "streaming": [
-      "Amazon Prime"
+      "Peacock Premium",
+      "Peacock Premium Plus"
     ],
     "cast": [
-      " Aidan Gillen",
-      "Kate Ashfield",
-      "Jack Shepherd"
+      "Michael Jordan",
+      "Billy West",
+      "Wayne Knight"
     ],
-    "tmdb_id": 84730,
-    "poster_path": "/7DoKpFsGusnSuHTAOcED2O6ziSB.jpg",
-    "trailer_key": null,
+    "tmdb_id": 2300,
+    "poster_path": "/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg",
+    "trailer_key": "v98aXG562h4",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": null
+    "watch_url": "https://www.themoviedb.org/movie/2300-space-jam/watch?locale=US"
   },
   "released": {
     "title": "Spider-Man 3",
     "year": 2007,
-    "reason": "Released today in 2007, this superhero blockbuster marked a significant milestone in the Spider-Man franchise, with its visually stunning action sequences and intricate plot twists.",
-    "blurb": "Spider-Man 3 is an action-packed adventure that brings together memorable characters, stunning visuals, and a gripping narrative. While it may not be the strongest installment in the series, it still delivers plenty of excitement and fan service. With its blend of humor, drama, and spectacle, this film remains an enjoyable ride.",
+    "reason": "Released today in 2007, this film marks a pivotal moment in the Spider-Man franchise, with Tobey Maguire reprising his role as the web-slinging hero and facing off against a new villain.",
+    "blurb": "The third installment of the Spider-Man trilogy brings even more action and excitement, with Spider-Man facing off against the Sandman and Venom. With stunning visuals and thrilling fight scenes, this film is a must-see for fans of the series.",
     "genre": "Action / Adventure",
     "runtime_min": 139,
     "streaming": [
@@ -52,51 +53,47 @@
     "watch_url": "https://www.themoviedb.org/movie/559-spider-man-3/watch?locale=US"
   },
   "birthday": {
-    "title": "Glory",
-    "year": 1989,
-    "reason": "Happy birthday to Glenn Robinson, however a more suitable actor is Glenn Ford wasn't born today but another actor was, Happy birthday to Tim McGraw, but actually Happy birthday to Judy Collins, however a more notable person was indeed born, Happy birthday to Judy Collins, but actually a more film-specific actor is Glenn Ford wasn't but actually Tim Curry wasn't either however Glenn Ford was not but another actor was indeed born today: Tim(othy) was not but actually Glenn was not either, Happy birthday to Glenn Ford wasn't but actually Tim Robbins wasn't either however another actor was, but actually Happy birthday to Glenn Ford was not but actually Tim(othy) Mc Graw and Tim Robbins were not however one film actor actually was indeed: Tim wasn't however one was:  Glenn was not however actually one was indeed, Tim Robbins, Happy birthday to Tim Robbins, born May 1, 1958, who delivers a powerful performance in this Civil War drama.",
-    "blurb": "Glory is a powerful and moving drama that tells the story of the first all-black regiment in the American Civil War, with outstanding performances from its talented cast. Tim Robbins brings depth and nuance to his role, helping to make this film a memorable and impactful experience.",
-    "genre": "Drama / History",
+    "title": "Lone Star",
+    "year": 1996,
+    "reason": "Happy birthday to Elizabeth Peña, born May 2, 1961, a talented actress who brought depth and nuance to her roles, including this critically acclaimed drama.",
+    "blurb": "This powerful film explores themes of identity, community, and social justice, with a talented ensemble cast. Elizabeth Peña shines in her role, bringing warmth and authenticity to the story.",
+    "genre": "Drama",
     "cast": [
-      "Tim Robbins",
-      "Matthew Broderick",
-      "Denzel Washington"
+      "Elizabeth Peña",
+      "Chris Cooper",
+      "Matthew McConaughey"
     ],
-    "tmdb_id": 9665,
-    "poster_path": "/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
-    "trailer_key": "-OS-OE1EcHI",
+    "tmdb_id": 26748,
+    "poster_path": "/lBxY8znsRoqa9Dy2NCe8I6GPsRm.jpg",
+    "trailer_key": "UffK-IHM1B0",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 122,
-    "watch_url": "https://www.themoviedb.org/movie/9665-glory/watch?locale=US",
-    "streaming": [
-      "Netflix",
-      "YouTube TV",
-      "Netflix Standard with Ads"
-    ]
+    "runtime_min": 135,
+    "watch_url": "https://www.themoviedb.org/movie/26748-lone-star/watch?locale=US",
+    "streaming": []
   },
   "awful": {
-    "title": "Battlefield Earth",
-    "year": 2000,
-    "reason": "a famously bad movie with terrible reviews, numerous Razzie Awards, and a reputation for being one of the worst films of the 2000s, making it a prime candidate for a so-bad-it's-good viewing experience.",
-    "blurb": "Battlefield Earth is a mind-bogglingly bad sci-fi epic, with cringe-worthy dialogue, atrocious acting, and a convoluted plot that defies comprehension. While it's certainly a trainwreck, it's also a fascinating case study in how not to make a movie, making it a morbidly entertaining watch for fans of cinematic disasters.",
-    "genre": "Science Fiction",
+    "title": "The Happening",
+    "year": 2008,
+    "reason": "A famously bad movie with terrible reviews, The Happening is a laughable disaster that will leave you questioning the sanity of the filmmakers.",
+    "blurb": "With a ridiculous plot, cringe-worthy dialogue, and over-the-top performances, this film is a masterpiece of bad cinema. If you're looking for a guilty pleasure or a movie to mock with friends, The Happening is the perfect choice.",
+    "genre": "Thriller",
     "cast": [
-      "John Travolta",
-      "Barry Pepper",
-      "Forest Whitaker"
+      "Mark Wahlberg",
+      "Zooey Deschanel",
+      "John Leguizamo"
     ],
-    "tmdb_id": 5491,
-    "poster_path": "/wXCRuBHdJ5aTFQdsuGJFXNdo79T.jpg",
-    "trailer_key": "8jqxSFn4Uoc",
+    "tmdb_id": 8645,
+    "poster_path": "/fP4nBrtmc0teSDDHzYmDE7TLQBT.jpg",
+    "trailer_key": "TIQ21m1Ks08",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 119,
-    "watch_url": "https://www.themoviedb.org/movie/5491-battlefield-earth/watch?locale=US",
+    "runtime_min": 90,
+    "watch_url": "https://www.themoviedb.org/movie/8645-the-happening/watch?locale=US",
     "streaming": []
   }
 }
