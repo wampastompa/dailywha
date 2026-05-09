@@ -1,35 +1,35 @@
 {
-  "date": "Thursday, May 7, 2026",
-  "generated_at": "2026-05-07T11:10:12.804Z",
+  "date": "Saturday, May 9, 2026",
+  "generated_at": "2026-05-09T10:06:22.886Z",
   "hero": {
-    "title": "Space Jam",
-    "year": 1996,
-    "reason": "In honor of National Teacher Appreciation Day, let's appreciate the teaching skills of Mr. Shhh in this unforgettable classic, where Michael Jordan teams up with Looney Tunes to save their planet.",
-    "blurb": "This movie is a nostalgic blast from the past, bringing together the worlds of sports and cartoons in a hilarious and action-packed way. With its lighthearted humor and entertaining storyline, it's a great choice for the whole family to enjoy. The combination of live-action and animation is still impressive today.",
-    "genre": "Comedy / Family",
-    "runtime_min": 87,
+    "title": "Lost in Translation",
+    "year": 2003,
+    "reason": "In honor of Lost Sock Memorial Day, celebrating the little things that get lost in life, this film is a poignant reminder of human connection in the unlikeliest of places.",
+    "blurb": "A poignant exploration of loneliness and connection, Lost in Translation features stunning performances from its leads. With its thought-provoking themes and beautiful cinematography, this film is a must-see.",
+    "genre": "Drama / Romance",
+    "runtime_min": 102,
     "streaming": [
-      "HBO Max"
+      "Amazon Prime"
     ],
     "cast": [
-      "Michael Jordan",
-      "Looney Tunes",
-      "Bill Murray"
+      "Bill Murray",
+      "Scarlett Johansson",
+      "Giovanni Ribisi"
     ],
-    "tmdb_id": 2300,
-    "poster_path": "/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg",
-    "trailer_key": "v98aXG562h4",
+    "tmdb_id": 153,
+    "poster_path": "/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
+    "trailer_key": "1s4YQqnbnM8",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/2300-space-jam/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/153-lost-in-translation/watch?locale=US"
   },
   "released": {
     "title": "Spider-Man 3",
     "year": 2007,
-    "reason": "Released today in 2007, this superhero blockbuster brought the web-slinging hero back to the big screen with a darker and more complex storyline, exploring the consequences of Peter Parker's actions.",
-    "blurb": "The third installment in the Spider-Man trilogy, this movie offers plenty of action, drama, and romance, with a talented cast and impressive visual effects. Although it received mixed reviews at the time, it remains a fun and entertaining addition to the Marvel universe.",
+    "reason": "Released today in 2007, this film marked a pivotal moment in the Spider-Man franchise, exploring the complexities of heroism and the darker side of power.",
+    "blurb": "The third installment of the Spider-Man series brings together action, drama, and romance in a thrilling narrative. With its iconic villain and memorable plot twists, this film is a classic superhero movie.",
     "genre": "Action / Adventure",
     "runtime_min": 139,
     "streaming": [
@@ -52,47 +52,53 @@
     "watch_url": "https://www.themoviedb.org/movie/559-spider-man-3/watch?locale=US"
   },
   "birthday": {
-    "title": "Wild at Heart",
-    "year": 1990,
-    "reason": "Happy birthday to Nicholas Cage, born May 7, 1964, starring in this crime drama as Sailor Ripley, a rough-riding ex-con with a heart of gold.",
-    "blurb": "This film is a gripping and intense adaptation of Barry Gifford's novel, with Cage delivering a powerful performance alongside Laura Dern. The chemistry between the leads is undeniable, and the supporting cast adds to the movie's dark charm.",
-    "genre": "Drama / Crime",
+    "title": "Road House",
+    "year": 1989,
+    "reason": "Happy birthday to Johnathon Schaech, born May 9, 1969, starring in this iconic film that showcases his talent as a charismatic and rugged actor.",
+    "blurb": "This classic action-drama film features an unforgettable performance from Patrick Swayze, with Johnathon Schaech playing a supporting role. With its intense fight scenes and memorable characters, Road House is a cult classic.",
+    "genre": "Action / Drama",
     "cast": [
-      "Nicolas Cage",
-      "Laura Dern",
-      "Willem Dafoe"
+      "Johnathon Schaech",
+      "Patrick Swayze",
+      "Kelly Lynch"
     ],
-    "tmdb_id": 483,
-    "poster_path": "/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
-    "trailer_key": "dQIdBfrF0Ik",
+    "tmdb_id": 10135,
+    "poster_path": "/60VHW8heV11uLSCnkjk6iGRQatA.jpg",
+    "trailer_key": "xbN9m-1vIZc",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 125,
-    "watch_url": "https://www.themoviedb.org/movie/483-wild-at-heart/watch?locale=US",
-    "streaming": []
+    "runtime_min": 114,
+    "watch_url": "https://www.themoviedb.org/movie/10135-road-house/watch?locale=US",
+    "streaming": [
+      "fuboTV",
+      "MGM+ Amazon Channel",
+      "AMC+ Amazon Channel"
+    ]
   },
   "awful": {
-    "title": "Ballistic: Ecks vs. Sever",
-    "year": 2002,
-    "reason": "This mind-bogglingly bad action movie has gained a cult following for its absurdity and over-the-top performances, making it a must-see for fans of so-bad-it's-good cinema.",
-    "blurb": "With a convoluted plot, cringe-worthy dialogue, and atrocious acting, this film is a masterclass in how not to make an action movie. Its inadvertent humor and sheer audacity make it a guilty pleasure that's hard to look away from.",
-    "genre": "Action",
+    "title": "I Know Who Killed Me",
+    "year": 2007,
+    "reason": "a famously bad movie with terrible reviews, this psychological thriller failed to impress audiences with its convoluted plot and lackluster performances.",
+    "blurb": "This mind-bogglingly bad film is a mess of confusing plot twists and cringe-worthy dialogue. With its amateurish production quality and poor acting, I Know Who Killed Me is a laughable attempt at a thriller.",
+    "genre": "Thriller",
     "cast": [
-      "Antonio Banderas",
-      "Lucy Liu",
-      "Talisa Soto"
+      "Lindsay Lohan",
+      "Julia Ormond",
+      "Neal McDonough"
     ],
-    "tmdb_id": 10550,
-    "poster_path": "/7Jcb486hN7hQRZTsb0RybFGeDOQ.jpg",
-    "trailer_key": "Tme_SdRv2gk",
+    "tmdb_id": 5857,
+    "poster_path": "/7hz8jYHGNsNsnF0FPngxQEEVyR6.jpg",
+    "trailer_key": "KSZ98kUVQFo",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 91,
-    "watch_url": null,
-    "streaming": []
+    "runtime_min": 105,
+    "watch_url": "https://www.themoviedb.org/movie/5857-i-know-who-killed-me/watch?locale=US",
+    "streaming": [
+      "fuboTV"
+    ]
   }
 }
