@@ -1,104 +1,101 @@
 {
-  "date": "Saturday, May 9, 2026",
-  "generated_at": "2026-05-09T10:06:22.886Z",
+  "date": "Sunday, May 10, 2026",
+  "generated_at": "2026-05-10T10:16:39.545Z",
   "hero": {
-    "title": "Lost in Translation",
-    "year": 2003,
-    "reason": "In honor of Lost Sock Memorial Day, celebrating the little things that get lost in life, this film is a poignant reminder of human connection in the unlikeliest of places.",
-    "blurb": "A poignant exploration of loneliness and connection, Lost in Translation features stunning performances from its leads. With its thought-provoking themes and beautiful cinematography, this film is a must-see.",
-    "genre": "Drama / Romance",
-    "runtime_min": 102,
+    "title": "Hairspray",
+    "year": 2007,
+    "reason": "In honor of National Hair Stylist Appreciation Day, Hairspray is a great fit as it features elaborate hairstyles and a passionate hairstylist as a main character.",
+    "blurb": "This musical comedy is full of energy, wit, and fantastic performances. With its catchy songs and impressive dance numbers, Hairspray is a fun and entertaining film for all ages.",
+    "genre": "Comedy / Musical",
+    "runtime_min": 116,
     "streaming": [
       "Amazon Prime"
     ],
     "cast": [
-      "Bill Murray",
-      "Scarlett Johansson",
-      "Giovanni Ribisi"
+      "John Travolta",
+      "Queen Latifah",
+      "Michelle Pfeiffer"
     ],
-    "tmdb_id": 153,
-    "poster_path": "/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
-    "trailer_key": "1s4YQqnbnM8",
+    "tmdb_id": 2976,
+    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
+    "trailer_key": "hsFtWsRn99U",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/153-lost-in-translation/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
   },
   "released": {
-    "title": "Spider-Man 3",
-    "year": 2007,
-    "reason": "Released today in 2007, this film marked a pivotal moment in the Spider-Man franchise, exploring the complexities of heroism and the darker side of power.",
-    "blurb": "The third installment of the Spider-Man series brings together action, drama, and romance in a thrilling narrative. With its iconic villain and memorable plot twists, this film is a classic superhero movie.",
-    "genre": "Action / Adventure",
-    "runtime_min": 139,
+    "title": "Just My Luck",
+    "year": 2006,
+    "reason": "Released today in 2006, Just My Luck still charms audiences with its lighthearted and fun take on love and luck.",
+    "blurb": "This romantic comedy features great chemistry between its leads and a quirky storyline that will keep you smiling. With its blend of wit and charm, Just My Luck is a delightful film to watch.",
+    "genre": "Romance / Comedy",
+    "runtime_min": 103,
     "streaming": [
-      "Netflix",
-      "Disney Plus",
-      "fuboTV"
+      "Amazon Prime Video",
+      "Amazon Prime Video with Ads"
     ],
-    "cast": [
-      "Tobey Maguire",
-      "Kirsten Dunst",
-      "James Franco"
-    ],
-    "tmdb_id": 559,
-    "poster_path": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
-    "trailer_key": "e5wUilOeOmg",
-    "imdb_rating": null,
-    "imdb_id": null,
-    "rt_score": null,
-    "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/559-spider-man-3/watch?locale=US"
-  },
-  "birthday": {
-    "title": "Road House",
-    "year": 1989,
-    "reason": "Happy birthday to Johnathon Schaech, born May 9, 1969, starring in this iconic film that showcases his talent as a charismatic and rugged actor.",
-    "blurb": "This classic action-drama film features an unforgettable performance from Patrick Swayze, with Johnathon Schaech playing a supporting role. With its intense fight scenes and memorable characters, Road House is a cult classic.",
-    "genre": "Action / Drama",
-    "cast": [
-      "Johnathon Schaech",
-      "Patrick Swayze",
-      "Kelly Lynch"
-    ],
-    "tmdb_id": 10135,
-    "poster_path": "/60VHW8heV11uLSCnkjk6iGRQatA.jpg",
-    "trailer_key": "xbN9m-1vIZc",
-    "imdb_rating": null,
-    "imdb_id": null,
-    "rt_score": null,
-    "metacritic": null,
-    "runtime_min": 114,
-    "watch_url": "https://www.themoviedb.org/movie/10135-road-house/watch?locale=US",
-    "streaming": [
-      "fuboTV",
-      "MGM+ Amazon Channel",
-      "AMC+ Amazon Channel"
-    ]
-  },
-  "awful": {
-    "title": "I Know Who Killed Me",
-    "year": 2007,
-    "reason": "a famously bad movie with terrible reviews, this psychological thriller failed to impress audiences with its convoluted plot and lackluster performances.",
-    "blurb": "This mind-bogglingly bad film is a mess of confusing plot twists and cringe-worthy dialogue. With its amateurish production quality and poor acting, I Know Who Killed Me is a laughable attempt at a thriller.",
-    "genre": "Thriller",
     "cast": [
       "Lindsay Lohan",
-      "Julia Ormond",
-      "Neal McDonough"
+      "Chris Pine",
+      "Faizon Love"
     ],
-    "tmdb_id": 5857,
-    "poster_path": "/7hz8jYHGNsNsnF0FPngxQEEVyR6.jpg",
-    "trailer_key": "KSZ98kUVQFo",
+    "tmdb_id": 10025,
+    "poster_path": "/wWpqG3zrrPZhvNLflYJdbW1NgY3.jpg",
+    "trailer_key": "rkJInkePtOY",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 105,
-    "watch_url": "https://www.themoviedb.org/movie/5857-i-know-who-killed-me/watch?locale=US",
+    "watch_url": "https://www.themoviedb.org/movie/10025-just-my-luck/watch?locale=US"
+  },
+  "birthday": {
+    "title": "The 'Burbs",
+    "year": 1989,
+    "reason": "Happy birthday to John Liu is not well-known, however,  Kenan Thompson was born May 10, 1978, and in honor of this, we are picking a film he stars in, such as the voice acting of The War with Grandpa but more known The 'Burbs does not star him,  so I picked Good Burger as it stars him.",
+    "blurb": "The 'Burbs is not the one, Good Burger is, it is a quirky coming-of-age comedy with a great cast, including Kenan Thompson, Kel Mitchell, and Sinbad. With its goofy humor and relatable characters, Good Burger is a fun and entertaining film.",
+    "genre": "Comedy",
+    "cast": [
+      "Kenan Thompson",
+      "Kel Mitchell",
+      "Sinbad"
+    ],
+    "tmdb_id": 11974,
+    "poster_path": "/jwYKzJS0C3A711hmg1G4ptI0InF.jpg",
+    "trailer_key": "cJ7bZpwzNfg",
+    "imdb_rating": null,
+    "imdb_id": null,
+    "rt_score": null,
+    "metacritic": null,
+    "runtime_min": 102,
+    "watch_url": "https://www.themoviedb.org/movie/11974-the-burbs/watch?locale=US",
+    "streaming": []
+  },
+  "awful": {
+    "title": "The Last Airbender",
+    "year": 2010,
+    "reason": "This infamous fantasy adventure film is known for its poor acting, confusing plot, and misuse of the original material it's based on, making it a prime example of a dumpster dive movie.",
+    "blurb": "The Last Airbender is a mess of a film, with cringe-worthy dialogue and unimpressive action sequences. Despite its promising source material, this movie fails to deliver on nearly every level, making it a fascinatingly bad watch.",
+    "genre": "Action / Adventure",
+    "cast": [
+      "Noah Ringer",
+      "Nicola Peltz",
+      "Dev Patel"
+    ],
+    "tmdb_id": 10196,
+    "poster_path": "/kl9JJ8288bNsY8oqT1SpQh1w2mb.jpg",
+    "trailer_key": "WdoiHMCVqMQ",
+    "imdb_rating": null,
+    "imdb_id": null,
+    "rt_score": null,
+    "metacritic": null,
+    "runtime_min": 103,
+    "watch_url": "https://www.themoviedb.org/movie/10196-the-last-airbender/watch?locale=US",
     "streaming": [
-      "fuboTV"
+      "fuboTV",
+      "Paramount Plus Premium",
+      "Paramount Plus Essential"
     ]
   }
 }
