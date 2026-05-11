@@ -1,101 +1,102 @@
 {
-  "date": "Sunday, May 10, 2026",
-  "generated_at": "2026-05-10T10:16:39.545Z",
+  "date": "Monday, May 11, 2026",
+  "generated_at": "2026-05-11T12:11:56.705Z",
   "hero": {
-    "title": "Hairspray",
-    "year": 2007,
-    "reason": "In honor of National Hair Stylist Appreciation Day, Hairspray is a great fit as it features elaborate hairstyles and a passionate hairstylist as a main character.",
-    "blurb": "This musical comedy is full of energy, wit, and fantastic performances. With its catchy songs and impressive dance numbers, Hairspray is a fun and entertaining film for all ages.",
-    "genre": "Comedy / Musical",
-    "runtime_min": 116,
+    "title": "The Adventures of Robin Hood",
+    "year": 1938,
+    "reason": "In honor of National Technology Day, The Adventures of Robin Hood is chosen because it was one of the first major films to heavily utilize the newly developed three-strip Technicolor technology, which greatly enhanced the visual quality of the movie.",
+    "blurb": "This classic tale of the heroic outlaw Robin Hood is full of action, romance, and stunning visuals, making it a must-see for film enthusiasts. With its impressive use of early technology, it's a great way to celebrate National Technology Day. The movie's themes of bravery and justice are timeless and inspiring.",
+    "genre": "Adventure / Romance",
+    "runtime_min": 102,
     "streaming": [
       "Amazon Prime"
     ],
     "cast": [
-      "John Travolta",
-      "Queen Latifah",
-      "Michelle Pfeiffer"
+      "Errol Flynn",
+      "Olivia de Havilland",
+      "Basil Rathbone"
     ],
-    "tmdb_id": 2976,
-    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
-    "trailer_key": "hsFtWsRn99U",
+    "tmdb_id": 10907,
+    "poster_path": "/4mazyXEMkmLw5h6076yyNSm9uv0.jpg",
+    "trailer_key": "dwzLBwPLB_E",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/10907-the-adventures-of-robin-hood/watch?locale=US"
   },
   "released": {
-    "title": "Just My Luck",
-    "year": 2006,
-    "reason": "Released today in 2006, Just My Luck still charms audiences with its lighthearted and fun take on love and luck.",
-    "blurb": "This romantic comedy features great chemistry between its leads and a quirky storyline that will keep you smiling. With its blend of wit and charm, Just My Luck is a delightful film to watch.",
-    "genre": "Romance / Comedy",
-    "runtime_min": 103,
+    "title": "Hot Fuzz",
+    "year": 2007,
+    "reason": "Released today in 2007, Hot Fuzz is an action-packed comedy that has become a cult classic, following the story of a top London cop who is sent to a small town to solve a series of mysterious accidents.",
+    "blurb": "With its over-the-top action sequences, witty humor, and great performances, Hot Fuzz is an entertaining ride from start to finish. The film's clever parody of action movie tropes and its heartfelt portrayal of male friendship make it a standout in the comedy genre. It's a fun and exciting movie that will keep you laughing and on the edge of your seat.",
+    "genre": "Action / Comedy",
+    "runtime_min": 121,
     "streaming": [
       "Amazon Prime Video",
       "Amazon Prime Video with Ads"
     ],
     "cast": [
-      "Lindsay Lohan",
-      "Chris Pine",
-      "Faizon Love"
+      "Simon Pegg",
+      "Nick Frost",
+      "Martin Freeman"
     ],
-    "tmdb_id": 10025,
-    "poster_path": "/wWpqG3zrrPZhvNLflYJdbW1NgY3.jpg",
-    "trailer_key": "rkJInkePtOY",
+    "tmdb_id": 4638,
+    "poster_path": "/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg",
+    "trailer_key": "L6PKkxn7pq0",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/10025-just-my-luck/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/4638-hot-fuzz/watch?locale=US"
   },
   "birthday": {
-    "title": "The 'Burbs",
-    "year": 1989,
-    "reason": "Happy birthday to John Liu is not well-known, however,  Kenan Thompson was born May 10, 1978, and in honor of this, we are picking a film he stars in, such as the voice acting of The War with Grandpa but more known The 'Burbs does not star him,  so I picked Good Burger as it stars him.",
-    "blurb": "The 'Burbs is not the one, Good Burger is, it is a quirky coming-of-age comedy with a great cast, including Kenan Thompson, Kel Mitchell, and Sinbad. With its goofy humor and relatable characters, Good Burger is a fun and entertaining film.",
-    "genre": "Comedy",
+    "title": "A Few Good Men",
+    "year": 1992,
+    "reason": "Happy birthday to Tim Roth, A Few Good Men is one of his notable films, where he plays the role of Private First Class Louden Downey, a young Marine who is accused of murdering a fellow soldier.",
+    "blurb": "A Few Good Men is a gripping drama that explores the complexities of military justice and the consequences of blind loyalty. With a talented cast, including Tom Cruise, Jack Nicholson, and Demi Moore, the film is a powerful and thought-provoking exploration of morality and honor.",
+    "genre": "Drama",
     "cast": [
-      "Kenan Thompson",
-      "Kel Mitchell",
-      "Sinbad"
+      "Tom Cruise",
+      "Jack Nicholson",
+      "Demi Moore",
+      "Tim Roth"
     ],
-    "tmdb_id": 11974,
-    "poster_path": "/jwYKzJS0C3A711hmg1G4ptI0InF.jpg",
-    "trailer_key": "cJ7bZpwzNfg",
+    "tmdb_id": 881,
+    "poster_path": "/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
+    "trailer_key": "uTE592ryZx4",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 102,
-    "watch_url": "https://www.themoviedb.org/movie/11974-the-burbs/watch?locale=US",
-    "streaming": []
-  },
-  "awful": {
-    "title": "The Last Airbender",
-    "year": 2010,
-    "reason": "This infamous fantasy adventure film is known for its poor acting, confusing plot, and misuse of the original material it's based on, making it a prime example of a dumpster dive movie.",
-    "blurb": "The Last Airbender is a mess of a film, with cringe-worthy dialogue and unimpressive action sequences. Despite its promising source material, this movie fails to deliver on nearly every level, making it a fascinatingly bad watch.",
-    "genre": "Action / Adventure",
-    "cast": [
-      "Noah Ringer",
-      "Nicola Peltz",
-      "Dev Patel"
-    ],
-    "tmdb_id": 10196,
-    "poster_path": "/kl9JJ8288bNsY8oqT1SpQh1w2mb.jpg",
-    "trailer_key": "WdoiHMCVqMQ",
-    "imdb_rating": null,
-    "imdb_id": null,
-    "rt_score": null,
-    "metacritic": null,
-    "runtime_min": 103,
-    "watch_url": "https://www.themoviedb.org/movie/10196-the-last-airbender/watch?locale=US",
+    "runtime_min": 138,
+    "watch_url": "https://www.themoviedb.org/movie/881-a-few-good-men/watch?locale=US",
     "streaming": [
       "fuboTV",
-      "Paramount Plus Premium",
-      "Paramount Plus Essential"
+      "YouTube TV",
+      "Philo"
     ]
+  },
+  "awful": {
+    "title": "Ballistic: Ecks vs. Sever",
+    "year": 2002,
+    "reason": "a famously bad movie with terrible reviews, Ballistic: Ecks vs. Sever is an action film that failed to impress critics and audiences alike with its convoluted plot and lackluster action sequences.",
+    "blurb": "This movie is a mess of poorly choreographed fight scenes, cringe-worthy dialogue, and a nonsensical plot that will leave you scratching your head. With a talentless cast and a complete lack of direction, Ballistic: Ecks vs. Sever is a trainwreck that's so bad it's almost enjoyable.",
+    "genre": "Action",
+    "cast": [
+      "Antonio Banderas",
+      "Lucy Liu",
+      "Talisa Soto"
+    ],
+    "tmdb_id": 10550,
+    "poster_path": "/7Jcb486hN7hQRZTsb0RybFGeDOQ.jpg",
+    "trailer_key": "Tme_SdRv2gk",
+    "imdb_rating": null,
+    "imdb_id": null,
+    "rt_score": null,
+    "metacritic": null,
+    "runtime_min": 91,
+    "watch_url": null,
+    "streaming": []
   }
 }
