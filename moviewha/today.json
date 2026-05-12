@@ -1,87 +1,86 @@
 {
-  "date": "Monday, May 11, 2026",
-  "generated_at": "2026-05-11T12:11:56.705Z",
+  "date": "Tuesday, May 12, 2026",
+  "generated_at": "2026-05-12T11:22:25.515Z",
   "hero": {
-    "title": "The Adventures of Robin Hood",
-    "year": 1938,
-    "reason": "In honor of National Technology Day, The Adventures of Robin Hood is chosen because it was one of the first major films to heavily utilize the newly developed three-strip Technicolor technology, which greatly enhanced the visual quality of the movie.",
-    "blurb": "This classic tale of the heroic outlaw Robin Hood is full of action, romance, and stunning visuals, making it a must-see for film enthusiasts. With its impressive use of early technology, it's a great way to celebrate National Technology Day. The movie's themes of bravery and justice are timeless and inspiring.",
-    "genre": "Adventure / Romance",
-    "runtime_min": 102,
+    "title": "Hairspray",
+    "year": 2007,
+    "reason": "In honor of National Frog Jumping Jubilee Day, we celebrate a film that knows how to jump into the fun with lively musical numbers and a story that hops over societal norms, Hairspray is a perfect fit with its upbeat and energetic vibe.",
+    "blurb": "With its all-star cast, Hairspray is a must-watch for anyone who loves musicals. The film's colorful characters, catchy songs, and lively dance numbers make it a joy to watch. Its themes of self-acceptance and empowerment are timeless and inspiring.",
+    "genre": "Musical / Comedy",
+    "runtime_min": 116,
     "streaming": [
       "Amazon Prime"
     ],
     "cast": [
-      "Errol Flynn",
-      "Olivia de Havilland",
-      "Basil Rathbone"
+      "John Travolta",
+      "Queen Latifah",
+      "Michelle Pfeiffer"
     ],
-    "tmdb_id": 10907,
-    "poster_path": "/4mazyXEMkmLw5h6076yyNSm9uv0.jpg",
-    "trailer_key": "dwzLBwPLB_E",
+    "tmdb_id": 2976,
+    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
+    "trailer_key": "hsFtWsRn99U",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/10907-the-adventures-of-robin-hood/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
   },
   "released": {
-    "title": "Hot Fuzz",
+    "title": "Spider-Man 3",
     "year": 2007,
-    "reason": "Released today in 2007, Hot Fuzz is an action-packed comedy that has become a cult classic, following the story of a top London cop who is sent to a small town to solve a series of mysterious accidents.",
-    "blurb": "With its over-the-top action sequences, witty humor, and great performances, Hot Fuzz is an entertaining ride from start to finish. The film's clever parody of action movie tropes and its heartfelt portrayal of male friendship make it a standout in the comedy genre. It's a fun and exciting movie that will keep you laughing and on the edge of your seat.",
-    "genre": "Action / Comedy",
-    "runtime_min": 121,
+    "reason": "Released today in 2007, Spider-Man 3 is an action-packed superhero film that still impresses with its visually stunning effects and thrilling action sequences.",
+    "blurb": "The third installment in the Spider-Man franchise is an exciting ride that explores the complexities of Peter Parker's life as a superhero. With its dark and emotionally charged storyline, Spider-Man 3 is a gripping film that will keep you on the edge of your seat.",
+    "genre": "Action / Adventure",
+    "runtime_min": 139,
+    "streaming": [
+      "Netflix",
+      "fuboTV",
+      "YouTube TV"
+    ],
+    "cast": [
+      "Tobey Maguire",
+      "Kirsten Dunst",
+      "James Franco"
+    ],
+    "tmdb_id": 559,
+    "poster_path": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+    "trailer_key": "e5wUilOeOmg",
+    "imdb_rating": null,
+    "imdb_id": null,
+    "rt_score": null,
+    "metacritic": null,
+    "watch_url": "https://www.themoviedb.org/movie/559-spider-man-3/watch?locale=US"
+  },
+  "birthday": {
+    "title": "Twelve Monkeys",
+    "year": 1995,
+    "reason": "Happy birthday to Emilio Estevez, born May 12, 1962, Twelve Monkeys is a thought-provoking sci-fi classic that showcases his unique talent and range as an actor.",
+    "blurb": "With its complex and mind-bending storyline, Twelve Monkeys is a must-watch for fans of science fiction. Emilio Estevez delivers a captivating performance that adds depth and nuance to the film's already intriguing narrative.",
+    "genre": "Sci-Fi / Thriller",
+    "cast": [
+      "Emilio Estevez",
+      "Bruce Willis",
+      "Brad Pitt"
+    ],
+    "tmdb_id": 63,
+    "poster_path": "/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+    "trailer_key": "Xwh1xBzsc1Q",
+    "imdb_rating": null,
+    "imdb_id": null,
+    "rt_score": null,
+    "metacritic": null,
+    "runtime_min": 129,
+    "watch_url": "https://www.themoviedb.org/movie/63-twelve-monkeys/watch?locale=US",
     "streaming": [
       "Amazon Prime Video",
       "Amazon Prime Video with Ads"
-    ],
-    "cast": [
-      "Simon Pegg",
-      "Nick Frost",
-      "Martin Freeman"
-    ],
-    "tmdb_id": 4638,
-    "poster_path": "/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg",
-    "trailer_key": "L6PKkxn7pq0",
-    "imdb_rating": null,
-    "imdb_id": null,
-    "rt_score": null,
-    "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/4638-hot-fuzz/watch?locale=US"
-  },
-  "birthday": {
-    "title": "A Few Good Men",
-    "year": 1992,
-    "reason": "Happy birthday to Tim Roth, A Few Good Men is one of his notable films, where he plays the role of Private First Class Louden Downey, a young Marine who is accused of murdering a fellow soldier.",
-    "blurb": "A Few Good Men is a gripping drama that explores the complexities of military justice and the consequences of blind loyalty. With a talented cast, including Tom Cruise, Jack Nicholson, and Demi Moore, the film is a powerful and thought-provoking exploration of morality and honor.",
-    "genre": "Drama",
-    "cast": [
-      "Tom Cruise",
-      "Jack Nicholson",
-      "Demi Moore",
-      "Tim Roth"
-    ],
-    "tmdb_id": 881,
-    "poster_path": "/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
-    "trailer_key": "uTE592ryZx4",
-    "imdb_rating": null,
-    "imdb_id": null,
-    "rt_score": null,
-    "metacritic": null,
-    "runtime_min": 138,
-    "watch_url": "https://www.themoviedb.org/movie/881-a-few-good-men/watch?locale=US",
-    "streaming": [
-      "fuboTV",
-      "YouTube TV",
-      "Philo"
     ]
   },
   "awful": {
     "title": "Ballistic: Ecks vs. Sever",
     "year": 2002,
-    "reason": "a famously bad movie with terrible reviews, Ballistic: Ecks vs. Sever is an action film that failed to impress critics and audiences alike with its convoluted plot and lackluster action sequences.",
-    "blurb": "This movie is a mess of poorly choreographed fight scenes, cringe-worthy dialogue, and a nonsensical plot that will leave you scratching your head. With a talentless cast and a complete lack of direction, Ballistic: Ecks vs. Sever is a trainwreck that's so bad it's almost enjoyable.",
+    "reason": "This infamous box office bomb is a masterclass in how to make a terrible action film, with cringe-worthy dialogue, ridiculous plot twists, and some of the worst acting you'll ever see.",
+    "blurb": "With its convoluted plot and laughable one-liners, Ballistic: Ecks vs. Sever is a so-bad-it's-good kind of film that will leave you shaking your head in awe of its incompetence. It's a mind-numbing experience that will make you question the sanity of the people who made it.",
     "genre": "Action",
     "cast": [
       "Antonio Banderas",
