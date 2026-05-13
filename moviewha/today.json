@@ -1,11 +1,11 @@
 {
-  "date": "Tuesday, May 12, 2026",
-  "generated_at": "2026-05-12T11:22:25.515Z",
+  "date": "Wednesday, May 13, 2026",
+  "generated_at": "2026-05-13T11:30:48.746Z",
   "hero": {
     "title": "Hairspray",
     "year": 2007,
-    "reason": "In honor of National Frog Jumping Jubilee Day, we celebrate a film that knows how to jump into the fun with lively musical numbers and a story that hops over societal norms, Hairspray is a perfect fit with its upbeat and energetic vibe.",
-    "blurb": "With its all-star cast, Hairspray is a must-watch for anyone who loves musicals. The film's colorful characters, catchy songs, and lively dance numbers make it a joy to watch. Its themes of self-acceptance and empowerment are timeless and inspiring.",
+    "reason": "In honor of National Frog Jumping Day, we celebrate the lighthearted and fun Hairspray, a movie that will have you jumping with joy.",
+    "blurb": "This musical comedy is a fun and upbeat film that is perfect for the whole family. With its catchy songs and impressive dance numbers, Hairspray is a movie that will have you dancing in your seat.",
     "genre": "Musical / Comedy",
     "runtime_min": 116,
     "streaming": [
@@ -26,61 +26,62 @@
     "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
   },
   "released": {
-    "title": "Spider-Man 3",
-    "year": 2007,
-    "reason": "Released today in 2007, Spider-Man 3 is an action-packed superhero film that still impresses with its visually stunning effects and thrilling action sequences.",
-    "blurb": "The third installment in the Spider-Man franchise is an exciting ride that explores the complexities of Peter Parker's life as a superhero. With its dark and emotionally charged storyline, Spider-Man 3 is a gripping film that will keep you on the edge of your seat.",
-    "genre": "Action / Adventure",
-    "runtime_min": 139,
+    "title": "The Da Vinci Code",
+    "year": 2006,
+    "reason": "Released today in 2006, this film is still widely popular for its intriguing mystery and historical twists, making it a great choice for fans of the book and new viewers alike.",
+    "blurb": "This movie is a thrilling adventure that takes you on a wild ride through Europe's most famous cities. With its intricate plot and surprising turns, The Da Vinci Code is a must-see for anyone who loves a good mystery.",
+    "genre": "Mystery / Thriller",
+    "runtime_min": 149,
     "streaming": [
-      "Netflix",
       "fuboTV",
-      "YouTube TV"
+      "MGM+ Amazon Channel",
+      "MGM Plus"
     ],
     "cast": [
-      "Tobey Maguire",
-      "Kirsten Dunst",
-      "James Franco"
+      "Tom Hanks",
+      "Audrey Tautou",
+      "Ian McKellen"
     ],
-    "tmdb_id": 559,
-    "poster_path": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
-    "trailer_key": "e5wUilOeOmg",
+    "tmdb_id": 591,
+    "poster_path": "/9ejKfNk0LBhSI9AahH4f9NJNZNM.jpg",
+    "trailer_key": "Xy6aVei3Mnk",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/559-spider-man-3/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/591-the-da-vinci-code/watch?locale=US"
   },
   "birthday": {
-    "title": "Twelve Monkeys",
-    "year": 1995,
-    "reason": "Happy birthday to Emilio Estevez, born May 12, 1962, Twelve Monkeys is a thought-provoking sci-fi classic that showcases his unique talent and range as an actor.",
-    "blurb": "With its complex and mind-bending storyline, Twelve Monkeys is a must-watch for fans of science fiction. Emilio Estevez delivers a captivating performance that adds depth and nuance to the film's already intriguing narrative.",
-    "genre": "Sci-Fi / Thriller",
+    "title": "Scream 3",
+    "year": 2000,
+    "reason": "Happy birthday to Deborah Ann Woll, born May 13, 1985, we celebrate her role in this horror classic, which still sends chills down our spines today.",
+    "blurb": "This horror movie is a thrilling ride that will keep you on the edge of your seat. With its unexpected twists and turns, Scream 3 is a must-see for fans of the genre.",
+    "genre": "Horror / Thriller",
     "cast": [
-      "Emilio Estevez",
-      "Bruce Willis",
-      "Brad Pitt"
+      "Deborah Ann Woll",
+      "Neve Campbell",
+      "Courteney Cox"
     ],
-    "tmdb_id": 63,
-    "poster_path": "/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
-    "trailer_key": "Xwh1xBzsc1Q",
+    "tmdb_id": 4234,
+    "poster_path": "/qpH8ToZVlFD1bakL04LkEKodyDI.jpg",
+    "trailer_key": "Gx24Z9O0MuY",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 129,
-    "watch_url": "https://www.themoviedb.org/movie/63-twelve-monkeys/watch?locale=US",
+    "runtime_min": 116,
+    "watch_url": "https://www.themoviedb.org/movie/4234-scream-3/watch?locale=US",
     "streaming": [
-      "Amazon Prime Video",
-      "Amazon Prime Video with Ads"
+      "fuboTV",
+      "Paramount+ Amazon Channel",
+      "YouTube TV"
     ]
   },
   "awful": {
     "title": "Ballistic: Ecks vs. Sever",
     "year": 2002,
-    "reason": "This infamous box office bomb is a masterclass in how to make a terrible action film, with cringe-worthy dialogue, ridiculous plot twists, and some of the worst acting you'll ever see.",
-    "blurb": "With its convoluted plot and laughable one-liners, Ballistic: Ecks vs. Sever is a so-bad-it's-good kind of film that will leave you shaking your head in awe of its incompetence. It's a mind-numbing experience that will make you question the sanity of the people who made it.",
+    "reason": "This movie is so bad, it's good, with an impressively low IMDb rating of 3.4, making it a hilarious addition to our Dumpster Dive category.",
+    "blurb": "This action movie is a laughable mess, with terrible acting and a ridiculous plot. With its over-the-top action sequences and cringe-worthy dialogue, Ballistic: Ecks vs. Sever is a movie that will leave you questioning its very existence.",
     "genre": "Action",
     "cast": [
       "Antonio Banderas",
