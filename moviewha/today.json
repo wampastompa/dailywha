@@ -1,102 +1,98 @@
 {
-  "date": "Wednesday, May 13, 2026",
-  "generated_at": "2026-05-13T11:30:48.746Z",
+  "date": "Thursday, May 14, 2026",
+  "generated_at": "2026-05-14T11:13:46.382Z",
   "hero": {
-    "title": "Hairspray",
-    "year": 2007,
-    "reason": "In honor of National Frog Jumping Day, we celebrate the lighthearted and fun Hairspray, a movie that will have you jumping with joy.",
-    "blurb": "This musical comedy is a fun and upbeat film that is perfect for the whole family. With its catchy songs and impressive dance numbers, Hairspray is a movie that will have you dancing in your seat.",
-    "genre": "Musical / Comedy",
-    "runtime_min": 116,
+    "title": "The Shipping News",
+    "year": 2001,
+    "reason": "In honor of National Tape Measure Day, this film features a character who rediscovers their family's past and finds a new sense of purpose, much like how a tape measure can help us measure and understand our surroundings.",
+    "blurb": "This movie is a nuanced exploration of family, identity, and the power of storytelling. With a strong cast and beautiful scenery, it's a great choice for anyone looking for a thoughtful drama.",
+    "genre": "Drama",
+    "runtime_min": 111,
     "streaming": [
       "Amazon Prime"
     ],
     "cast": [
-      "John Travolta",
-      "Queen Latifah",
-      "Michelle Pfeiffer"
+      "Kevin Spacey",
+      "Julianne Moore",
+      "Judi Dench"
     ],
-    "tmdb_id": 2976,
-    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
-    "trailer_key": "hsFtWsRn99U",
+    "tmdb_id": 6440,
+    "poster_path": "/3IdEZw4YN4NfvjLRyZVWpI0z2IH.jpg",
+    "trailer_key": "8x1z8IK-L0U",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/6440-the-shipping-news/watch?locale=US"
   },
   "released": {
-    "title": "The Da Vinci Code",
-    "year": 2006,
-    "reason": "Released today in 2006, this film is still widely popular for its intriguing mystery and historical twists, making it a great choice for fans of the book and new viewers alike.",
-    "blurb": "This movie is a thrilling adventure that takes you on a wild ride through Europe's most famous cities. With its intricate plot and surprising turns, The Da Vinci Code is a must-see for anyone who loves a good mystery.",
-    "genre": "Mystery / Thriller",
-    "runtime_min": 149,
+    "title": "The Kingdom",
+    "year": 2007,
+    "reason": "Released today in 2007, this action-packed thriller still holds up with its gripping storyline and impressive action sequences.",
+    "blurb": "This movie is a thrilling ride from start to finish, with a talented cast and impressive stunts. If you're a fan of action movies, you won't want to miss this one.",
+    "genre": "Action / Thriller",
+    "runtime_min": 110,
     "streaming": [
-      "fuboTV",
-      "MGM+ Amazon Channel",
-      "MGM Plus"
+      "Starz Apple TV Channel",
+      "Starz",
+      "Philo"
     ],
     "cast": [
-      "Tom Hanks",
-      "Audrey Tautou",
-      "Ian McKellen"
+      "Jamie Foxx",
+      "Chris Cooper",
+      "Jennifer Garner"
     ],
-    "tmdb_id": 591,
-    "poster_path": "/9ejKfNk0LBhSI9AahH4f9NJNZNM.jpg",
-    "trailer_key": "Xy6aVei3Mnk",
+    "tmdb_id": 4349,
+    "poster_path": "/8CSiRnMRLuKT58JiOGzQ7p1oa1b.jpg",
+    "trailer_key": "T7xGu-SnWUk",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/591-the-da-vinci-code/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/4349-the-kingdom/watch?locale=US"
   },
   "birthday": {
-    "title": "Scream 3",
-    "year": 2000,
-    "reason": "Happy birthday to Deborah Ann Woll, born May 13, 1985, we celebrate her role in this horror classic, which still sends chills down our spines today.",
-    "blurb": "This horror movie is a thrilling ride that will keep you on the edge of your seat. With its unexpected twists and turns, Scream 3 is a must-see for fans of the genre.",
-    "genre": "Horror / Thriller",
+    "title": "Caddyshack",
+    "year": 1980,
+    "reason": "Happy birthday to Tim Conway, born May 14, 1933, this classic comedy is one of his most iconic roles and still holds up today as a hilarious and lighthearted golf-themed romp.",
+    "blurb": "This movie is a comedy classic, with a talented cast and hilarious storyline. If you're a fan of golf or just looking for a lighthearted laugh, Caddyshack is a great choice.",
+    "genre": "Comedy",
     "cast": [
-      "Deborah Ann Woll",
-      "Neve Campbell",
-      "Courteney Cox"
+      "Tim Conway",
+      "Chevy Chase",
+      "Bill Murray"
     ],
-    "tmdb_id": 4234,
-    "poster_path": "/qpH8ToZVlFD1bakL04LkEKodyDI.jpg",
-    "trailer_key": "Gx24Z9O0MuY",
+    "tmdb_id": 11977,
+    "poster_path": "/lXnNz7zOXCsftMDVoU3VSo0Eioi.jpg",
+    "trailer_key": "vKlecXacidE",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 116,
-    "watch_url": "https://www.themoviedb.org/movie/4234-scream-3/watch?locale=US",
-    "streaming": [
-      "fuboTV",
-      "Paramount+ Amazon Channel",
-      "YouTube TV"
-    ]
+    "runtime_min": 98,
+    "watch_url": "https://www.themoviedb.org/movie/11977-caddyshack/watch?locale=US",
+    "streaming": []
   },
   "awful": {
-    "title": "Ballistic: Ecks vs. Sever",
-    "year": 2002,
-    "reason": "This movie is so bad, it's good, with an impressively low IMDb rating of 3.4, making it a hilarious addition to our Dumpster Dive category.",
-    "blurb": "This action movie is a laughable mess, with terrible acting and a ridiculous plot. With its over-the-top action sequences and cringe-worthy dialogue, Ballistic: Ecks vs. Sever is a movie that will leave you questioning its very existence.",
-    "genre": "Action",
+    "title": "I Know Who Killed Me",
+    "year": 2007,
+    "reason": "This psychological thriller is infamous for its convoluted plot and poor acting, making it a great example of a movie that's so bad it's good.",
+    "blurb": "This movie is a messy and confusing thriller that's more likely to induce headaches than suspense. With a convoluted plot and poor acting, it's a great choice for anyone looking for a laughably bad movie.",
+    "genre": "Thriller",
     "cast": [
-      "Antonio Banderas",
-      "Lucy Liu",
-      "Talisa Soto"
+      "Lindsay Lohan",
+      "Julia Ormond",
+      "Neal McDonough"
     ],
-    "tmdb_id": 10550,
-    "poster_path": "/7Jcb486hN7hQRZTsb0RybFGeDOQ.jpg",
-    "trailer_key": "Tme_SdRv2gk",
+    "tmdb_id": 5857,
+    "poster_path": "/7hz8jYHGNsNsnF0FPngxQEEVyR6.jpg",
+    "trailer_key": "KSZ98kUVQFo",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 91,
-    "watch_url": null,
+    "runtime_min": 105,
+    "watch_url": "https://www.themoviedb.org/movie/5857-i-know-who-killed-me/watch?locale=US",
     "streaming": []
   }
 }
