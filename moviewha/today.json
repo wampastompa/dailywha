@@ -1,83 +1,73 @@
 {
-  "date": "Thursday, May 14, 2026",
-  "generated_at": "2026-05-14T11:13:46.382Z",
+  "date": "Friday, May 15, 2026",
+  "generated_at": "2026-05-15T11:22:06.839Z",
   "hero": {
-    "title": "The Shipping News",
-    "year": 2001,
-    "reason": "In honor of National Tape Measure Day, this film features a character who rediscovers their family's past and finds a new sense of purpose, much like how a tape measure can help us measure and understand our surroundings.",
-    "blurb": "This movie is a nuanced exploration of family, identity, and the power of storytelling. With a strong cast and beautiful scenery, it's a great choice for anyone looking for a thoughtful drama.",
-    "genre": "Drama",
-    "runtime_min": 111,
-    "streaming": [
-      "Amazon Prime"
-    ],
+    "title": "Nurses",
+    "year": 1991,
+    "reason": "In honor of National Nurses Day, we recognize the hard work and dedication of nurses everywhere with this film that showcases their tireless efforts and compassion.",
+    "blurb": "This comedy-drama film highlights the lives of nurses and the challenges they face, making for a heartwarming and entertaining watch. With a talented cast, it's a great way to spend an evening.",
+    "genre": "Comedy / Drama",
+    "runtime_min": 30,
+    "streaming": [],
     "cast": [
-      "Kevin Spacey",
-      "Julianne Moore",
-      "Judi Dench"
-    ],
-    "tmdb_id": 6440,
-    "poster_path": "/3IdEZw4YN4NfvjLRyZVWpI0z2IH.jpg",
-    "trailer_key": "8x1z8IK-L0U",
-    "imdb_rating": null,
-    "imdb_id": null,
-    "rt_score": null,
-    "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/6440-the-shipping-news/watch?locale=US"
+      "Stephanie Hodge",
+      "Arnetia Walker",
+      "Mary Jo Keenen"
+    ]
   },
   "released": {
-    "title": "The Kingdom",
+    "title": "Shrek the Third",
     "year": 2007,
-    "reason": "Released today in 2007, this action-packed thriller still holds up with its gripping storyline and impressive action sequences.",
-    "blurb": "This movie is a thrilling ride from start to finish, with a talented cast and impressive stunts. If you're a fan of action movies, you won't want to miss this one.",
-    "genre": "Action / Thriller",
-    "runtime_min": 110,
+    "reason": "Released today in 2007, this animated comedy still delights audiences with its witty humor and lovable characters, making it a great choice for a fun movie night.",
+    "blurb": "The third installment in the Shrek franchise brings back our favorite ogre and his friends for another hilarious adventure. With its clever writing and talented voice cast, it's a must-see for both kids and adults.",
+    "genre": "Animation / Comedy",
+    "runtime_min": 93,
     "streaming": [
-      "Starz Apple TV Channel",
-      "Starz",
-      "Philo"
+      "Hulu",
+      "Peacock Premium",
+      "Peacock Premium Plus"
     ],
     "cast": [
-      "Jamie Foxx",
-      "Chris Cooper",
-      "Jennifer Garner"
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz"
     ],
-    "tmdb_id": 4349,
-    "poster_path": "/8CSiRnMRLuKT58JiOGzQ7p1oa1b.jpg",
-    "trailer_key": "T7xGu-SnWUk",
+    "tmdb_id": 810,
+    "poster_path": "/n4SexGGQzI26E269tfpa80MZaGV.jpg",
+    "trailer_key": "_MoIr7811Bs",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/4349-the-kingdom/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/810-shrek-the-third/watch?locale=US"
   },
   "birthday": {
-    "title": "Caddyshack",
-    "year": 1980,
-    "reason": "Happy birthday to Tim Conway, born May 14, 1933, this classic comedy is one of his most iconic roles and still holds up today as a hilarious and lighthearted golf-themed romp.",
-    "blurb": "This movie is a comedy classic, with a talented cast and hilarious storyline. If you're a fan of golf or just looking for a lighthearted laugh, Caddyshack is a great choice.",
+    "title": "Austin Powers: International Man of Mystery",
+    "year": 1997,
+    "reason": "Happy birthday to Mike Myers, born May 15, 1963, starring in this film that showcases his comedic genius and launched the iconic Austin Powers franchise.",
+    "blurb": "This spy spoof film is a masterclass in comedy, with Myers' hilarious performance as the titular character. With its witty one-liners and outrageous humor, it's a classic that never gets old.",
     "genre": "Comedy",
     "cast": [
-      "Tim Conway",
-      "Chevy Chase",
-      "Bill Murray"
+      "Mike Myers",
+      "Elizabeth Hurley",
+      "Will Ferrell"
     ],
-    "tmdb_id": 11977,
-    "poster_path": "/lXnNz7zOXCsftMDVoU3VSo0Eioi.jpg",
-    "trailer_key": "vKlecXacidE",
+    "tmdb_id": 816,
+    "poster_path": "/5uD4dxNX8JKFjWKYMHyOsqhi5pN.jpg",
+    "trailer_key": "9HGy-c4_xFg",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 98,
-    "watch_url": "https://www.themoviedb.org/movie/11977-caddyshack/watch?locale=US",
+    "runtime_min": 89,
+    "watch_url": "https://www.themoviedb.org/movie/816-austin-powers-international-man-of-mystery/watch?locale=US",
     "streaming": []
   },
   "awful": {
     "title": "I Know Who Killed Me",
     "year": 2007,
-    "reason": "This psychological thriller is infamous for its convoluted plot and poor acting, making it a great example of a movie that's so bad it's good.",
-    "blurb": "This movie is a messy and confusing thriller that's more likely to induce headaches than suspense. With a convoluted plot and poor acting, it's a great choice for anyone looking for a laughably bad movie.",
+    "reason": "This psychological thriller is infamous for its convoluted plot and poor acting, making it a prime example of a dumpster dive movie that's so bad it's good.",
+    "blurb": "With a messy storyline and cringe-worthy performances, this film is a trainwreck that's hard to look away from. If you're in the mood for something truly terrible, this might be the movie for you.",
     "genre": "Thriller",
     "cast": [
       "Lindsay Lohan",
