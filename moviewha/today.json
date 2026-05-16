@@ -1,88 +1,102 @@
 {
-  "date": "Friday, May 15, 2026",
-  "generated_at": "2026-05-15T11:22:06.839Z",
+  "date": "Saturday, May 16, 2026",
+  "generated_at": "2026-05-16T10:16:40.019Z",
   "hero": {
-    "title": "Nurses",
-    "year": 1991,
-    "reason": "In honor of National Nurses Day, we recognize the hard work and dedication of nurses everywhere with this film that showcases their tireless efforts and compassion.",
-    "blurb": "This comedy-drama film highlights the lives of nurses and the challenges they face, making for a heartwarming and entertaining watch. With a talented cast, it's a great way to spend an evening.",
-    "genre": "Comedy / Drama",
-    "runtime_min": 30,
-    "streaming": [],
+    "title": "Love Story",
+    "year": 1970,
+    "reason": "In honor of National Love Day, this classic romance film tells a poignant tale of two young lovers from different worlds, making it a timeless choice for today.",
+    "blurb": "This iconic film, starring Ryan O'Neal and Ali MacGraw, is a beautifully told story of love and loss that continues to captivate audiences with its emotional depth and memorable performances. It's a must-watch for anyone who believes in the power of true love.",
+    "genre": "Romance / Drama",
+    "runtime_min": 100,
+    "streaming": [
+      "fuboTV",
+      "MGM+ Amazon Channel",
+      "MGM Plus"
+    ],
     "cast": [
-      "Stephanie Hodge",
-      "Arnetia Walker",
-      "Mary Jo Keenen"
-    ]
+      "Ali MacGraw",
+      "Ryan O'Neal",
+      "John Marley"
+    ],
+    "tmdb_id": 9062,
+    "poster_path": "/yCjADq9fwbdPnxMo0DKNeRGZ4YC.jpg",
+    "trailer_key": "fgfy2guZu58",
+    "imdb_rating": null,
+    "imdb_id": null,
+    "rt_score": null,
+    "metacritic": null,
+    "watch_url": "https://www.themoviedb.org/movie/9062-love-story/watch?locale=US"
   },
   "released": {
-    "title": "Shrek the Third",
-    "year": 2007,
-    "reason": "Released today in 2007, this animated comedy still delights audiences with its witty humor and lovable characters, making it a great choice for a fun movie night.",
-    "blurb": "The third installment in the Shrek franchise brings back our favorite ogre and his friends for another hilarious adventure. With its clever writing and talented voice cast, it's a must-see for both kids and adults.",
-    "genre": "Animation / Comedy",
-    "runtime_min": 93,
+    "title": "The Da Vinci Code",
+    "year": 2006,
+    "reason": "Released today in 2006, this mystery thriller, directed by Ron Howard and based on Dan Brown's bestselling novel, still intrigues audiences with its complex web of secrets and conspiracies.",
+    "blurb": "This film, starring Tom Hanks as symbologist Robert Langdon, is a gripping adventure that takes viewers on a thrilling journey through ancient mysteries and hidden symbols. With its clever plot twists and stunning visuals, it's a cinematic experience that will keep you on the edge of your seat.",
+    "genre": "Mystery / Thriller",
+    "runtime_min": 149,
     "streaming": [
-      "Hulu",
-      "Peacock Premium",
-      "Peacock Premium Plus"
+      "fuboTV",
+      "MGM+ Amazon Channel",
+      "MGM Plus"
     ],
     "cast": [
-      "Mike Myers",
-      "Eddie Murphy",
-      "Cameron Diaz"
+      "Tom Hanks",
+      "Audrey Tautou",
+      "Ian McKellen"
     ],
-    "tmdb_id": 810,
-    "poster_path": "/n4SexGGQzI26E269tfpa80MZaGV.jpg",
-    "trailer_key": "_MoIr7811Bs",
+    "tmdb_id": 591,
+    "poster_path": "/9ejKfNk0LBhSI9AahH4f9NJNZNM.jpg",
+    "trailer_key": "Xy6aVei3Mnk",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/810-shrek-the-third/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/591-the-da-vinci-code/watch?locale=US"
   },
   "birthday": {
-    "title": "Austin Powers: International Man of Mystery",
-    "year": 1997,
-    "reason": "Happy birthday to Mike Myers, born May 15, 1963, starring in this film that showcases his comedic genius and launched the iconic Austin Powers franchise.",
-    "blurb": "This spy spoof film is a masterclass in comedy, with Myers' hilarious performance as the titular character. With its witty one-liners and outrageous humor, it's a classic that never gets old.",
-    "genre": "Comedy",
+    "title": "Peggy Sue Got Married",
+    "year": 1986,
+    "reason": "Happy birthday to Kathleen Turner, born May 16, 1954, who shines in this nostalgic comedy-drama as a high school graduate who travels back in time to relive her past.",
+    "blurb": "This charming film, directed by Francis Ford Coppola, is a delightful blend of humor, romance, and self-discovery, with Turner delivering a standout performance as the titular character. It's a heartwarming and entertaining movie that will leave you smiling.",
+    "genre": "Comedy / Drama",
     "cast": [
-      "Mike Myers",
-      "Elizabeth Hurley",
-      "Will Ferrell"
+      "Kathleen Turner",
+      "Nicolas Cage",
+      "Barry Miller"
     ],
-    "tmdb_id": 816,
-    "poster_path": "/5uD4dxNX8JKFjWKYMHyOsqhi5pN.jpg",
-    "trailer_key": "9HGy-c4_xFg",
+    "tmdb_id": 10013,
+    "poster_path": "/tfuQcvQmURiMqB2VPwytU3cPpEm.jpg",
+    "trailer_key": "091_NXuANgg",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 89,
-    "watch_url": "https://www.themoviedb.org/movie/816-austin-powers-international-man-of-mystery/watch?locale=US",
-    "streaming": []
+    "runtime_min": 103,
+    "watch_url": "https://www.themoviedb.org/movie/10013-peggy-sue-got-married/watch?locale=US",
+    "streaming": [
+      "YouTube TV"
+    ]
   },
   "awful": {
-    "title": "I Know Who Killed Me",
-    "year": 2007,
-    "reason": "This psychological thriller is infamous for its convoluted plot and poor acting, making it a prime example of a dumpster dive movie that's so bad it's good.",
-    "blurb": "With a messy storyline and cringe-worthy performances, this film is a trainwreck that's hard to look away from. If you're in the mood for something truly terrible, this might be the movie for you.",
-    "genre": "Thriller",
+    "title": "Ballistic: Ecks vs. Sever",
+    "year": 2002,
+    "reason": "This mind-bogglingly bad action film, with its convoluted plot and cringe-worthy dialogue, is a mesmerizing trainwreck that will leave you questioning the life choices of its cast and crew.",
+    "blurb": "With its laughable performances, atrocious editing, and nonsensical storyline, this movie is a masterclass in how to make a cinematic disaster. It's a fascinatingly awful film that will have you wondering how it ever got made.",
+    "genre": "Action",
     "cast": [
-      "Lindsay Lohan",
-      "Julia Ormond",
-      "Neal McDonough"
+      "Antonio Banderas",
+      "Lucy Liu",
+      "Talisa Soto"
     ],
-    "tmdb_id": 5857,
-    "poster_path": "/7hz8jYHGNsNsnF0FPngxQEEVyR6.jpg",
-    "trailer_key": "KSZ98kUVQFo",
+    "tmdb_id": 10550,
+    "poster_path": "/7Jcb486hN7hQRZTsb0RybFGeDOQ.jpg",
+    "trailer_key": "Tme_SdRv2gk",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 105,
-    "watch_url": "https://www.themoviedb.org/movie/5857-i-know-who-killed-me/watch?locale=US",
+    "runtime_min": 91,
+    "watch_url": null,
     "streaming": []
   }
 }
