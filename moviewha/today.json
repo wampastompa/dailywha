@@ -1,92 +1,93 @@
 {
-  "date": "Saturday, May 16, 2026",
-  "generated_at": "2026-05-16T10:16:40.019Z",
+  "date": "Monday, May 18, 2026",
+  "generated_at": "2026-05-18T12:32:46.353Z",
   "hero": {
-    "title": "Love Story",
-    "year": 1970,
-    "reason": "In honor of National Love Day, this classic romance film tells a poignant tale of two young lovers from different worlds, making it a timeless choice for today.",
-    "blurb": "This iconic film, starring Ryan O'Neal and Ali MacGraw, is a beautifully told story of love and loss that continues to captivate audiences with its emotional depth and memorable performances. It's a must-watch for anyone who believes in the power of true love.",
-    "genre": "Romance / Drama",
-    "runtime_min": 100,
+    "title": "Hairspray",
+    "year": 2007,
+    "reason": "In honor of National Hairstylist Appreciation Day, Hairspray is a fun and energetic film that celebrates the power of hair and hairstylists in the 1960s. With its upbeat music and dance numbers, it's the perfect film to appreciate the art of hairstyling.",
+    "blurb": "Hairspray is a classic musical comedy that will have you dancing in your seat. With its talented cast, including John Travolta and Queen Latifah, this film is a must-see for anyone who loves music and dance.",
+    "genre": "Comedy / Musical",
+    "runtime_min": 116,
     "streaming": [
-      "fuboTV",
-      "MGM+ Amazon Channel",
-      "MGM Plus"
+      "Netflix",
+      "Amazon Prime"
     ],
     "cast": [
-      "Ali MacGraw",
-      "Ryan O'Neal",
-      "John Marley"
+      "John Travolta",
+      "Queen Latifah",
+      "Zac Efron",
+      "Michelle Pfeiffer"
     ],
-    "tmdb_id": 9062,
-    "poster_path": "/yCjADq9fwbdPnxMo0DKNeRGZ4YC.jpg",
-    "trailer_key": "fgfy2guZu58",
+    "tmdb_id": 2976,
+    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
+    "trailer_key": "hsFtWsRn99U",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/9062-love-story/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
   },
   "released": {
-    "title": "The Da Vinci Code",
-    "year": 2006,
-    "reason": "Released today in 2006, this mystery thriller, directed by Ron Howard and based on Dan Brown's bestselling novel, still intrigues audiences with its complex web of secrets and conspiracies.",
-    "blurb": "This film, starring Tom Hanks as symbologist Robert Langdon, is a gripping adventure that takes viewers on a thrilling journey through ancient mysteries and hidden symbols. With its clever plot twists and stunning visuals, it's a cinematic experience that will keep you on the edge of your seat.",
-    "genre": "Mystery / Thriller",
-    "runtime_min": 149,
+    "title": "Shrek",
+    "year": 2001,
+    "reason": "Released today in 2001, Shrek is a classic animated film that has become a beloved favorite among both children and adults. Released today in 2001, this film's unique blend of humor and pop culture references has made it a standout in the world of animation.",
+    "blurb": "Shrek is a hilarious and irreverent film that pokes fun at traditional fairy tales. With its talented voice cast, including Mike Myers and Eddie Murphy, this film is a must-see for anyone who loves animation and comedy.",
+    "genre": "Animation / Comedy",
+    "runtime_min": 90,
     "streaming": [
-      "fuboTV",
-      "MGM+ Amazon Channel",
-      "MGM Plus"
+      "Hulu",
+      "Peacock Premium",
+      "Peacock Premium Plus"
     ],
     "cast": [
-      "Tom Hanks",
-      "Audrey Tautou",
-      "Ian McKellen"
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz",
+      "Antonio Banderas"
     ],
-    "tmdb_id": 591,
-    "poster_path": "/9ejKfNk0LBhSI9AahH4f9NJNZNM.jpg",
-    "trailer_key": "Xy6aVei3Mnk",
+    "tmdb_id": 808,
+    "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+    "trailer_key": "ppDwfm6e498",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/591-the-da-vinci-code/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/808-shrek/watch?locale=US"
   },
   "birthday": {
-    "title": "Peggy Sue Got Married",
-    "year": 1986,
-    "reason": "Happy birthday to Kathleen Turner, born May 16, 1954, who shines in this nostalgic comedy-drama as a high school graduate who travels back in time to relive her past.",
-    "blurb": "This charming film, directed by Francis Ford Coppola, is a delightful blend of humor, romance, and self-discovery, with Turner delivering a standout performance as the titular character. It's a heartwarming and entertaining movie that will leave you smiling.",
-    "genre": "Comedy / Drama",
+    "title": "Tales from the Darkside: The Movie",
+    "year": 1990,
+    "reason": "Happy birthday to Carey Lowell, born May 18, 1961. This film is a fun and spooky anthology that showcases Lowell's acting talents in a unique and entertaining way.",
+    "blurb": "Tales from the Darkside: The Movie is a classic horror anthology that features a talented cast, including Carey Lowell. With its blend of humor and horror, this film is a must-see for fans of the genre.",
+    "genre": "Horror / Comedy",
     "cast": [
-      "Kathleen Turner",
-      "Nicolas Cage",
-      "Barry Miller"
+      "Carey Lowell",
+      "Julie Brown",
+      "James Remar",
+      "Raúl Juliá"
     ],
-    "tmdb_id": 10013,
-    "poster_path": "/tfuQcvQmURiMqB2VPwytU3cPpEm.jpg",
-    "trailer_key": "091_NXuANgg",
+    "tmdb_id": 20701,
+    "poster_path": "/5q8WK4gW45Knxhpb29IVOCbbfI7.jpg",
+    "trailer_key": "pFNl7YEAof0",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 103,
-    "watch_url": "https://www.themoviedb.org/movie/10013-peggy-sue-got-married/watch?locale=US",
-    "streaming": [
-      "YouTube TV"
-    ]
+    "runtime_min": 93,
+    "watch_url": "https://www.themoviedb.org/movie/20701-tales-from-the-darkside-the-movie/watch?locale=US",
+    "streaming": []
   },
   "awful": {
     "title": "Ballistic: Ecks vs. Sever",
     "year": 2002,
-    "reason": "This mind-bogglingly bad action film, with its convoluted plot and cringe-worthy dialogue, is a mesmerizing trainwreck that will leave you questioning the life choices of its cast and crew.",
-    "blurb": "With its laughable performances, atrocious editing, and nonsensical storyline, this movie is a masterclass in how to make a cinematic disaster. It's a fascinatingly awful film that will have you wondering how it ever got made.",
+    "reason": "This notoriously bad action film has gained a cult following for its over-the-top action sequences and cringe-worthy dialogue, making it a must-see for fans of so-bad-it's-good cinema.",
+    "blurb": "Ballistic: Ecks vs. Sever is a hilariously bad film that is filled with cheesy one-liners and ridiculous action sequences. With its low budget and poor production quality, this film is a laughable mess that is sure to entertain.",
     "genre": "Action",
     "cast": [
       "Antonio Banderas",
       "Lucy Liu",
-      "Talisa Soto"
+      "Talisa Soto",
+      " Gregg Henry"
     ],
     "tmdb_id": 10550,
     "poster_path": "/7Jcb486hN7hQRZTsb0RybFGeDOQ.jpg",
