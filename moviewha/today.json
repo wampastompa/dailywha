@@ -1,103 +1,61 @@
 {
-  "date": "Monday, May 18, 2026",
-  "generated_at": "2026-05-18T12:32:46.353Z",
+  "date": "Wednesday, May 20, 2026",
+  "generated_at": "2026-05-20T11:50:01.665Z",
   "hero": {
     "title": "Hairspray",
     "year": 2007,
-    "reason": "In honor of National Hairstylist Appreciation Day, Hairspray is a fun and energetic film that celebrates the power of hair and hairstylists in the 1960s. With its upbeat music and dance numbers, it's the perfect film to appreciate the art of hairstyling.",
-    "blurb": "Hairspray is a classic musical comedy that will have you dancing in your seat. With its talented cast, including John Travolta and Queen Latifah, this film is a must-see for anyone who loves music and dance.",
-    "genre": "Comedy / Musical",
+    "reason": "In honor of Be a Millionaire Day, Hairspray is a fun and upbeat film that features a dance competition with a grand prize of $1,000, which, adjusted for inflation, was a significant amount of money for the characters and would make them feel like millionaires.",
+    "blurb": "With its catchy musical numbers and energetic performances, Hairspray is a fun and entertaining film that will keep you smiling. The movie's lighthearted and comedic tone makes it a great choice for a pick-me-up.",
+    "genre": "Musical / Comedy",
     "runtime_min": 116,
     "streaming": [
-      "Netflix",
-      "Amazon Prime"
+      "Amazon Prime Video"
     ],
     "cast": [
       "John Travolta",
       "Queen Latifah",
-      "Zac Efron",
       "Michelle Pfeiffer"
-    ],
-    "tmdb_id": 2976,
-    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
-    "trailer_key": "hsFtWsRn99U",
-    "imdb_rating": null,
-    "imdb_id": null,
-    "rt_score": null,
-    "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
+    ]
   },
   "released": {
     "title": "Shrek",
     "year": 2001,
-    "reason": "Released today in 2001, Shrek is a classic animated film that has become a beloved favorite among both children and adults. Released today in 2001, this film's unique blend of humor and pop culture references has made it a standout in the world of animation.",
-    "blurb": "Shrek is a hilarious and irreverent film that pokes fun at traditional fairy tales. With its talented voice cast, including Mike Myers and Eddie Murphy, this film is a must-see for anyone who loves animation and comedy.",
+    "reason": "Released today in 2001, Shrek is a groundbreaking animated film that has become a beloved classic, still entertaining audiences with its witty humor and lovable characters.",
+    "blurb": "Shrek is a hilarious and irreverent film that pokes fun at traditional fairy tales, with a talented voice cast and impressive animation. The movie's clever writing and pop culture references make it a must-see for both kids and adults.",
     "genre": "Animation / Comedy",
     "runtime_min": 90,
     "streaming": [
-      "Hulu",
-      "Peacock Premium",
-      "Peacock Premium Plus"
+      "Netflix"
     ],
     "cast": [
       "Mike Myers",
       "Eddie Murphy",
-      "Cameron Diaz",
-      "Antonio Banderas"
-    ],
-    "tmdb_id": 808,
-    "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
-    "trailer_key": "ppDwfm6e498",
-    "imdb_rating": null,
-    "imdb_id": null,
-    "rt_score": null,
-    "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/808-shrek/watch?locale=US"
+      "Cameron Diaz"
+    ]
   },
   "birthday": {
-    "title": "Tales from the Darkside: The Movie",
-    "year": 1990,
-    "reason": "Happy birthday to Carey Lowell, born May 18, 1961. This film is a fun and spooky anthology that showcases Lowell's acting talents in a unique and entertaining way.",
-    "blurb": "Tales from the Darkside: The Movie is a classic horror anthology that features a talented cast, including Carey Lowell. With its blend of humor and horror, this film is a must-see for fans of the genre.",
-    "genre": "Horror / Comedy",
+    "title": "Chaplin",
+    "year": 1992,
+    "reason": "Happy birthday to John Nash is not the connection, rather Happy birthday to Timothy Dalton (born May 20, 1946), Chaplin is a biographical drama film starring Robert Downey Jr. as the titular character, but Timothy Dalton was considered for the role and is an accomplished actor in his own right.",
+    "blurb": "Chaplin is a fascinating film that explores the life and career of the legendary comedian and filmmaker Charlie Chaplin. With its strong performances and engaging storyline, the film is a compelling tribute to a Hollywood icon.",
+    "genre": "Biographical Drama",
     "cast": [
-      "Carey Lowell",
-      "Julie Brown",
-      "James Remar",
-      "Raúl Juliá"
-    ],
-    "tmdb_id": 20701,
-    "poster_path": "/5q8WK4gW45Knxhpb29IVOCbbfI7.jpg",
-    "trailer_key": "pFNl7YEAof0",
-    "imdb_rating": null,
-    "imdb_id": null,
-    "rt_score": null,
-    "metacritic": null,
-    "runtime_min": 93,
-    "watch_url": "https://www.themoviedb.org/movie/20701-tales-from-the-darkside-the-movie/watch?locale=US",
-    "streaming": []
+      "Robert Downey Jr.",
+      "Dan Aykroyd",
+      "Geraldine Chaplin",
+      "Timothy Dalton"
+    ]
   },
   "awful": {
     "title": "Ballistic: Ecks vs. Sever",
     "year": 2002,
-    "reason": "This notoriously bad action film has gained a cult following for its over-the-top action sequences and cringe-worthy dialogue, making it a must-see for fans of so-bad-it's-good cinema.",
-    "blurb": "Ballistic: Ecks vs. Sever is a hilariously bad film that is filled with cheesy one-liners and ridiculous action sequences. With its low budget and poor production quality, this film is a laughable mess that is sure to entertain.",
+    "reason": "Ballistic: Ecks vs. Sever is a mind-bogglingly bad action movie with a convoluted plot and cringe-worthy dialogue, making it a prime candidate for a dumpster dive.",
+    "blurb": "This movie is a mess of poorly choreographed fight scenes and ridiculous plot twists, making it a hilarious example of how not to make an action film. With its low IMDb rating, it's a guaranteed laugh, but not in a good way.",
     "genre": "Action",
     "cast": [
       "Antonio Banderas",
       "Lucy Liu",
-      "Talisa Soto",
-      " Gregg Henry"
-    ],
-    "tmdb_id": 10550,
-    "poster_path": "/7Jcb486hN7hQRZTsb0RybFGeDOQ.jpg",
-    "trailer_key": "Tme_SdRv2gk",
-    "imdb_rating": null,
-    "imdb_id": null,
-    "rt_score": null,
-    "metacritic": null,
-    "runtime_min": 91,
-    "watch_url": null,
-    "streaming": []
+      "Talisa Soto"
+    ]
   }
 }
