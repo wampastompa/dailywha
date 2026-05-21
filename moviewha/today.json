@@ -1,61 +1,102 @@
 {
-  "date": "Wednesday, May 20, 2026",
-  "generated_at": "2026-05-20T11:50:01.665Z",
+  "date": "Thursday, May 21, 2026",
+  "generated_at": "2026-05-21T12:15:11.648Z",
   "hero": {
     "title": "Hairspray",
     "year": 2007,
-    "reason": "In honor of Be a Millionaire Day, Hairspray is a fun and upbeat film that features a dance competition with a grand prize of $1,000, which, adjusted for inflation, was a significant amount of money for the characters and would make them feel like millionaires.",
-    "blurb": "With its catchy musical numbers and energetic performances, Hairspray is a fun and entertaining film that will keep you smiling. The movie's lighthearted and comedic tone makes it a great choice for a pick-me-up.",
+    "reason": "In honor of National Memo Day, Hairspray is a fun choice because it's all about self-expression through dance and music, just like how writing down your memos can be a fun way to express yourself.",
+    "blurb": "Hairspray is an energetic and entertaining film with great music and impressive dance numbers. The cast delivers outstanding performances that will keep you smiling throughout the movie.",
     "genre": "Musical / Comedy",
     "runtime_min": 116,
     "streaming": [
-      "Amazon Prime Video"
+      "Amazon Prime"
     ],
     "cast": [
       "John Travolta",
       "Queen Latifah",
-      "Michelle Pfeiffer"
-    ]
+      "Zac Efron"
+    ],
+    "tmdb_id": 2976,
+    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
+    "trailer_key": "hsFtWsRn99U",
+    "imdb_rating": null,
+    "imdb_id": null,
+    "rt_score": null,
+    "metacritic": null,
+    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
   },
   "released": {
-    "title": "Shrek",
-    "year": 2001,
-    "reason": "Released today in 2001, Shrek is a groundbreaking animated film that has become a beloved classic, still entertaining audiences with its witty humor and lovable characters.",
-    "blurb": "Shrek is a hilarious and irreverent film that pokes fun at traditional fairy tales, with a talented voice cast and impressive animation. The movie's clever writing and pop culture references make it a must-see for both kids and adults.",
-    "genre": "Animation / Comedy",
-    "runtime_min": 90,
+    "title": "Pirates of the Caribbean: At World's End",
+    "year": 2007,
+    "reason": "Released today in 2007, Pirates of the Caribbean: At World's End is an epic conclusion to the original trilogy, bringing together the beloved characters for an unforgettable adventure.",
+    "blurb": "The film features stunning visuals, impressive action sequences, and a talented cast. The movie's intricate plot and memorable characters make it a must-watch for fans of the franchise.",
+    "genre": "Action / Adventure",
+    "runtime_min": 169,
     "streaming": [
-      "Netflix"
+      "Disney Plus",
+      "TNT",
+      "TBS"
     ],
     "cast": [
-      "Mike Myers",
-      "Eddie Murphy",
-      "Cameron Diaz"
-    ]
+      "Johnny Depp",
+      "Orlando Bloom",
+      "Keira Knightley"
+    ],
+    "tmdb_id": 285,
+    "poster_path": "/2YMnBRh8F6fDGCCEIPk9Hb0cEyB.jpg",
+    "trailer_key": "HKSZtp_OGHY",
+    "imdb_rating": null,
+    "imdb_id": null,
+    "rt_score": null,
+    "metacritic": null,
+    "watch_url": "https://www.themoviedb.org/movie/285-pirates-of-the-caribbean-at-world-s-end/watch?locale=US"
   },
   "birthday": {
-    "title": "Chaplin",
-    "year": 1992,
-    "reason": "Happy birthday to John Nash is not the connection, rather Happy birthday to Timothy Dalton (born May 20, 1946), Chaplin is a biographical drama film starring Robert Downey Jr. as the titular character, but Timothy Dalton was considered for the role and is an accomplished actor in his own right.",
-    "blurb": "Chaplin is a fascinating film that explores the life and career of the legendary comedian and filmmaker Charlie Chaplin. With its strong performances and engaging storyline, the film is a compelling tribute to a Hollywood icon.",
-    "genre": "Biographical Drama",
+    "title": "Mr. Holland's Opus",
+    "year": 1995,
+    "reason": "Happy birthday to Richard Dreyfuss, Mr. Holland's Opus is a heartwarming film that showcases his incredible talent as a dedicated teacher who inspires his students through music.",
+    "blurb": "The movie features outstanding performances, a beautiful soundtrack, and a poignant story that will leave you feeling inspired. Richard Dreyfuss delivers a powerful and emotional performance as the titular character.",
+    "genre": "Drama",
     "cast": [
-      "Robert Downey Jr.",
-      "Dan Aykroyd",
-      "Geraldine Chaplin",
-      "Timothy Dalton"
+      "Richard Dreyfuss",
+      "Glenne Headly",
+      "Jay Thomas"
+    ],
+    "tmdb_id": 2054,
+    "poster_path": "/kBmwWeSN3ajnYHZ3dSybEobxEPI.jpg",
+    "trailer_key": "1nsHT-9kFtE",
+    "imdb_rating": null,
+    "imdb_id": null,
+    "rt_score": null,
+    "metacritic": null,
+    "runtime_min": 143,
+    "watch_url": "https://www.themoviedb.org/movie/2054-mr-holland-s-opus/watch?locale=US",
+    "streaming": [
+      "Disney Plus"
     ]
   },
   "awful": {
-    "title": "Ballistic: Ecks vs. Sever",
-    "year": 2002,
-    "reason": "Ballistic: Ecks vs. Sever is a mind-bogglingly bad action movie with a convoluted plot and cringe-worthy dialogue, making it a prime candidate for a dumpster dive.",
-    "blurb": "This movie is a mess of poorly choreographed fight scenes and ridiculous plot twists, making it a hilarious example of how not to make an action film. With its low IMDb rating, it's a guaranteed laugh, but not in a good way.",
-    "genre": "Action",
+    "title": "I Know Who Killed Me",
+    "year": 2007,
+    "reason": "a famously bad movie with terrible reviews, I Know Who Killed Me is a cringe-worthy thriller that fails to deliver on its promising premise.",
+    "blurb": "The film's convoluted plot, poor acting, and lack of suspense make it a laughable attempt at a psychological thriller. The movie's attempts at being clever and twisty only result in a confusing and boring experience.",
+    "genre": "Thriller",
     "cast": [
-      "Antonio Banderas",
-      "Lucy Liu",
-      "Talisa Soto"
+      "Lindsay Lohan",
+      "Julia Ormond",
+      "Neal McDonough"
+    ],
+    "tmdb_id": 5857,
+    "poster_path": "/7hz8jYHGNsNsnF0FPngxQEEVyR6.jpg",
+    "trailer_key": "KSZ98kUVQFo",
+    "imdb_rating": null,
+    "imdb_id": null,
+    "rt_score": null,
+    "metacritic": null,
+    "runtime_min": 105,
+    "watch_url": "https://www.themoviedb.org/movie/5857-i-know-who-killed-me/watch?locale=US",
+    "streaming": [
+      "fuboTV"
     ]
   }
 }
