@@ -1,20 +1,20 @@
 {
-  "date": "Thursday, May 21, 2026",
-  "generated_at": "2026-05-21T12:15:11.648Z",
+  "date": "Saturday, May 23, 2026",
+  "generated_at": "2026-05-23T10:26:44.706Z",
   "hero": {
     "title": "Hairspray",
     "year": 2007,
-    "reason": "In honor of National Memo Day, Hairspray is a fun choice because it's all about self-expression through dance and music, just like how writing down your memos can be a fun way to express yourself.",
-    "blurb": "Hairspray is an energetic and entertaining film with great music and impressive dance numbers. The cast delivers outstanding performances that will keep you smiling throughout the movie.",
+    "reason": "In honor of World Crohn's and Colitis Awareness Day, Hairspray is chosen for its uplifting message and positive portrayal of characters overcoming obstacles, despite not being directly about the medical condition, the film's energetic tone and inspiring story make it a great fit for a day that aims to promote awareness and support.",
+    "blurb": "Experience the magic of 1960s Baltimore with this musical comedy starring an all-star cast. With its catchy soundtrack and impressive dance numbers, Hairspray is a fun and entertaining film that will leave you smiling.",
     "genre": "Musical / Comedy",
     "runtime_min": 116,
     "streaming": [
-      "Amazon Prime"
+      "Amazon Prime Video"
     ],
     "cast": [
       "John Travolta",
       "Queen Latifah",
-      "Zac Efron"
+      "Michelle Pfeiffer"
     ],
     "tmdb_id": 2976,
     "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
@@ -26,77 +26,73 @@
     "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
   },
   "released": {
-    "title": "Pirates of the Caribbean: At World's End",
-    "year": 2007,
-    "reason": "Released today in 2007, Pirates of the Caribbean: At World's End is an epic conclusion to the original trilogy, bringing together the beloved characters for an unforgettable adventure.",
-    "blurb": "The film features stunning visuals, impressive action sequences, and a talented cast. The movie's intricate plot and memorable characters make it a must-watch for fans of the franchise.",
-    "genre": "Action / Adventure",
-    "runtime_min": 169,
+    "title": "The Hangover Part II",
+    "year": 2011,
+    "reason": "Released today in 2011, this raunchy comedy sequel is still widely popular for its outrageous humor and wild adventures in Thailand.",
+    "blurb": "The Wolfpack is back and more outrageous than ever in this hilarious sequel to the original hit comedy. With its over-the-top antics and ridiculous situations, The Hangover Part II is a laugh-out-loud film that will keep you entertained.",
+    "genre": "Comedy",
+    "runtime_min": 102,
     "streaming": [
-      "Disney Plus",
-      "TNT",
-      "TBS"
+      "YouTube TV",
+      "TBS",
+      "tru TV"
     ],
     "cast": [
-      "Johnny Depp",
-      "Orlando Bloom",
-      "Keira Knightley"
+      "Bradley Cooper",
+      "Ed Helms",
+      "Zach Galifianakis"
     ],
-    "tmdb_id": 285,
-    "poster_path": "/2YMnBRh8F6fDGCCEIPk9Hb0cEyB.jpg",
-    "trailer_key": "HKSZtp_OGHY",
+    "tmdb_id": 45243,
+    "poster_path": "/cKZu0Fdkj7dmwbfMpgDqVVCkLJQ.jpg",
+    "trailer_key": "ohF5ZO_zOYU",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/285-pirates-of-the-caribbean-at-world-s-end/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/45243-the-hangover-part-ii/watch?locale=US"
   },
   "birthday": {
-    "title": "Mr. Holland's Opus",
-    "year": 1995,
-    "reason": "Happy birthday to Richard Dreyfuss, Mr. Holland's Opus is a heartwarming film that showcases his incredible talent as a dedicated teacher who inspires his students through music.",
-    "blurb": "The movie features outstanding performances, a beautiful soundtrack, and a poignant story that will leave you feeling inspired. Richard Dreyfuss delivers a powerful and emotional performance as the titular character.",
-    "genre": "Drama",
+    "title": "The Scorpion King",
+    "year": 2002,
+    "reason": "Happy birthday to Dwayne 'The Rock' Johnson, born May 23, 1972, who stars in this action-adventure film as the protagonist, showcasing his early acting career and impressive physicality.",
+    "blurb": "This prequel to The Mummy Returns is an epic tale of adventure and bravery, starring Dwayne 'The Rock' Johnson as the demigod warrior. With its stunning action sequences and engaging storyline, The Scorpion King is an entertaining film that will keep you on the edge of your seat.",
+    "genre": "Action / Adventure",
     "cast": [
-      "Richard Dreyfuss",
-      "Glenne Headly",
-      "Jay Thomas"
+      "Dwayne Johnson",
+      "Steven Brand",
+      "Michael Clarke Duncan"
     ],
-    "tmdb_id": 2054,
-    "poster_path": "/kBmwWeSN3ajnYHZ3dSybEobxEPI.jpg",
-    "trailer_key": "1nsHT-9kFtE",
+    "tmdb_id": 9334,
+    "poster_path": "/aITIsX20tACn6jgtyDcCYpRT216.jpg",
+    "trailer_key": "LVhw9EAAP-8",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 143,
-    "watch_url": "https://www.themoviedb.org/movie/2054-mr-holland-s-opus/watch?locale=US",
-    "streaming": [
-      "Disney Plus"
-    ]
+    "runtime_min": 92,
+    "watch_url": "https://www.themoviedb.org/movie/9334-the-scorpion-king/watch?locale=US",
+    "streaming": []
   },
   "awful": {
-    "title": "I Know Who Killed Me",
-    "year": 2007,
-    "reason": "a famously bad movie with terrible reviews, I Know Who Killed Me is a cringe-worthy thriller that fails to deliver on its promising premise.",
-    "blurb": "The film's convoluted plot, poor acting, and lack of suspense make it a laughable attempt at a psychological thriller. The movie's attempts at being clever and twisty only result in a confusing and boring experience.",
-    "genre": "Thriller",
+    "title": "Ballistic: Ecks vs. Sever",
+    "year": 2002,
+    "reason": "This action film is infamous for its poor acting, convoluted plot, and cringe-worthy dialogue, making it a prime example of a dumpster dive movie.",
+    "blurb": "With a convoluted plot and atrocious acting, Ballistic: Ecks vs. Sever is a mess of a film that fails to deliver on its promise of high-octane action. This trainwreck of a movie is so bad it's almost entertaining, but not quite.",
+    "genre": "Action",
     "cast": [
-      "Lindsay Lohan",
-      "Julia Ormond",
-      "Neal McDonough"
+      "Antonio Banderas",
+      "Lucy Liu",
+      "Talisa Soto"
     ],
-    "tmdb_id": 5857,
-    "poster_path": "/7hz8jYHGNsNsnF0FPngxQEEVyR6.jpg",
-    "trailer_key": "KSZ98kUVQFo",
+    "tmdb_id": 10550,
+    "poster_path": "/7Jcb486hN7hQRZTsb0RybFGeDOQ.jpg",
+    "trailer_key": "Tme_SdRv2gk",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 105,
-    "watch_url": "https://www.themoviedb.org/movie/5857-i-know-who-killed-me/watch?locale=US",
-    "streaming": [
-      "fuboTV"
-    ]
+    "runtime_min": 91,
+    "watch_url": null,
+    "streaming": []
   }
 }
