@@ -1,98 +1,98 @@
 {
-  "date": "Saturday, May 23, 2026",
-  "generated_at": "2026-05-23T10:26:44.706Z",
+  "date": "Sunday, May 24, 2026",
+  "generated_at": "2026-05-24T10:41:57.714Z",
   "hero": {
-    "title": "Hairspray",
-    "year": 2007,
-    "reason": "In honor of World Crohn's and Colitis Awareness Day, Hairspray is chosen for its uplifting message and positive portrayal of characters overcoming obstacles, despite not being directly about the medical condition, the film's energetic tone and inspiring story make it a great fit for a day that aims to promote awareness and support.",
-    "blurb": "Experience the magic of 1960s Baltimore with this musical comedy starring an all-star cast. With its catchy soundtrack and impressive dance numbers, Hairspray is a fun and entertaining film that will leave you smiling.",
-    "genre": "Musical / Comedy",
-    "runtime_min": 116,
-    "streaming": [
-      "Amazon Prime Video"
-    ],
+    "title": "The Astronaut Farmer",
+    "year": 2006,
+    "reason": "In honor of National Escargot Day, we're launching into a film about a man who dreams big, just like the escargot that dreams of being more than just a snack.",
+    "blurb": "This heartwarming film is out of this world, with a stellar cast and a story that will leave you feeling starstruck. It's a beautifully crafted tale of following your dreams, no matter how impossible they may seem.",
+    "genre": "Drama / Adventure",
+    "runtime_min": 104,
+    "streaming": [],
     "cast": [
-      "John Travolta",
-      "Queen Latifah",
-      "Michelle Pfeiffer"
+      "Billy Bob Thornton",
+      "Virginia Madsen",
+      "Max Thieriot"
     ],
-    "tmdb_id": 2976,
-    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
-    "trailer_key": "hsFtWsRn99U",
+    "tmdb_id": 5172,
+    "poster_path": "/19uGc8wW3Ert1QvMYxvnReQkFMc.jpg",
+    "trailer_key": "390WaPcxnFI",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/5172-the-astronaut-farmer/watch?locale=US"
   },
   "released": {
-    "title": "The Hangover Part II",
-    "year": 2011,
-    "reason": "Released today in 2011, this raunchy comedy sequel is still widely popular for its outrageous humor and wild adventures in Thailand.",
-    "blurb": "The Wolfpack is back and more outrageous than ever in this hilarious sequel to the original hit comedy. With its over-the-top antics and ridiculous situations, The Hangover Part II is a laugh-out-loud film that will keep you entertained.",
-    "genre": "Comedy",
-    "runtime_min": 102,
+    "title": "Pirates of the Caribbean: At World's End",
+    "year": 2007,
+    "reason": "Released today in 2007, this swashbuckling adventure still rules the high seas with its unforgettable characters and epic battles.",
+    "blurb": "The third installment in the Pirates franchise is a thrilling ride, with stunning action sequences and a talented cast. It's a must-see for fans of the series and adventure lovers alike.",
+    "genre": "Action / Adventure",
+    "runtime_min": 169,
     "streaming": [
-      "YouTube TV",
-      "TBS",
-      "tru TV"
+      "Disney Plus",
+      "TNT",
+      "TBS"
     ],
     "cast": [
-      "Bradley Cooper",
-      "Ed Helms",
-      "Zach Galifianakis"
+      "Johnny Depp",
+      "Orlando Bloom",
+      "Keira Knightley"
     ],
-    "tmdb_id": 45243,
-    "poster_path": "/cKZu0Fdkj7dmwbfMpgDqVVCkLJQ.jpg",
-    "trailer_key": "ohF5ZO_zOYU",
+    "tmdb_id": 285,
+    "poster_path": "/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+    "trailer_key": "HKSZtp_OGHY",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/45243-the-hangover-part-ii/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/285-pirates-of-the-caribbean-at-world-s-end/watch?locale=US"
   },
   "birthday": {
-    "title": "The Scorpion King",
-    "year": 2002,
-    "reason": "Happy birthday to Dwayne 'The Rock' Johnson, born May 23, 1972, who stars in this action-adventure film as the protagonist, showcasing his early acting career and impressive physicality.",
-    "blurb": "This prequel to The Mummy Returns is an epic tale of adventure and bravery, starring Dwayne 'The Rock' Johnson as the demigod warrior. With its stunning action sequences and engaging storyline, The Scorpion King is an entertaining film that will keep you on the edge of your seat.",
-    "genre": "Action / Adventure",
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "reason": "Happy birthday to John C. Reilly, born May 24, 1965, starring in this quirky and charming film that showcases his unique talent.",
+    "blurb": "This visually stunning film is a delight to watch, with a talented cast and a story that is both humorous and heartfelt. John C. Reilly shines in his role, bringing depth and complexity to the character.",
+    "genre": "Comedy / Drama",
     "cast": [
-      "Dwayne Johnson",
-      "Steven Brand",
-      "Michael Clarke Duncan"
+      "John C. Reilly",
+      "Tony Revolori",
+      "Adrien Brody"
     ],
-    "tmdb_id": 9334,
-    "poster_path": "/aITIsX20tACn6jgtyDcCYpRT216.jpg",
-    "trailer_key": "LVhw9EAAP-8",
+    "tmdb_id": 120467,
+    "poster_path": "/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+    "trailer_key": "G1jG8HUY4zI",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 92,
-    "watch_url": "https://www.themoviedb.org/movie/9334-the-scorpion-king/watch?locale=US",
+    "runtime_min": 100,
+    "watch_url": "https://www.themoviedb.org/movie/120467-the-grand-budapest-hotel/watch?locale=US",
     "streaming": []
   },
   "awful": {
-    "title": "Ballistic: Ecks vs. Sever",
-    "year": 2002,
-    "reason": "This action film is infamous for its poor acting, convoluted plot, and cringe-worthy dialogue, making it a prime example of a dumpster dive movie.",
-    "blurb": "With a convoluted plot and atrocious acting, Ballistic: Ecks vs. Sever is a mess of a film that fails to deliver on its promise of high-octane action. This trainwreck of a movie is so bad it's almost entertaining, but not quite.",
-    "genre": "Action",
+    "title": "I Know Who Killed Me",
+    "year": 2007,
+    "reason": "This infamous film is a masterclass in bad acting, poor writing, and cringe-worthy plot twists, making it a must-see for those who enjoy so-bad-it's-good cinema.",
+    "blurb": "With a convoluted plot and terrible acting, this film is a trainwreck that you can't look away from. It's a fascinating example of how a movie can go so wrong, making it a guilty pleasure for some.",
+    "genre": "Thriller",
     "cast": [
-      "Antonio Banderas",
-      "Lucy Liu",
-      "Talisa Soto"
+      "Lindsay Lohan",
+      "Julia Ormond",
+      "Neal McDonough"
     ],
-    "tmdb_id": 10550,
-    "poster_path": "/7Jcb486hN7hQRZTsb0RybFGeDOQ.jpg",
-    "trailer_key": "Tme_SdRv2gk",
+    "tmdb_id": 5857,
+    "poster_path": "/7hz8jYHGNsNsnF0FPngxQEEVyR6.jpg",
+    "trailer_key": "KSZ98kUVQFo",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 91,
-    "watch_url": null,
-    "streaming": []
+    "runtime_min": 105,
+    "watch_url": "https://www.themoviedb.org/movie/5857-i-know-who-killed-me/watch?locale=US",
+    "streaming": [
+      "fuboTV"
+    ]
   }
 }
