@@ -1,33 +1,27 @@
 {
-  "date": "Sunday, May 24, 2026",
-  "generated_at": "2026-05-24T10:41:57.714Z",
+  "date": "Monday, May 25, 2026",
+  "generated_at": "2026-05-25T12:32:39.758Z",
   "hero": {
-    "title": "The Astronaut Farmer",
-    "year": 2006,
-    "reason": "In honor of National Escargot Day, we're launching into a film about a man who dreams big, just like the escargot that dreams of being more than just a snack.",
-    "blurb": "This heartwarming film is out of this world, with a stellar cast and a story that will leave you feeling starstruck. It's a beautifully crafted tale of following your dreams, no matter how impossible they may seem.",
-    "genre": "Drama / Adventure",
-    "runtime_min": 104,
-    "streaming": [],
-    "cast": [
-      "Billy Bob Thornton",
-      "Virginia Madsen",
-      "Max Thieriot"
+    "title": "Towel Day: Don't Panic",
+    "year": 2005,
+    "reason": "In honor of Towel Day, a holiday observed by fans of Douglas Adams' science fiction series 'The Hitchhiker's Guide to the Galaxy', this film is a comedic take on the series.",
+    "blurb": "The Hitchhiker's Guide to the Galaxy is an entertaining film that stays true to the quirky spirit of Douglas Adams' book. With its witty humor and out-of-this-world adventure, it's a must-see for fans of science fiction and comedy alike.",
+    "genre": "Comedy / Science Fiction",
+    "runtime_min": 110,
+    "streaming": [
+      "Amazon Prime"
     ],
-    "tmdb_id": 5172,
-    "poster_path": "/19uGc8wW3Ert1QvMYxvnReQkFMc.jpg",
-    "trailer_key": "390WaPcxnFI",
-    "imdb_rating": null,
-    "imdb_id": null,
-    "rt_score": null,
-    "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/5172-the-astronaut-farmer/watch?locale=US"
+    "cast": [
+      "Martin Freeman",
+      "Zooey Deschanel",
+      "Mos Def"
+    ]
   },
   "released": {
     "title": "Pirates of the Caribbean: At World's End",
     "year": 2007,
-    "reason": "Released today in 2007, this swashbuckling adventure still rules the high seas with its unforgettable characters and epic battles.",
-    "blurb": "The third installment in the Pirates franchise is a thrilling ride, with stunning action sequences and a talented cast. It's a must-see for fans of the series and adventure lovers alike.",
+    "reason": "Released today in 2007, this swashbuckling adventure cemented the Pirates franchise as a global phenomenon and showcased Johnny Depp's iconic Captain Jack Sparrow.",
+    "blurb": "Pirates of the Caribbean: At World's End is a thrilling ride filled with action, adventure, and memorable characters. With its stunning visuals and epic battles, it's a must-see for fans of the franchise.",
     "genre": "Action / Adventure",
     "runtime_min": 169,
     "streaming": [
@@ -50,49 +44,47 @@
     "watch_url": "https://www.themoviedb.org/movie/285-pirates-of-the-caribbean-at-world-s-end/watch?locale=US"
   },
   "birthday": {
-    "title": "The Grand Budapest Hotel",
-    "year": 2014,
-    "reason": "Happy birthday to John C. Reilly, born May 24, 1965, starring in this quirky and charming film that showcases his unique talent.",
-    "blurb": "This visually stunning film is a delight to watch, with a talented cast and a story that is both humorous and heartfelt. John C. Reilly shines in his role, bringing depth and complexity to the character.",
-    "genre": "Comedy / Drama",
+    "title": "I Know What You Did Last Summer",
+    "year": 1997,
+    "reason": "Happy birthday to Ian McShane, starring alongside Jennifer Love Hewitt and Freddie Prinze Jr. in this classic horror film that has become a staple of the genre.",
+    "blurb": "I Know What You Did Last Summer is a suspenseful horror film with a talented young cast and plenty of shocking twists. Ian McShane's performance adds depth to the story, making it a compelling watch.",
+    "genre": "Horror / Thriller",
     "cast": [
-      "John C. Reilly",
-      "Tony Revolori",
-      "Adrien Brody"
+      "Ian McShane",
+      "Jennifer Love Hewitt",
+      "Freddie Prinze Jr."
     ],
-    "tmdb_id": 120467,
-    "poster_path": "/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
-    "trailer_key": "G1jG8HUY4zI",
+    "tmdb_id": 3597,
+    "poster_path": "/dQyaJx0SptDqvQcAewAr8FAtLB2.jpg",
+    "trailer_key": "rEnCEM48QaY",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 100,
-    "watch_url": "https://www.themoviedb.org/movie/120467-the-grand-budapest-hotel/watch?locale=US",
+    "runtime_min": 102,
+    "watch_url": "https://www.themoviedb.org/movie/3597-i-know-what-you-did-last-summer/watch?locale=US",
     "streaming": []
   },
   "awful": {
-    "title": "I Know Who Killed Me",
-    "year": 2007,
-    "reason": "This infamous film is a masterclass in bad acting, poor writing, and cringe-worthy plot twists, making it a must-see for those who enjoy so-bad-it's-good cinema.",
-    "blurb": "With a convoluted plot and terrible acting, this film is a trainwreck that you can't look away from. It's a fascinating example of how a movie can go so wrong, making it a guilty pleasure for some.",
-    "genre": "Thriller",
+    "title": "Ballistic: Ecks vs. Sever",
+    "year": 2002,
+    "reason": "this infamous action film is often cited as one of the worst movies ever made, with a convoluted plot and cringe-worthy acting.",
+    "blurb": "Ballistic: Ecks vs. Sever is an unintentionally hilarious film that fails on almost every level. With its nonsensical plot and atrocious acting, it's a must-see for fans of so-bad-it's-good cinema.",
+    "genre": "Action",
     "cast": [
-      "Lindsay Lohan",
-      "Julia Ormond",
-      "Neal McDonough"
+      "Antonio Banderas",
+      "Lucy Liu",
+      "Talisa Soto"
     ],
-    "tmdb_id": 5857,
-    "poster_path": "/7hz8jYHGNsNsnF0FPngxQEEVyR6.jpg",
-    "trailer_key": "KSZ98kUVQFo",
+    "tmdb_id": 10550,
+    "poster_path": "/7Jcb486hN7hQRZTsb0RybFGeDOQ.jpg",
+    "trailer_key": "Tme_SdRv2gk",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 105,
-    "watch_url": "https://www.themoviedb.org/movie/5857-i-know-who-killed-me/watch?locale=US",
-    "streaming": [
-      "fuboTV"
-    ]
+    "runtime_min": 91,
+    "watch_url": null,
+    "streaming": []
   }
 }
