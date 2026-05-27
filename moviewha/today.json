@@ -1,27 +1,36 @@
 {
-  "date": "Monday, May 25, 2026",
-  "generated_at": "2026-05-25T12:32:39.758Z",
+  "date": "Wednesday, May 27, 2026",
+  "generated_at": "2026-05-27T12:21:38.953Z",
   "hero": {
-    "title": "Towel Day: Don't Panic",
-    "year": 2005,
-    "reason": "In honor of Towel Day, a holiday observed by fans of Douglas Adams' science fiction series 'The Hitchhiker's Guide to the Galaxy', this film is a comedic take on the series.",
-    "blurb": "The Hitchhiker's Guide to the Galaxy is an entertaining film that stays true to the quirky spirit of Douglas Adams' book. With its witty humor and out-of-this-world adventure, it's a must-see for fans of science fiction and comedy alike.",
-    "genre": "Comedy / Science Fiction",
-    "runtime_min": 110,
+    "title": "Hairspray",
+    "year": 2007,
+    "reason": "In honor of National Senior Health and Fitness Day, focusing on the importance of being active and healthy, Hairspray is a fun and upbeat musical that features energetic dance numbers and a heartwarming story, making it a great fit for this observance.",
+    "blurb": "Hairspray is a wildly entertaining film with a talented cast, impressive choreography, and a story that promotes self-acceptance and social change. The movie's energetic atmosphere and catchy songs make it a must-watch for anyone looking for a fun and uplifting experience.",
+    "genre": "Comedy / Musical",
+    "runtime_min": 116,
     "streaming": [
+      "Netflix",
       "Amazon Prime"
     ],
     "cast": [
-      "Martin Freeman",
-      "Zooey Deschanel",
-      "Mos Def"
-    ]
+      "John Travolta",
+      "Queen Latifah",
+      "Michelle Pfeiffer"
+    ],
+    "tmdb_id": 2976,
+    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
+    "trailer_key": "hsFtWsRn99U",
+    "imdb_rating": null,
+    "imdb_id": null,
+    "rt_score": null,
+    "metacritic": null,
+    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
   },
   "released": {
     "title": "Pirates of the Caribbean: At World's End",
     "year": 2007,
-    "reason": "Released today in 2007, this swashbuckling adventure cemented the Pirates franchise as a global phenomenon and showcased Johnny Depp's iconic Captain Jack Sparrow.",
-    "blurb": "Pirates of the Caribbean: At World's End is a thrilling ride filled with action, adventure, and memorable characters. With its stunning visuals and epic battles, it's a must-see for fans of the franchise.",
+    "reason": "Released today in 2007, Pirates of the Caribbean: At World's End is an action-packed adventure that marked the third installment in the beloved franchise, bringing back iconic characters and introducing new ones in an epic battle to save the pirates' way of life.",
+    "blurb": "Pirates of the Caribbean: At World's End is a visually stunning film with impressive special effects, memorable characters, and an engaging storyline that explores the complexities of power and loyalty. The movie's intricate plot and stunning action sequences make it a thrilling ride from start to finish.",
     "genre": "Action / Adventure",
     "runtime_min": 169,
     "streaming": [
@@ -44,47 +53,51 @@
     "watch_url": "https://www.themoviedb.org/movie/285-pirates-of-the-caribbean-at-world-s-end/watch?locale=US"
   },
   "birthday": {
-    "title": "I Know What You Did Last Summer",
-    "year": 1997,
-    "reason": "Happy birthday to Ian McShane, starring alongside Jennifer Love Hewitt and Freddie Prinze Jr. in this classic horror film that has become a staple of the genre.",
-    "blurb": "I Know What You Did Last Summer is a suspenseful horror film with a talented young cast and plenty of shocking twists. Ian McShane's performance adds depth to the story, making it a compelling watch.",
-    "genre": "Horror / Thriller",
+    "title": "The Doors",
+    "year": 1991,
+    "reason": "Happy birthday to Christopher Lambert, born May 27, 1957, who delivers a captivating performance as a fictionalized version of William S. Burroughs, a close friend of Jim Morrison, in this biographical drama that explores the life and music of the iconic rock band.",
+    "blurb": "The Doors is a haunting and intense film that delves into the turbulent life of Jim Morrison, with a standout performance by Val Kilmer. The movie's atmospheric soundtrack and poetic cinematography make it a must-watch for fans of the band and anyone interested in the 1960s counterculture.",
+    "genre": "Biography / Drama",
     "cast": [
-      "Ian McShane",
-      "Jennifer Love Hewitt",
-      "Freddie Prinze Jr."
+      "Christopher Lambert",
+      "Val Kilmer",
+      "Meg Ryan"
     ],
-    "tmdb_id": 3597,
-    "poster_path": "/dQyaJx0SptDqvQcAewAr8FAtLB2.jpg",
-    "trailer_key": "rEnCEM48QaY",
+    "tmdb_id": 10537,
+    "poster_path": "/x1LM3dzGuG6xOz0aT2e71o11vhu.jpg",
+    "trailer_key": "qJu9nfVCQmk",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 102,
-    "watch_url": "https://www.themoviedb.org/movie/3597-i-know-what-you-did-last-summer/watch?locale=US",
-    "streaming": []
+    "runtime_min": 140,
+    "watch_url": "https://www.themoviedb.org/movie/10537-the-doors/watch?locale=US",
+    "streaming": [
+      "fuboTV",
+      "MGM+ Amazon Channel",
+      "MGM Plus"
+    ]
   },
   "awful": {
-    "title": "Ballistic: Ecks vs. Sever",
-    "year": 2002,
-    "reason": "this infamous action film is often cited as one of the worst movies ever made, with a convoluted plot and cringe-worthy acting.",
-    "blurb": "Ballistic: Ecks vs. Sever is an unintentionally hilarious film that fails on almost every level. With its nonsensical plot and atrocious acting, it's a must-see for fans of so-bad-it's-good cinema.",
-    "genre": "Action",
+    "title": "I Know Who Killed Me",
+    "year": 2007,
+    "reason": "Famously panned by critics, I Know Who Killed Me is a cringeworthy thriller with a convoluted plot, awkward dialogue, and a general air of confusion, making it a perfect candidate for a dumpster dive.",
+    "blurb": "I Know Who Killed Me is a laughably bad movie that tries to pass off its incoherent storyline as a clever twist, but ends up being a mess of cliches and poor acting. The film's inadvertent humor and over-the-top performances make it a so-bad-it's-good watch for those who enjoy trainwrecks.",
+    "genre": "Thriller / Mystery",
     "cast": [
-      "Antonio Banderas",
-      "Lucy Liu",
-      "Talisa Soto"
+      "Lindsay Lohan",
+      "Julia Ormond",
+      "Neal McDonough"
     ],
-    "tmdb_id": 10550,
-    "poster_path": "/7Jcb486hN7hQRZTsb0RybFGeDOQ.jpg",
-    "trailer_key": "Tme_SdRv2gk",
+    "tmdb_id": 5857,
+    "poster_path": "/7hz8jYHGNsNsnF0FPngxQEEVyR6.jpg",
+    "trailer_key": "KSZ98kUVQFo",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 91,
-    "watch_url": null,
+    "runtime_min": 105,
+    "watch_url": "https://www.themoviedb.org/movie/5857-i-know-who-killed-me/watch?locale=US",
     "streaming": []
   }
 }
