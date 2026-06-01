@@ -1,36 +1,35 @@
 {
-  "date": "Sunday, May 31, 2026",
-  "generated_at": "2026-05-31T10:58:43.959Z",
+  "date": "Monday, June 1, 2026",
+  "generated_at": "2026-06-01T15:22:14.471Z",
   "hero": {
-    "title": "Houdini",
-    "year": 1953,
-    "reason": "In honor of World No Tobacco Day, a classic film about the life of Harry Houdini, who often incorporated anti-smoking tricks into his acts, fits the observance as it highlights a legendary figure who promoted healthy habits.",
-    "blurb": "This classic biographical drama brings to life the story of the renowned magician Harry Houdini, showcasing his incredible escape acts and his legacy that continues to inspire. With its historical significance and entertaining narrative, Houdini is a must-watch for fans of classic cinema.",
-    "genre": "Biography / Drama",
-    "runtime_min": 106,
+    "title": "Hairspray",
+    "year": 2007,
+    "reason": "In honor of Global Day of Parents, we celebrate the loving and supportive parents in this film, like Edna Turnblad, who encourage their children to be themselves and follow their dreams.",
+    "blurb": "This musical masterpiece is full of energy, catchy songs, and a talented cast. With its positive message and upbeat vibe, it's the perfect film to watch with your family.",
+    "genre": "Comedy / Musical",
+    "runtime_min": 116,
     "streaming": [
-      "MGM Plus Roku Premium Channel",
-      "MGM Plus"
+      "Amazon Prime Video"
     ],
     "cast": [
-      "Tony Curtis",
-      "Janet Leigh",
-      "Torin Thatcher"
+      "John Travolta",
+      "Queen Latifah",
+      "Michelle Pfeiffer"
     ],
-    "tmdb_id": 43192,
-    "poster_path": "/9Qz3v7IgaGrSmYfMGyPAPbEJvnV.jpg",
-    "trailer_key": "UAvYTGxIpx4",
+    "tmdb_id": 2976,
+    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
+    "trailer_key": "hsFtWsRn99U",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/43192-houdini/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
   },
   "released": {
     "title": "Knocked Up",
     "year": 2007,
-    "reason": "Released today in 2007, this film still rules as a hilarious and heartfelt comedy that explores the consequences of a one-night stand, starring Seth Rogen and Katherine Heigl.",
-    "blurb": "Knocked Up is a laugh-out-loud comedy that delves into the unexpected consequences of a wild night, bringing together two individuals from different walks of life. With its witty dialogue and authentic characters, this film is a standout in the romantic comedy genre.",
+    "reason": "Released today in 2007, this hilarious and heartwarming film still resonates with audiences today, thanks to its relatable characters and realistic portrayal of unexpected pregnancy.",
+    "blurb": "Seth Rogen and Katherine Heigl deliver outstanding performances as two people from different walks of life brought together by a one-night stand. The film's witty dialogue and comedic supporting cast make it a laugh-out-loud classic.",
     "genre": "Comedy / Romance",
     "runtime_min": 129,
     "streaming": [
@@ -53,33 +52,37 @@
     "watch_url": "https://www.themoviedb.org/movie/4964-knocked-up/watch?locale=US"
   },
   "birthday": {
-    "title": "A Prairie Home Companion",
-    "year": 2006,
-    "reason": "Happy birthday to Chris Cooper, born May 31, 1951, starring in this film as a memorable character, showcasing his versatility as an actor in a unique blend of music, comedy, and drama.",
-    "blurb": "A Prairie Home Companion is a charming film that celebrates the power of radio and the human connection, featuring an ensemble cast, including Chris Cooper. With its captivating storytelling and memorable performances, this film is a must-watch for fans of independent cinema.",
+    "title": "Heathers",
+    "year": 1988,
+    "reason": "Happy birthday to Heather Langenkamp, born June 1, 1970, who starred as the iconic Heather Duke in this cult classic teen comedy.",
+    "blurb": "This dark and satirical film is a timeless commentary on high school cliques and social hierarchy. With its witty dialogue and memorable characters, it's a must-watch for any 80s movie fan.",
     "genre": "Comedy / Drama",
     "cast": [
-      "Chris Cooper",
-      "Lindsay Lohan",
-      "Meryl Streep"
+      "Heather Langenkamp",
+      "Winona Ryder",
+      "Christian Slater"
     ],
-    "tmdb_id": 9526,
-    "poster_path": "/jVdqvd8SgPTWLdG3qc9pSlXGxQi.jpg",
-    "trailer_key": "DE3TZSdjVFM",
+    "tmdb_id": 2640,
+    "poster_path": "/dGbVfM4WlM7uvIbyRehfPZUIgp2.jpg",
+    "trailer_key": "WE3_uwJC4NQ",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 105,
-    "watch_url": "https://www.themoviedb.org/movie/9526-a-prairie-home-companion/watch?locale=US",
-    "streaming": []
+    "runtime_min": 103,
+    "watch_url": "https://www.themoviedb.org/movie/2640-heathers/watch?locale=US",
+    "streaming": [
+      "Amazon Prime Video",
+      "fuboTV",
+      "Philo"
+    ]
   },
   "awful": {
     "title": "Ballistic: Ecks vs. Sever",
     "year": 2002,
-    "reason": "A famously bad movie with terrible reviews, Ballistic: Ecks vs. Sever is often cited as one of the worst films of the 2000s, making it a prime candidate for a Dumpster Dive.",
-    "blurb": "This action-packed disaster is a mess of poor acting, incoherent plot twists, and cringe-worthy dialogue, making it a laughable example of how not to make an action film. If you're looking for a movie to ridicule, Ballistic: Ecks vs. Sever is the perfect choice.",
-    "genre": "Action",
+    "reason": "this action film is infamous for its convoluted plot, poor acting, and excessive use of slow motion, making it a laughingstock among movie critics and fans.",
+    "blurb": "With a whopping 0% approval rating on Rotten Tomatoes, this movie is a masterpiece of bad filmmaking. Its over-the-top action sequences and cringe-worthy one-liners make it a hilarious trainwreck to watch.",
+    "genre": "Action / Thriller",
     "cast": [
       "Antonio Banderas",
       "Lucy Liu",
