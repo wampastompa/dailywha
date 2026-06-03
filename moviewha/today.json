@@ -1,35 +1,27 @@
 {
-  "date": "Tuesday, June 2, 2026",
-  "generated_at": "2026-06-02T12:42:52.983Z",
+  "date": "Wednesday, June 3, 2026",
+  "generated_at": "2026-06-03T13:17:54.831Z",
   "hero": {
-    "title": "Hairspray",
-    "year": 2007,
-    "reason": "In honor of National Leave the Office Early Day, let's celebrate with a film that's all about breaking free and having a good time, just like the characters in Hairspray who dance their way to success.",
-    "blurb": "Hairspray is a fun, energetic film that's full of great music and dance numbers. With its positive messages about inclusivity and self-acceptance, it's a great choice for a day when you want to leave your worries behind and have a good time.",
-    "genre": "Musical / Comedy",
-    "runtime_min": 116,
+    "title": "Eagle Day",
+    "year": 2020,
+    "reason": "In honor of World Bicycle Day, Eagle Day is a film that showcases the beauty of cycling and the freedom it brings, making it a great fit for this day.",
+    "blurb": "Eagle Day is a visually stunning film that will take you on a journey through breathtaking landscapes, with a strong narrative that explores the human connection with nature. The cinematography is impressive, and the storyline is both inspiring and emotional.",
+    "genre": "Drama / Adventure",
+    "runtime_min": 90,
     "streaming": [
       "Amazon Prime"
     ],
     "cast": [
-      "John Travolta",
-      "Queen Latifah",
-      "Michelle Pfeiffer"
-    ],
-    "tmdb_id": 2976,
-    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
-    "trailer_key": "hsFtWsRn99U",
-    "imdb_rating": null,
-    "imdb_id": null,
-    "rt_score": null,
-    "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
+      "Jan Wieczorkowski",
+      "Mateusz Wieczorkowski",
+      "Julia Kijowska"
+    ]
   },
   "released": {
     "title": "Knocked Up",
     "year": 2007,
-    "reason": "Released today in 2007, this hilarious and heartwarming film has become a classic romantic comedy. Released today in 2007, Knocked Up still rules as a relatable and entertaining movie about unexpected love and growing up.",
-    "blurb": "Knocked Up is a funny and touching film that explores the ups and downs of relationships and parenthood. With its well-developed characters and realistic dialogue, it's a great choice for anyone looking for a romantic comedy with substance.",
+    "reason": "Released today in 2007, Knocked Up is a hilarious and heartwarming film that still holds up today, thanks to its relatable characters and witty dialogue.",
+    "blurb": "Knocked Up is a classic romantic comedy that explores the unexpected consequences of a one-night stand, featuring standout performances from Seth Rogen and Katherine Heigl. The film's blend of humor and sentimentality makes it a must-watch.",
     "genre": "Romantic Comedy",
     "runtime_min": 129,
     "streaming": [
@@ -40,7 +32,8 @@
     "cast": [
       "Seth Rogen",
       "Katherine Heigl",
-      "Paul Rudd"
+      "Paul Rudd",
+      "Leslie Mann"
     ],
     "tmdb_id": 4964,
     "poster_path": "/b4OaXw2MW97VvIiZE0Sbn1NfxSh.jpg",
@@ -52,39 +45,41 @@
     "watch_url": "https://www.themoviedb.org/movie/4964-knocked-up/watch?locale=US"
   },
   "birthday": {
-    "title": "More American Graffiti",
-    "year": 1979,
-    "reason": "Happy birthday to Dennis Hopper, born June 2, 1936, who stars in this classic coming-of-age film. Happy birthday to Dennis Hopper, this film showcases his talent as a director and features him in a memorable role.",
-    "blurb": "More American Graffiti is a nostalgic and engaging film that explores the lives of a group of friends in the 1960s. With its talented cast and nostalgic soundtrack, it's a great choice for anyone looking for a classic coming-of-age story.",
-    "genre": "Comedy / Drama",
+    "title": "Jefferson in Paris",
+    "year": 1995,
+    "reason": "Happy birthday to James Earl Jones, Jefferson in Paris is a historical drama film that showcases his exceptional acting skills, bringing to life the complex character of Madison Hemings.",
+    "blurb": "Jefferson in Paris is a thought-provoking film that explores the life of Thomas Jefferson, with James Earl Jones delivering a powerful performance. The film's historical context and stunning cinematography make it a compelling watch.",
+    "genre": "Historical Drama",
     "cast": [
-      "Dennis Hopper",
-      "Ron Howard",
-      "Paul Le Mat"
+      "James Earl Jones",
+      "Nick Nolte",
+      "Greta Scacchi",
+      "Simon Callow"
     ],
-    "tmdb_id": 33258,
-    "poster_path": "/dnHmQgxeHqgc1A78hE3AdzhlJsW.jpg",
-    "trailer_key": null,
+    "tmdb_id": 87729,
+    "poster_path": "/vcZCvsm920LoNDb7pMibJkxIE4n.jpg",
+    "trailer_key": "oTpFci6HNgA",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 111,
-    "watch_url": "https://www.themoviedb.org/movie/33258-more-american-graffiti/watch?locale=US",
+    "runtime_min": 139,
+    "watch_url": "https://www.themoviedb.org/movie/87729-jefferson-in-paris/watch?locale=US",
     "streaming": [
-      "Philo"
+      "History Vault"
     ]
   },
   "awful": {
     "title": "Ballistic: Ecks vs. Sever",
     "year": 2002,
-    "reason": "This notoriously bad action film has become a cult classic for its over-the-top action sequences and cringe-worthy dialogue, making it a funny and entertaining watch for fans of so-bad-it's-good movies.",
-    "blurb": "Ballistic: Ecks vs. Sever is a hilariously bad film that's full of ridiculous action sequences and cheesy one-liners. With its low production values and poor acting, it's a great choice for anyone looking for a laughably bad movie experience.",
+    "reason": "This notoriously bad action film has gained a cult following for its over-the-top antics and cringe-worthy dialogue, making it a hilarious guilty pleasure.",
+    "blurb": "Ballistic: Ecks vs. Sever is a mind-bogglingly bad film that will leave you questioning the life choices of its cast and crew. With its nonsensical plot and atrocious acting, it's a mesmerizing trainwreck that's impossible to look away from.",
     "genre": "Action",
     "cast": [
       "Antonio Banderas",
       "Lucy Liu",
-      "Talisa Soto"
+      "Talisa Soto",
+      "Ray Park"
     ],
     "tmdb_id": 10550,
     "poster_path": "/7Jcb486hN7hQRZTsb0RybFGeDOQ.jpg",
