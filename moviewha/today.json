@@ -1,85 +1,86 @@
 {
-  "date": "Wednesday, June 3, 2026",
-  "generated_at": "2026-06-03T13:17:54.831Z",
+  "date": "Thursday, June 4, 2026",
+  "generated_at": "2026-06-04T11:55:19.089Z",
   "hero": {
-    "title": "Eagle Day",
-    "year": 2020,
-    "reason": "In honor of World Bicycle Day, Eagle Day is a film that showcases the beauty of cycling and the freedom it brings, making it a great fit for this day.",
-    "blurb": "Eagle Day is a visually stunning film that will take you on a journey through breathtaking landscapes, with a strong narrative that explores the human connection with nature. The cinematography is impressive, and the storyline is both inspiring and emotional.",
-    "genre": "Drama / Adventure",
-    "runtime_min": 90,
+    "title": "Hairspray",
+    "year": 2007,
+    "reason": "In honor of National Leave The Office Early Day, a fun musical like Hairspray will get you in the mood to cut out of work and dance the day away, just like the energetic characters in this film.",
+    "blurb": "With its lighthearted humor and catchy soundtrack, Hairspray is the perfect pick-me-up to help you leave your worries behind. The all-star cast brings this musical to life with their charm and talent. It's a fun, upbeat film that will leave you smiling.",
+    "genre": "Musical / Comedy",
+    "runtime_min": 116,
     "streaming": [
       "Amazon Prime"
     ],
     "cast": [
-      "Jan Wieczorkowski",
-      "Mateusz Wieczorkowski",
-      "Julia Kijowska"
-    ]
+      "John Travolta",
+      "Queen Latifah",
+      "Michelle Pfeiffer"
+    ],
+    "tmdb_id": 2976,
+    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
+    "trailer_key": "hsFtWsRn99U",
+    "imdb_rating": null,
+    "imdb_id": null,
+    "rt_score": null,
+    "metacritic": null,
+    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
   },
   "released": {
-    "title": "Knocked Up",
+    "title": "Mr. Brooks",
     "year": 2007,
-    "reason": "Released today in 2007, Knocked Up is a hilarious and heartwarming film that still holds up today, thanks to its relatable characters and witty dialogue.",
-    "blurb": "Knocked Up is a classic romantic comedy that explores the unexpected consequences of a one-night stand, featuring standout performances from Seth Rogen and Katherine Heigl. The film's blend of humor and sentimentality makes it a must-watch.",
-    "genre": "Romantic Comedy",
-    "runtime_min": 129,
+    "reason": "Released today in 2007, Mr. Brooks is a psychological thriller that explores the darker side of human nature, featuring a tour-de-force performance from Kevin Costner.",
+    "blurb": "This gripping film will keep you on the edge of your seat as it delves into the mind of a serial killer. With its unexpected twists and turns, Mr. Brooks is a must-see for fans of the thriller genre.",
+    "genre": "Thriller / Drama",
+    "runtime_min": 120,
     "streaming": [
-      "Starz Apple TV Channel",
-      "Starz",
-      "Philo"
+      "Tubi"
     ],
     "cast": [
-      "Seth Rogen",
-      "Katherine Heigl",
-      "Paul Rudd",
-      "Leslie Mann"
+      "Kevin Costner",
+      "Demi Moore",
+      "William Hurt"
     ],
-    "tmdb_id": 4964,
-    "poster_path": "/b4OaXw2MW97VvIiZE0Sbn1NfxSh.jpg",
-    "trailer_key": "K6oqO-xMERc",
+    "tmdb_id": 3432,
+    "poster_path": "/yYleq0qmb67Ig2ViY3hFmUOrH77.jpg",
+    "trailer_key": "hXfbVIFc6t4",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/4964-knocked-up/watch?locale=US"
+    "watch_url": null
   },
   "birthday": {
-    "title": "Jefferson in Paris",
-    "year": 1995,
-    "reason": "Happy birthday to James Earl Jones, Jefferson in Paris is a historical drama film that showcases his exceptional acting skills, bringing to life the complex character of Madison Hemings.",
-    "blurb": "Jefferson in Paris is a thought-provoking film that explores the life of Thomas Jefferson, with James Earl Jones delivering a powerful performance. The film's historical context and stunning cinematography make it a compelling watch.",
-    "genre": "Historical Drama",
+    "title": "Sleepless in Seattle",
+    "year": 1993,
+    "reason": "Happy birthday to Bruce Willis was not born today but,  Angela Kinsey was not born today either, however,  Bruce Dern was not, however Happy birthday to Bruce Dern, born June 4, 1936, and this classic rom-com showcases his talent in a supporting role.",
+    "blurb": "This iconic film is a beautiful love story that will capture your heart. With its witty dialogue and memorable performances, Sleepless in Seattle is a timeless classic that will leave you feeling warm and fuzzy inside.",
+    "genre": "Romance / Comedy",
     "cast": [
-      "James Earl Jones",
-      "Nick Nolte",
-      "Greta Scacchi",
-      "Simon Callow"
+      "Bruce Dern",
+      "Tom Hanks",
+      "Meg Ryan"
     ],
-    "tmdb_id": 87729,
-    "poster_path": "/vcZCvsm920LoNDb7pMibJkxIE4n.jpg",
-    "trailer_key": "oTpFci6HNgA",
+    "tmdb_id": 858,
+    "poster_path": "/jAXfku1u1uaLGh4cUmK0ESf1pPu.jpg",
+    "trailer_key": "2bnxHgO59A4",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 139,
-    "watch_url": "https://www.themoviedb.org/movie/87729-jefferson-in-paris/watch?locale=US",
-    "streaming": [
-      "History Vault"
-    ]
+    "runtime_min": 105,
+    "watch_url": "https://www.themoviedb.org/movie/858-sleepless-in-seattle/watch?locale=US",
+    "streaming": []
   },
   "awful": {
     "title": "Ballistic: Ecks vs. Sever",
     "year": 2002,
-    "reason": "This notoriously bad action film has gained a cult following for its over-the-top antics and cringe-worthy dialogue, making it a hilarious guilty pleasure.",
-    "blurb": "Ballistic: Ecks vs. Sever is a mind-bogglingly bad film that will leave you questioning the life choices of its cast and crew. With its nonsensical plot and atrocious acting, it's a mesmerizing trainwreck that's impossible to look away from.",
+    "reason": "Ballistic: Ecks vs. Sever is infamous for its incoherent plot, poor acting, and cringe-worthy dialogue, making it a hilariously bad movie that's so bad it's good.",
+    "blurb": "This action film is a masterclass in how not to make a movie, with its nonsensical storyline and over-the-top performances. It's a trainwreck that you can't look away from, and its absurdity makes it oddly entertaining.",
     "genre": "Action",
     "cast": [
       "Antonio Banderas",
       "Lucy Liu",
-      "Talisa Soto",
-      "Ray Park"
+      "Talia Shire"
     ],
     "tmdb_id": 10550,
     "poster_path": "/7Jcb486hN7hQRZTsb0RybFGeDOQ.jpg",
