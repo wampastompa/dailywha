@@ -1,11 +1,11 @@
 {
-  "date": "Thursday, June 4, 2026",
-  "generated_at": "2026-06-04T11:55:19.089Z",
+  "date": "Friday, June 5, 2026",
+  "generated_at": "2026-06-05T12:09:11.075Z",
   "hero": {
     "title": "Hairspray",
     "year": 2007,
-    "reason": "In honor of National Leave The Office Early Day, a fun musical like Hairspray will get you in the mood to cut out of work and dance the day away, just like the energetic characters in this film.",
-    "blurb": "With its lighthearted humor and catchy soundtrack, Hairspray is the perfect pick-me-up to help you leave your worries behind. The all-star cast brings this musical to life with their charm and talent. It's a fun, upbeat film that will leave you smiling.",
+    "reason": "In honor of World Environment Day, we're celebrating a film that brings people together across racial and social divides, Hairspray, with its uplifting message and energetic performances.",
+    "blurb": "This musical comedy is a fun and lively way to spend an evening, with catchy songs and impressive dance numbers. The film's themes of acceptance and inclusivity make it a great choice for World Environment Day.",
     "genre": "Musical / Comedy",
     "runtime_min": 116,
     "streaming": [
@@ -26,61 +26,65 @@
     "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
   },
   "released": {
-    "title": "Mr. Brooks",
-    "year": 2007,
-    "reason": "Released today in 2007, Mr. Brooks is a psychological thriller that explores the darker side of human nature, featuring a tour-de-force performance from Kevin Costner.",
-    "blurb": "This gripping film will keep you on the edge of your seat as it delves into the mind of a serial killer. With its unexpected twists and turns, Mr. Brooks is a must-see for fans of the thriller genre.",
-    "genre": "Thriller / Drama",
+    "title": "Mr. & Mrs. Smith",
+    "year": 2005,
+    "reason": "Released today in 2005, this action-packed comedy still thrills audiences with its witty banter and high-octane action sequences, making it a standout film in the genre.",
+    "blurb": "This film is a non-stop adrenaline rush, with Brad Pitt and Angelina Jolie delivering memorable performances as the titular characters. The chemistry between the leads is undeniable, making their on-screen relationship a joy to watch.",
+    "genre": "Action / Comedy",
     "runtime_min": 120,
     "streaming": [
-      "Tubi"
+      "Netflix"
     ],
     "cast": [
-      "Kevin Costner",
-      "Demi Moore",
-      "William Hurt"
+      "Brad Pitt",
+      "Angelina Jolie",
+      "Adam Brody"
     ],
-    "tmdb_id": 3432,
-    "poster_path": "/yYleq0qmb67Ig2ViY3hFmUOrH77.jpg",
-    "trailer_key": "hXfbVIFc6t4",
+    "tmdb_id": 787,
+    "poster_path": "/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg",
+    "trailer_key": "TWB_icm5M38",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": null
+    "watch_url": "https://www.themoviedb.org/movie/787-mr-mrs-smith/watch?locale=US"
   },
   "birthday": {
-    "title": "Sleepless in Seattle",
-    "year": 1993,
-    "reason": "Happy birthday to Bruce Willis was not born today but,  Angela Kinsey was not born today either, however,  Bruce Dern was not, however Happy birthday to Bruce Dern, born June 4, 1936, and this classic rom-com showcases his talent in a supporting role.",
-    "blurb": "This iconic film is a beautiful love story that will capture your heart. With its witty dialogue and memorable performances, Sleepless in Seattle is a timeless classic that will leave you feeling warm and fuzzy inside.",
-    "genre": "Romance / Comedy",
+    "title": "Apollo 13",
+    "year": 1995,
+    "reason": "Happy birthday to Ron Howard's leading man, Tom Hanks, who shines in this gripping drama based on a true story, bringing to life the heroic efforts of the Apollo 13 mission.",
+    "blurb": "This film is a tense and inspiring drama that showcases the incredible skills of its cast, with Tom Hanks delivering a remarkable performance. The film's attention to detail and historical accuracy make it a must-see for space enthusiasts.",
+    "genre": "Drama / Thriller",
     "cast": [
-      "Bruce Dern",
       "Tom Hanks",
-      "Meg Ryan"
+      "Bill Paxton",
+      "Kevin Bacon"
     ],
-    "tmdb_id": 858,
-    "poster_path": "/jAXfku1u1uaLGh4cUmK0ESf1pPu.jpg",
-    "trailer_key": "2bnxHgO59A4",
+    "tmdb_id": 568,
+    "poster_path": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+    "trailer_key": "B1KJ9XeZuxA",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 105,
-    "watch_url": "https://www.themoviedb.org/movie/858-sleepless-in-seattle/watch?locale=US",
-    "streaming": []
+    "runtime_min": 140,
+    "watch_url": "https://www.themoviedb.org/movie/568-apollo-13/watch?locale=US",
+    "streaming": [
+      "AMC+ Roku Premium Channel",
+      "YouTube TV",
+      "Wonder Project Amazon Channel"
+    ]
   },
   "awful": {
     "title": "Ballistic: Ecks vs. Sever",
     "year": 2002,
-    "reason": "Ballistic: Ecks vs. Sever is infamous for its incoherent plot, poor acting, and cringe-worthy dialogue, making it a hilariously bad movie that's so bad it's good.",
-    "blurb": "This action film is a masterclass in how not to make a movie, with its nonsensical storyline and over-the-top performances. It's a trainwreck that you can't look away from, and its absurdity makes it oddly entertaining.",
+    "reason": "This mind-bogglingly bad action film has gained a cult following for its absurdity and unintentional humor, making it a guilty pleasure for fans of so-bad-it's-good cinema.",
+    "blurb": "This film is a masterclass in how not to make an action movie, with cringe-worthy dialogue and poorly choreographed fight scenes. Despite its many flaws, the film remains entertaining in a trainwreck kind of way, making it a fascinating watch.",
     "genre": "Action",
     "cast": [
       "Antonio Banderas",
       "Lucy Liu",
-      "Talia Shire"
+      "Talisa Soto"
     ],
     "tmdb_id": 10550,
     "poster_path": "/7Jcb486hN7hQRZTsb0RybFGeDOQ.jpg",
