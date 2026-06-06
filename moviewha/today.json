@@ -1,85 +1,82 @@
 {
-  "date": "Friday, June 5, 2026",
-  "generated_at": "2026-06-05T12:09:11.075Z",
+  "date": "Saturday, June 6, 2026",
+  "generated_at": "2026-06-06T10:54:05.096Z",
   "hero": {
-    "title": "Hairspray",
-    "year": 2007,
-    "reason": "In honor of World Environment Day, we're celebrating a film that brings people together across racial and social divides, Hairspray, with its uplifting message and energetic performances.",
-    "blurb": "This musical comedy is a fun and lively way to spend an evening, with catchy songs and impressive dance numbers. The film's themes of acceptance and inclusivity make it a great choice for World Environment Day.",
-    "genre": "Musical / Comedy",
-    "runtime_min": 116,
-    "streaming": [
-      "Amazon Prime"
-    ],
+    "title": "D-Day the Sixth of June",
+    "year": 1956,
+    "reason": "In honor of the anniversary of D-Day, this film is a classic tribute to the bravery and sacrifice of the soldiers who landed in Normandy on June 6, 1944, and its historical significance makes it a timeless watch.",
+    "blurb": "This movie tells the story of the D-Day invasion from a personal perspective, focusing on the relationships between the soldiers and their loved ones, making it a compelling and emotional historical drama. With its realistic portrayal of war, D-Day the Sixth of June is a must-see for history buffs and film enthusiasts alike. Its powerful storytelling and strong performances make it a memorable experience.",
+    "genre": "War / Drama",
+    "runtime_min": 106,
+    "streaming": [],
     "cast": [
-      "John Travolta",
-      "Queen Latifah",
-      "Michelle Pfeiffer"
+      "Robert Taylor",
+      "Richard Todd",
+      "Dana Wynter"
     ],
-    "tmdb_id": 2976,
-    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
-    "trailer_key": "hsFtWsRn99U",
+    "tmdb_id": 64129,
+    "poster_path": "/ghPpTqMNDYxexeuxPlc10aWIvot.jpg",
+    "trailer_key": "e5IryhTd1e4",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/64129-d-day-the-sixth-of-june/watch?locale=US"
   },
   "released": {
-    "title": "Mr. & Mrs. Smith",
-    "year": 2005,
-    "reason": "Released today in 2005, this action-packed comedy still thrills audiences with its witty banter and high-octane action sequences, making it a standout film in the genre.",
-    "blurb": "This film is a non-stop adrenaline rush, with Brad Pitt and Angelina Jolie delivering memorable performances as the titular characters. The chemistry between the leads is undeniable, making their on-screen relationship a joy to watch.",
-    "genre": "Action / Comedy",
-    "runtime_min": 120,
+    "title": "Fantastic Four: Rise of the Silver Surfer",
+    "year": 2007,
+    "reason": "Released today in 2007, this superhero film is a fun and action-packed sequel that brings the beloved comic book characters to life with its impressive visual effects and engaging storyline.",
+    "blurb": "With its lighthearted tone and exciting action sequences, Fantastic Four: Rise of the Silver Surfer is an entertaining movie that will appeal to fans of the comic book series and superhero films in general. The film's visuals and special effects hold up well even today, making it a great choice for a fun movie night. The cast delivers strong performances, bringing depth and humor to their characters.",
+    "genre": "Action / Adventure",
+    "runtime_min": 92,
     "streaming": [
-      "Netflix"
+      "Disney Plus"
     ],
     "cast": [
-      "Brad Pitt",
-      "Angelina Jolie",
-      "Adam Brody"
+      "Ioan Gruffudd",
+      "Jessica Alba",
+      "Chris Evans"
     ],
-    "tmdb_id": 787,
-    "poster_path": "/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg",
-    "trailer_key": "TWB_icm5M38",
+    "tmdb_id": 1979,
+    "poster_path": "/1rxTraSO45jbvTrCeSvJ6RmOu1b.jpg",
+    "trailer_key": "7whodtti908",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/787-mr-mrs-smith/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/1979-fantastic-four-rise-of-the-silver-surfer/watch?locale=US"
   },
   "birthday": {
-    "title": "Apollo 13",
-    "year": 1995,
-    "reason": "Happy birthday to Ron Howard's leading man, Tom Hanks, who shines in this gripping drama based on a true story, bringing to life the heroic efforts of the Apollo 13 mission.",
-    "blurb": "This film is a tense and inspiring drama that showcases the incredible skills of its cast, with Tom Hanks delivering a remarkable performance. The film's attention to detail and historical accuracy make it a must-see for space enthusiasts.",
-    "genre": "Drama / Thriller",
+    "title": "Wedding Crashers",
+    "year": 2005,
+    "reason": "Happy birthday to Jeremy Piven, born June 6, 1965, and this film is one of his most memorable roles, showcasing his comedic talent as a charismatic but slightly unhinged character.",
+    "blurb": "Wedding Crashers is a hilarious and entertaining movie that features Jeremy Piven in a scene-stealing role, and his chemistry with the lead actors makes the film even more enjoyable. With its witty dialogue and outrageous humor, this movie is a classic comedy that will keep you laughing from start to finish.",
+    "genre": "Comedy",
     "cast": [
-      "Tom Hanks",
-      "Bill Paxton",
-      "Kevin Bacon"
+      "Jeremy Piven",
+      "Owen Wilson",
+      "Vince Vaughn"
     ],
-    "tmdb_id": 568,
-    "poster_path": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
-    "trailer_key": "B1KJ9XeZuxA",
+    "tmdb_id": 9522,
+    "poster_path": "/lFM3lk2zVzC1YFnKm0r6LbFPyRu.jpg",
+    "trailer_key": "MBTY2PJD0yY",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 140,
-    "watch_url": "https://www.themoviedb.org/movie/568-apollo-13/watch?locale=US",
+    "runtime_min": 119,
+    "watch_url": "https://www.themoviedb.org/movie/9522-wedding-crashers/watch?locale=US",
     "streaming": [
-      "AMC+ Roku Premium Channel",
-      "YouTube TV",
-      "Wonder Project Amazon Channel"
+      "HBO Max Amazon Channel",
+      "HBO Max"
     ]
   },
   "awful": {
     "title": "Ballistic: Ecks vs. Sever",
     "year": 2002,
-    "reason": "This mind-bogglingly bad action film has gained a cult following for its absurdity and unintentional humor, making it a guilty pleasure for fans of so-bad-it's-good cinema.",
-    "blurb": "This film is a masterclass in how not to make an action movie, with cringe-worthy dialogue and poorly choreographed fight scenes. Despite its many flaws, the film remains entertaining in a trainwreck kind of way, making it a fascinating watch.",
+    "reason": "This infamous action film is often cited as one of the worst movies ever made, with a convoluted plot, poor acting, and cringe-worthy dialogue, making it a fascinatingly bad watch.",
+    "blurb": "Ballistic: Ecks vs. Sever is a mind-bogglingly bad movie that will leave you questioning the sanity of the people involved in its production, and its sheer audacity makes it a morbidly fascinating watch. With its ridiculous plot twists and over-the-top action sequences, this film is a trainwreck that you won't be able to look away from.",
     "genre": "Action",
     "cast": [
       "Antonio Banderas",
