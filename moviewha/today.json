@@ -1,33 +1,35 @@
 {
-  "date": "Saturday, June 6, 2026",
-  "generated_at": "2026-06-06T10:54:05.096Z",
+  "date": "Sunday, June 7, 2026",
+  "generated_at": "2026-06-07T11:09:36.213Z",
   "hero": {
-    "title": "D-Day the Sixth of June",
-    "year": 1956,
-    "reason": "In honor of the anniversary of D-Day, this film is a classic tribute to the bravery and sacrifice of the soldiers who landed in Normandy on June 6, 1944, and its historical significance makes it a timeless watch.",
-    "blurb": "This movie tells the story of the D-Day invasion from a personal perspective, focusing on the relationships between the soldiers and their loved ones, making it a compelling and emotional historical drama. With its realistic portrayal of war, D-Day the Sixth of June is a must-see for history buffs and film enthusiasts alike. Its powerful storytelling and strong performances make it a memorable experience.",
-    "genre": "War / Drama",
-    "runtime_min": 106,
-    "streaming": [],
-    "cast": [
-      "Robert Taylor",
-      "Richard Todd",
-      "Dana Wynter"
+    "title": "Hairspray",
+    "year": 2007,
+    "reason": "In honor of National Chocolate Ice Cream Day, we're celebrating with a movie that features a dancing queen who loves chocolate and a story that's as sweet as a cold ice cream on a summer day. The musical numbers and upbeat tone make it a perfect fit for this fun observance.",
+    "blurb": "Hairspray is a musical extravaganza with stunning performances and catchy songs. The film's energetic and colorful vibe makes it a delightful watch, especially on a day when we're indulging in sweet treats like chocolate ice cream.",
+    "genre": "Musical / Comedy",
+    "runtime_min": 116,
+    "streaming": [
+      "Amazon Prime"
     ],
-    "tmdb_id": 64129,
-    "poster_path": "/ghPpTqMNDYxexeuxPlc10aWIvot.jpg",
-    "trailer_key": "e5IryhTd1e4",
+    "cast": [
+      "John Travolta",
+      "Queen Latifah",
+      "Michelle Pfeiffer"
+    ],
+    "tmdb_id": 2976,
+    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
+    "trailer_key": "hsFtWsRn99U",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/64129-d-day-the-sixth-of-june/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
   },
   "released": {
     "title": "Fantastic Four: Rise of the Silver Surfer",
     "year": 2007,
-    "reason": "Released today in 2007, this superhero film is a fun and action-packed sequel that brings the beloved comic book characters to life with its impressive visual effects and engaging storyline.",
-    "blurb": "With its lighthearted tone and exciting action sequences, Fantastic Four: Rise of the Silver Surfer is an entertaining movie that will appeal to fans of the comic book series and superhero films in general. The film's visuals and special effects hold up well even today, making it a great choice for a fun movie night. The cast delivers strong performances, bringing depth and humor to their characters.",
+    "reason": "Released today in 2007, this superhero sequel brought a fresh wave of excitement to the Fantastic Four franchise with its epic action sequences and stunning visual effects.",
+    "blurb": "The film's visual effects hold up remarkably well even years later, and the cast's chemistry makes the superhero team's dynamics a joy to watch. While it may not be the most faithful comic book adaptation, it's an enjoyable ride with plenty of action and humor.",
     "genre": "Action / Adventure",
     "runtime_min": 92,
     "streaming": [
@@ -48,50 +50,51 @@
     "watch_url": "https://www.themoviedb.org/movie/1979-fantastic-four-rise-of-the-silver-surfer/watch?locale=US"
   },
   "birthday": {
-    "title": "Wedding Crashers",
-    "year": 2005,
-    "reason": "Happy birthday to Jeremy Piven, born June 6, 1965, and this film is one of his most memorable roles, showcasing his comedic talent as a charismatic but slightly unhinged character.",
-    "blurb": "Wedding Crashers is a hilarious and entertaining movie that features Jeremy Piven in a scene-stealing role, and his chemistry with the lead actors makes the film even more enjoyable. With its witty dialogue and outrageous humor, this movie is a classic comedy that will keep you laughing from start to finish.",
-    "genre": "Comedy",
+    "title": "Killer Klowns from Outer Space",
+    "year": 1988,
+    "reason": "Happy birthday to Charles Chiodo, one of the special effects masters behind this cult classic, which showcases his creative and often terrifying creature designs.",
+    "blurb": "This campy horror-comedy has become a staple of 80s nostalgia, with its bizarre alien clowns and over-the-top practical effects. It's a wild ride that's equal parts frightening and hilarious, making it a must-watch for fans of quirky cult classics.",
+    "genre": "Horror / Comedy",
     "cast": [
-      "Jeremy Piven",
-      "Owen Wilson",
-      "Vince Vaughn"
+      "Charles Chiodo",
+      "Grant Cramer",
+      "Suzanne Snyder"
     ],
-    "tmdb_id": 9522,
-    "poster_path": "/lFM3lk2zVzC1YFnKm0r6LbFPyRu.jpg",
-    "trailer_key": "MBTY2PJD0yY",
+    "tmdb_id": 16296,
+    "poster_path": "/nOC22f6kzrKPWXBoYr2XNWfMFEh.jpg",
+    "trailer_key": "ETiSMS4i1as",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 119,
-    "watch_url": "https://www.themoviedb.org/movie/9522-wedding-crashers/watch?locale=US",
+    "runtime_min": 86,
+    "watch_url": "https://www.themoviedb.org/movie/16296-killer-klowns-from-outer-space/watch?locale=US",
     "streaming": [
-      "HBO Max Amazon Channel",
-      "HBO Max"
+      "fuboTV",
+      "MGM+ Amazon Channel",
+      "MGM Plus"
     ]
   },
   "awful": {
-    "title": "Ballistic: Ecks vs. Sever",
-    "year": 2002,
-    "reason": "This infamous action film is often cited as one of the worst movies ever made, with a convoluted plot, poor acting, and cringe-worthy dialogue, making it a fascinatingly bad watch.",
-    "blurb": "Ballistic: Ecks vs. Sever is a mind-bogglingly bad movie that will leave you questioning the sanity of the people involved in its production, and its sheer audacity makes it a morbidly fascinating watch. With its ridiculous plot twists and over-the-top action sequences, this film is a trainwreck that you won't be able to look away from.",
-    "genre": "Action",
+    "title": "I Know Who Killed Me",
+    "year": 2007,
+    "reason": "This psychological thriller is infamous for its convoluted plot, cheesy dialogue, and Lindsay Lohan's notorious performance, making it a trainwreck that's so bad it's become entertaining.",
+    "blurb": "The film's attempts at being a dark and edgy thriller fall flat, with cringe-worthy moments that will leave you laughing at its absurdity. It's a fascinating example of how a movie can be both terrible and mesmerizing at the same time, like a car crash you can't look away from.",
+    "genre": "Thriller",
     "cast": [
-      "Antonio Banderas",
-      "Lucy Liu",
-      "Talisa Soto"
+      "Lindsay Lohan",
+      "Julia Ormond",
+      "Neal McDonough"
     ],
-    "tmdb_id": 10550,
-    "poster_path": "/7Jcb486hN7hQRZTsb0RybFGeDOQ.jpg",
-    "trailer_key": "Tme_SdRv2gk",
+    "tmdb_id": 5857,
+    "poster_path": "/7hz8jYHGNsNsnF0FPngxQEEVyR6.jpg",
+    "trailer_key": "KSZ98kUVQFo",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 91,
-    "watch_url": null,
+    "runtime_min": 105,
+    "watch_url": "https://www.themoviedb.org/movie/5857-i-know-who-killed-me/watch?locale=US",
     "streaming": []
   }
 }
