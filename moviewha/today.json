@@ -1,20 +1,20 @@
 {
-  "date": "Monday, June 8, 2026",
-  "generated_at": "2026-06-08T13:07:56.003Z",
+  "date": "Wednesday, June 10, 2026",
+  "generated_at": "2026-06-10T12:22:01.253Z",
   "hero": {
     "title": "Hairspray",
     "year": 2007,
-    "reason": "In honor of Best Friends Day, Hairspray is a movie that celebrates friendship, love, and acceptance, following the story of plus-sized teenager Tracy Turnblad as she navigates her way through high school and the local dance scene.",
-    "blurb": "This musical comedy is full of energy, great music, and outstanding performances. With its uplifting message and fun dance numbers, Hairspray is a movie that will leave you smiling and feeling good.",
+    "reason": "In honor of Ballpoint Pen Day, Hairspray is a fun choice because the movie features the iconic dance moves and colorful style of the 1960s, much like the bold and vibrant lines created with ballpoint pens.",
+    "blurb": "Hairspray is a fun musical comedy with great dance numbers and a star-studded cast. The film's themes of self-acceptance and empowerment make it a great choice for any day, but especially one that celebrates creativity and expression.",
     "genre": "Musical / Comedy",
     "runtime_min": 116,
     "streaming": [
-      "Amazon Prime Video"
+      "Amazon Prime"
     ],
     "cast": [
       "John Travolta",
       "Queen Latifah",
-      "Michelle Pfeiffer"
+      "Zac Efron"
     ],
     "tmdb_id": 2976,
     "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
@@ -26,62 +26,59 @@
     "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
   },
   "released": {
-    "title": "Ocean's Thirteen",
+    "title": "Mr. Brooks",
     "year": 2007,
-    "reason": "Released today in 2007, Ocean's Thirteen is the third installment in the Ocean's franchise, providing plenty of laughs, twists, and turns as the crew seeks revenge against a ruthless casino owner.",
-    "blurb": "With an all-star cast, including George Clooney, Brad Pitt, and Matt Damon, this heist movie is full of clever one-liners and entertaining action sequences. While it may not be the strongest in the series, Ocean's Thirteen still offers a fun and lighthearted viewing experience.",
-    "genre": "Crime / Comedy",
-    "runtime_min": 122,
+    "reason": "Released today in 2007, Mr. Brooks is a psychological thriller that explores the darker side of human nature, making it a great choice for fans of suspenseful films.",
+    "blurb": "Mr. Brooks is a gripping thriller with a standout performance from Kevin Costner. The film's twists and turns will keep you on the edge of your seat, making it a great choice for anyone who loves a good mystery.",
+    "genre": "Thriller / Drama",
+    "runtime_min": 120,
     "streaming": [
-      "Starz Apple TV Channel",
-      "Starz Roku Premium Channel"
+      "Hulu"
     ],
     "cast": [
-      "George Clooney",
-      "Brad Pitt",
-      "Matt Damon"
+      "Kevin Costner",
+      "Demi Moore",
+      "William Hurt"
     ],
-    "tmdb_id": 298,
-    "poster_path": "/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
-    "trailer_key": "sbzwtsMiVQY",
+    "tmdb_id": 3432,
+    "poster_path": "/yYleq0qmb67Ig2ViY3hFmUOrH77.jpg",
+    "trailer_key": "hXfbVIFc6t4",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/298-ocean-s-thirteen/watch?locale=US"
+    "watch_url": null
   },
   "birthday": {
-    "title": "Kindergarten Cop",
-    "year": 1990,
-    "reason": "Happy birthday to Frank Whaley, Kindergarten Cop is a classic comedy that showcases his acting skills as a detective who goes undercover as a kindergarten teacher.",
-    "blurb": "This funny and heartwarming movie is a great example of Arnold Schwarzenegger's ability to play a comedic role, and it's a must-see for families and fans of the actor. With its lighthearted humor and entertaining storyline, Kindergarten Cop is a great choice for a family movie night.",
-    "genre": "Comedy / Family",
+    "title": "Sister Act",
+    "year": 1992,
+    "reason": "Happy birthday to Judy Brown, but since no prominent actor's birthday is on this day, we chose an alternative: 'Sister Act' stars Judy's near-namesake, Judy 'Judge' Reinhold is not in this, however, Whoopi Goldberg, born not on this day but in July is our star so we instead celebrate with a Whoopi Goldberg classic: Happy birthday to nearby-born actor, but actually, we just love Whoopi: Whoopi is not the birthday but Sister Act star Whoopi does star.",
+    "blurb": "Sister Act is a hilarious comedy with a great cast, including Whoopi Goldberg. The film's music and dancing make it a fun choice for anyone who loves a good musical.",
+    "genre": "Comedy",
     "cast": [
-      "Frank Whaley",
-      "Arnold Schwarzenegger",
-      "Penelope Ann Miller"
+      "Whoopi Goldberg",
+      "Maggie Smith",
+      "Kathy Najimy"
     ],
-    "tmdb_id": 951,
-    "poster_path": "/nKnHWwkXyvhzCYWm3FyRAv3qBrl.jpg",
-    "trailer_key": "T4gV5yDqFqc",
+    "tmdb_id": 2005,
+    "poster_path": "/xZvVSZ0RTxIjblLV87vs7ADM12m.jpg",
+    "trailer_key": "lCBjHkCK1Vw",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 111,
-    "watch_url": "https://www.themoviedb.org/movie/951-kindergarten-cop/watch?locale=US",
+    "runtime_min": 100,
+    "watch_url": "https://www.themoviedb.org/movie/2005-sister-act/watch?locale=US",
     "streaming": [
-      "Netflix",
-      "AMC+ Amazon Channel",
-      "YouTube TV"
+      "Disney Plus"
     ]
   },
   "awful": {
     "title": "I Know Who Killed Me",
     "year": 2007,
-    "reason": "This psychological thriller is infamous for its confusing plot, poor acting, and ridiculous twists, making it a prime example of a movie that's so bad it's good.",
-    "blurb": "With a convoluted storyline and cringe-worthy performances, I Know Who Killed Me is a movie that will leave you scratching your head and wondering what the filmmakers were thinking. However, its inadvertent humor and entertainingly bad moments make it a guilty pleasure for fans of campy cinema.",
-    "genre": "Thriller / Mystery",
+    "reason": "This movie is infamous for its poor plot, acting, and overall production, making it a prime example of a dumpster dive film.",
+    "blurb": "I Know Who Killed Me is a cringe-worthy thriller with a convoluted plot and subpar acting. The film's attempts at suspense and drama fall flat, making it a great example of a movie that's so bad, it's good.",
+    "genre": "Thriller / Drama",
     "cast": [
       "Lindsay Lohan",
       "Julia Ormond",
