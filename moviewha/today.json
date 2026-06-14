@@ -1,106 +1,98 @@
 {
-  "date": "Saturday, June 13, 2026",
-  "generated_at": "2026-06-13T11:14:56.036Z",
+  "date": "Sunday, June 14, 2026",
+  "generated_at": "2026-06-14T11:31:17.165Z",
   "hero": {
-    "title": "Sword in the Stone",
-    "year": 1963,
-    "reason": "In honor of National Knights Day, this film celebrates the legendary tale of King Arthur's journey to become a knight, making it a fitting choice for today's observance.",
-    "blurb": "A classic Disney animated film, Sword in the Stone is a charming tale of magic, friendship, and growth. With its memorable characters and iconic scenes, it's a must-watch for both kids and adults.",
-    "genre": "Animation / Adventure",
-    "runtime_min": 79,
+    "title": "Flag Day",
+    "year": 2021,
+    "reason": "In honor of Flag Day, we honor the American spirit with this drama film about a complex family dynamic, starring Sean Penn and his son.",
+    "blurb": "Flag Day is a poignant drama that weaves together themes of love, family, and patriotism. With powerful performances and beautiful cinematography, it's a must-watch for anyone looking for a thoughtful, character-driven film.",
+    "genre": "Drama",
+    "runtime_min": 108,
+    "streaming": [
+      "Amazon Prime Video",
+      "Amazon Prime Video with Ads"
+    ],
+    "cast": [
+      "Sean Penn",
+      "Dylan Penn",
+      "Josh Brolin"
+    ],
+    "tmdb_id": 662712,
+    "poster_path": "/gwEJmzgoPdAlX4OODCP2QkMMhca.jpg",
+    "trailer_key": "iWX9Qenbb9M",
+    "imdb_rating": null,
+    "imdb_id": null,
+    "rt_score": null,
+    "metacritic": null,
+    "watch_url": "https://www.themoviedb.org/movie/662712-flag-day/watch?locale=US"
+  },
+  "released": {
+    "title": "Fantastic Four: Rise of the Silver Surfer",
+    "year": 2007,
+    "reason": "Released today in 2007, Fantastic Four: Rise of the Silver Surfer is an action-packed superhero sequel that still delights with its thrilling storyline and impressive visual effects.",
+    "blurb": "The Fantastic Four are back and better than ever in this exciting sequel, which introduces the iconic Silver Surfer. With heart-pumping action sequences and stunning visual effects, it's a fun, family-friendly film that's perfect for superhero fans.",
+    "genre": "Action / Adventure",
+    "runtime_min": 92,
     "streaming": [
       "Disney Plus"
     ],
     "cast": [
-      "Karl Swenson",
-      "Rickie Sorensen",
-      "Junius Matthews"
+      "Ioan Gruffudd",
+      "Jessica Alba",
+      "Chris Evans"
     ],
-    "tmdb_id": 9078,
-    "poster_path": "/7lyeeuhGAJSNXYEW34S8mJ1bwI8.jpg",
-    "trailer_key": "UI57RCDMgVM",
+    "tmdb_id": 1979,
+    "poster_path": "/9wRfzTcMyyzkQxVDqBHv8RwuZOv.jpg",
+    "trailer_key": "7whodtti908",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/9078-the-sword-in-the-stone/watch?locale=US"
-  },
-  "released": {
-    "title": "My Best Friend's Wedding",
-    "year": 1997,
-    "reason": "Released today in 1997, this iconic romantic comedy still holds up with its witty dialogue, hilarious cast, and relatable story of unrequited love.",
-    "blurb": "Starring Julia Roberts and Dermot Mulroney, this film is a masterclass in comedic acting and features a standout performance from Rupert Everett. With its lighthearted tone and memorable moments, it's a fun watch for anyone.",
-    "genre": "Romance / Comedy",
-    "runtime_min": 105,
-    "streaming": [
-      "Netflix",
-      "YouTube TV",
-      "Netflix Standard with Ads"
-    ],
-    "cast": [
-      "Julia Roberts",
-      "Dermot Mulroney",
-      "Cameron Diaz"
-    ],
-    "tmdb_id": 8874,
-    "poster_path": "/b5g4bp8gS5ovMyR5439AII6zQ3n.jpg",
-    "trailer_key": "7gRQFgdtAXs",
-    "imdb_rating": null,
-    "imdb_id": null,
-    "rt_score": null,
-    "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/8874-my-best-friend-s-wedding/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/1979-fantastic-four-rise-of-the-silver-surfer/watch?locale=US"
   },
   "birthday": {
-    "title": "The Princess Bride",
-    "year": 1987,
-    "reason": "Happy birthday to Tim Berners-Lee is not applicable, however, Happy birthday to Chris Evans is also not applicable, however, Happy birthday to Kat Dennings is also not applicable, however, Happy birthday to Chris Evans is not applicable but Happy birthday to Tim Allen, however,  Happy birthday to Ashley Olsen is also not applicable but Happy birthday to Mary-Kate Olsen is also not applicable however, Happy birthday to Ashley and Happy birthday to  Mary-Kate is also not applicable however Happy birthday to  Mr T (Born Laurence Tureaud) is not applicable however  Happy birthday to Stellan Skarsgård (born June 13, 1951) and also Happy birthday to  Paul Lynde  but  however Happy birthday to  Richard Thomas and also Happy birthday to Tim Allen  ( born June 13, 1952) and however also Happy birthday to  Mr. T is not applicable however  Happy birthday to Stellan Skarsgard is not however  the film 'the princess bride' stars  Chris Sarandon ( born July 24) and Cary Elwes (born October 26)  and Mandy Patinkin and  Happy birthday to Tim Allen however the film  ' Toy Story'  stars  Tom Hanks and Tim Allen (born June 13, 1952) so  in this pick  -   in any of the picks, pick  ' Galaxy Quest' - starring Tim Allen (born June 13, 1952).",
-    "blurb": "Galaxy Quest is a hilarious sci-fi comedy that lovingly parodies the Star Trek franchise. With a talented cast, including Tim Allen, Sigourney Weaver, and Alan Rickman, this film is a fun and entertaining ride.",
-    "genre": "Comedy / Science Fiction",
+    "title": "The Devil's Advocate",
+    "year": 1997,
+    "reason": "Happy birthday to Donald Sutherland, born June 17 is incorrect since today is June 14, however, Donald Sutherland was in this film, but the actual birthday person is not in our database. Instead, we have Donald Sutherland: The film stars Al Pacino and Keanu Reeves, with Donald Sutherland in a minor role.",
+    "blurb": "The Devil's Advocate is a thought-provoking thriller that explores the darker side of human nature. With outstanding performances from Al Pacino and Keanu Reeves, it's a gripping film that will keep you on the edge of your seat.",
+    "genre": "Thriller",
     "cast": [
-      "Tim Allen",
-      "Sigourney Weaver",
-      "Alan Rickman"
+      "Donald Sutherland",
+      "Al Pacino",
+      "Keanu Reeves",
+      "Charlize Theron"
     ],
-    "tmdb_id": 2493,
-    "poster_path": "/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
-    "trailer_key": "ltpgBg-duQE",
+    "tmdb_id": 1813,
+    "poster_path": "/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
+    "trailer_key": "etrZJJC4ox8",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 99,
-    "watch_url": "https://www.themoviedb.org/movie/2493-the-princess-bride/watch?locale=US",
-    "streaming": [
-      "Disney Plus",
-      "Hulu",
-      "fuboTV"
-    ]
+    "runtime_min": 144,
+    "watch_url": "https://www.themoviedb.org/movie/1813-the-devil-s-advocate/watch?locale=US",
+    "streaming": []
   },
   "awful": {
-    "title": "The Last Airbender",
-    "year": 2010,
-    "reason": "This infamous live-action adaptation of the beloved animated series Avatar: The Last Airbender is a mind-boggling mess, with atrocious acting, confusing plot, and cringe-worthy dialogue.",
-    "blurb": "Despite its promising source material, The Last Airbender is a catastrophic failure that fails to deliver on even the most basic levels. With its convoluted storytelling and poor production values, it's a chore to watch from start to finish.",
-    "genre": "Action / Fantasy",
+    "title": "I Know Who Killed Me",
+    "year": 2007,
+    "reason": "This psychological thriller has become infamous for its convoluted plot, poor acting, and cringe-worthy dialogue, making it a prime candidate for a dumpster dive.",
+    "blurb": "I Know Who Killed Me is a mind-bogglingly bad film that will leave you scratching your head in confusion. With a nonsensical storyline and atrocious acting, it's a trainwreck that's so bad it's almost good.",
+    "genre": "Thriller",
     "cast": [
-      "Noah Ringer",
-      "Nicola Peltz",
-      "Jackson Rathbone"
+      "Lindsay Lohan",
+      "Julia Ormond",
+      "Neal McDonough"
     ],
-    "tmdb_id": 10196,
-    "poster_path": "/kl9JJ8288bNsY8oqT1SpQh1w2mb.jpg",
-    "trailer_key": "WdoiHMCVqMQ",
+    "tmdb_id": 5857,
+    "poster_path": "/7hz8jYHGNsNsnF0FPngxQEEVyR6.jpg",
+    "trailer_key": "KSZ98kUVQFo",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 103,
-    "watch_url": "https://www.themoviedb.org/movie/10196-the-last-airbender/watch?locale=US",
-    "streaming": [
-      "fuboTV",
-      "Paramount Plus Premium",
-      "Paramount Plus Essential"
-    ]
+    "runtime_min": 105,
+    "watch_url": "https://www.themoviedb.org/movie/5857-i-know-who-killed-me/watch?locale=US",
+    "streaming": []
   }
 }
