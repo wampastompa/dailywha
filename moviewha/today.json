@@ -1,36 +1,37 @@
 {
-  "date": "Sunday, June 14, 2026",
-  "generated_at": "2026-06-14T11:31:17.165Z",
+  "date": "Monday, June 15, 2026",
+  "generated_at": "2026-06-15T15:15:57.222Z",
   "hero": {
-    "title": "Flag Day",
-    "year": 2021,
-    "reason": "In honor of Flag Day, we honor the American spirit with this drama film about a complex family dynamic, starring Sean Penn and his son.",
-    "blurb": "Flag Day is a poignant drama that weaves together themes of love, family, and patriotism. With powerful performances and beautiful cinematography, it's a must-watch for anyone looking for a thoughtful, character-driven film.",
-    "genre": "Drama",
-    "runtime_min": 108,
+    "title": "The Magnificent Seven",
+    "year": 1960,
+    "reason": "In honor of Nature Photography Day, we celebrate the breathtaking landscapes showcased in this classic Western film, which adds to its timeless appeal.",
+    "blurb": "With its stunning cinematography and memorable cast, this film is a must-watch for fans of the genre. The combination of action, drama, and scenic vistas makes for an unforgettable viewing experience.",
+    "genre": "Western",
+    "runtime_min": 127,
     "streaming": [
-      "Amazon Prime Video",
-      "Amazon Prime Video with Ads"
+      "fuboTV",
+      "MGM+ Amazon Channel",
+      "MGM Plus Roku Premium Channel"
     ],
     "cast": [
-      "Sean Penn",
-      "Dylan Penn",
-      "Josh Brolin"
+      "Yul Brynner",
+      "Steve McQueen",
+      "Charles Bronson"
     ],
-    "tmdb_id": 662712,
-    "poster_path": "/gwEJmzgoPdAlX4OODCP2QkMMhca.jpg",
-    "trailer_key": "iWX9Qenbb9M",
+    "tmdb_id": 966,
+    "poster_path": "/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg",
+    "trailer_key": "F11chOCFTi8",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/662712-flag-day/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/966-the-magnificent-seven/watch?locale=US"
   },
   "released": {
     "title": "Fantastic Four: Rise of the Silver Surfer",
     "year": 2007,
-    "reason": "Released today in 2007, Fantastic Four: Rise of the Silver Surfer is an action-packed superhero sequel that still delights with its thrilling storyline and impressive visual effects.",
-    "blurb": "The Fantastic Four are back and better than ever in this exciting sequel, which introduces the iconic Silver Surfer. With heart-pumping action sequences and stunning visual effects, it's a fun, family-friendly film that's perfect for superhero fans.",
+    "reason": "Released today in 2007, this superhero sequel brings exciting action sequences and visually stunning effects, making it a fun summer blockbuster.",
+    "blurb": "This film offers an enjoyable mix of humor, adventure, and sci-fi elements, with a talented cast that brings the iconic characters to life. The special effects hold up well even years later, making for an entertaining watch.",
     "genre": "Action / Adventure",
     "runtime_min": 92,
     "streaming": [
@@ -51,33 +52,36 @@
     "watch_url": "https://www.themoviedb.org/movie/1979-fantastic-four-rise-of-the-silver-surfer/watch?locale=US"
   },
   "birthday": {
-    "title": "The Devil's Advocate",
-    "year": 1997,
-    "reason": "Happy birthday to Donald Sutherland, born June 17 is incorrect since today is June 14, however, Donald Sutherland was in this film, but the actual birthday person is not in our database. Instead, we have Donald Sutherland: The film stars Al Pacino and Keanu Reeves, with Donald Sutherland in a minor role.",
-    "blurb": "The Devil's Advocate is a thought-provoking thriller that explores the darker side of human nature. With outstanding performances from Al Pacino and Keanu Reeves, it's a gripping film that will keep you on the edge of your seat.",
-    "genre": "Thriller",
+    "title": "Father of the Bride",
+    "year": 1991,
+    "reason": "Happy birthday to Courteney Cox, born June 15, 1964, who shines in this charming family comedy alongside Steve Martin.",
+    "blurb": "This lighthearted, hilarious film explores the challenges and joys of family life, with a talented cast that delivers both laughter and heart. Courteney Cox brings her signature charm to the role, making this a standout performance in her career.",
+    "genre": "Comedy",
     "cast": [
-      "Donald Sutherland",
-      "Al Pacino",
-      "Keanu Reeves",
-      "Charlize Theron"
+      "Steve Martin",
+      "Diane Keaton",
+      "Courteney Cox"
     ],
-    "tmdb_id": 1813,
-    "poster_path": "/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
-    "trailer_key": "etrZJJC4ox8",
+    "tmdb_id": 11846,
+    "poster_path": "/bU7HzJbJpY5OiLdqWhKSqGPtYii.jpg",
+    "trailer_key": "o-JEkllZPDE",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 144,
-    "watch_url": "https://www.themoviedb.org/movie/1813-the-devil-s-advocate/watch?locale=US",
-    "streaming": []
+    "runtime_min": 105,
+    "watch_url": "https://www.themoviedb.org/movie/11846-father-of-the-bride/watch?locale=US",
+    "streaming": [
+      "Netflix",
+      "Disney Plus",
+      "Hulu"
+    ]
   },
   "awful": {
     "title": "I Know Who Killed Me",
     "year": 2007,
-    "reason": "This psychological thriller has become infamous for its convoluted plot, poor acting, and cringe-worthy dialogue, making it a prime candidate for a dumpster dive.",
-    "blurb": "I Know Who Killed Me is a mind-bogglingly bad film that will leave you scratching your head in confusion. With a nonsensical storyline and atrocious acting, it's a trainwreck that's so bad it's almost good.",
+    "reason": "This infamous thriller is often cited as one of the worst films of the 2000s, with a convoluted plot and poor acting that makes for a cringeworthy watch.",
+    "blurb": "With a messy narrative and unimpressive performances, this film is a trainwreck that's so bad it's almost fascinating. Lindsay Lohan's dual roles are more confusing than compelling, adding to the overall disappointing experience.",
     "genre": "Thriller",
     "cast": [
       "Lindsay Lohan",
