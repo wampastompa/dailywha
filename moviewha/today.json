@@ -1,102 +1,98 @@
 {
-  "date": "Monday, June 15, 2026",
-  "generated_at": "2026-06-15T15:15:57.222Z",
+  "date": "Wednesday, June 17, 2026",
+  "generated_at": "2026-06-17T12:52:00.596Z",
   "hero": {
-    "title": "The Magnificent Seven",
-    "year": 1960,
-    "reason": "In honor of Nature Photography Day, we celebrate the breathtaking landscapes showcased in this classic Western film, which adds to its timeless appeal.",
-    "blurb": "With its stunning cinematography and memorable cast, this film is a must-watch for fans of the genre. The combination of action, drama, and scenic vistas makes for an unforgettable viewing experience.",
-    "genre": "Western",
-    "runtime_min": 127,
+    "title": "Eagle Eye",
+    "year": 2008,
+    "reason": "In honor of World Day to Combat Desertification and Drought, this movie's themes of surveillance and control reflect the urgent need to address environmental issues, including desertification.",
+    "blurb": "Eagle Eye is a gripping thriller that keeps you on the edge of your seat. With its timely themes and intense action sequences, it's a must-watch for fans of the genre.",
+    "genre": "Action / Thriller",
+    "runtime_min": 118,
     "streaming": [
       "fuboTV",
-      "MGM+ Amazon Channel",
-      "MGM Plus Roku Premium Channel"
+      "Paramount Plus Premium",
+      "Paramount Plus Essential"
     ],
     "cast": [
-      "Yul Brynner",
-      "Steve McQueen",
-      "Charles Bronson"
+      "Shia LaBeouf",
+      "Michelle Monaghan",
+      "Rosario Dawson"
     ],
-    "tmdb_id": 966,
-    "poster_path": "/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg",
-    "trailer_key": "F11chOCFTi8",
+    "tmdb_id": 13027,
+    "poster_path": "/9KCOv0hL37IN3tWG3j86eZg3xDH.jpg",
+    "trailer_key": "olRdPXwiSjk",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/966-the-magnificent-seven/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/13027-eagle-eye/watch?locale=US"
   },
   "released": {
-    "title": "Fantastic Four: Rise of the Silver Surfer",
+    "title": "Mr. Brooks",
     "year": 2007,
-    "reason": "Released today in 2007, this superhero sequel brings exciting action sequences and visually stunning effects, making it a fun summer blockbuster.",
-    "blurb": "This film offers an enjoyable mix of humor, adventure, and sci-fi elements, with a talented cast that brings the iconic characters to life. The special effects hold up well even years later, making for an entertaining watch.",
-    "genre": "Action / Adventure",
-    "runtime_min": 92,
+    "reason": "Released today in 2007, Mr. Brooks is a psychological thriller that explores the dark corners of the human mind, making it a standout film in its genre.",
+    "blurb": "Mr. Brooks is a thought-provoking film that delves into the complexities of the human psyche. With a talented cast, including Kevin Costner, it's a gripping watch that will keep you guessing until the end.",
+    "genre": "Thriller / Drama",
+    "runtime_min": 120,
     "streaming": [
-      "Disney Plus"
+      "HBO Max"
     ],
     "cast": [
-      "Ioan Gruffudd",
-      "Jessica Alba",
-      "Chris Evans"
+      "Kevin Costner",
+      "Demi Moore",
+      "William Hurt"
     ],
-    "tmdb_id": 1979,
-    "poster_path": "/9wRfzTcMyyzkQxVDqBHv8RwuZOv.jpg",
-    "trailer_key": "7whodtti908",
+    "tmdb_id": 3432,
+    "poster_path": "/yYleq0qmb67Ig2ViY3hFmUOrH77.jpg",
+    "trailer_key": "hXfbVIFc6t4",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/1979-fantastic-four-rise-of-the-silver-surfer/watch?locale=US"
+    "watch_url": null
   },
   "birthday": {
-    "title": "Father of the Bride",
-    "year": 1991,
-    "reason": "Happy birthday to Courteney Cox, born June 15, 1964, who shines in this charming family comedy alongside Steve Martin.",
-    "blurb": "This lighthearted, hilarious film explores the challenges and joys of family life, with a talented cast that delivers both laughter and heart. Courteney Cox brings her signature charm to the role, making this a standout performance in her career.",
-    "genre": "Comedy",
+    "title": "Kiss of the Dragon",
+    "year": 2001,
+    "reason": "Happy birthday to Ken Lo, born June 17, 1959. This martial arts film showcases his impressive skills and is a must-watch for fans of the genre.",
+    "blurb": "Kiss of the Dragon is an action-packed film that highlights the incredible Martial Arts skills of Jet Li and Ken Lo. With its intense fight sequences and gripping storyline, it's a thrilling ride from start to finish.",
+    "genre": "Action / Thriller",
     "cast": [
-      "Steve Martin",
-      "Diane Keaton",
-      "Courteney Cox"
+      "Ken Lo",
+      "Jet Li",
+      "Bridget Fonda"
     ],
-    "tmdb_id": 11846,
-    "poster_path": "/bU7HzJbJpY5OiLdqWhKSqGPtYii.jpg",
-    "trailer_key": "o-JEkllZPDE",
+    "tmdb_id": 2140,
+    "poster_path": "/1ubtSyagwfNF9Bn9s2CKITRtx1d.jpg",
+    "trailer_key": "pZUCr_vlO8Q",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 105,
-    "watch_url": "https://www.themoviedb.org/movie/11846-father-of-the-bride/watch?locale=US",
-    "streaming": [
-      "Netflix",
-      "Disney Plus",
-      "Hulu"
-    ]
+    "runtime_min": 98,
+    "watch_url": "https://www.themoviedb.org/movie/2140-kiss-of-the-dragon/watch?locale=US",
+    "streaming": []
   },
   "awful": {
-    "title": "I Know Who Killed Me",
-    "year": 2007,
-    "reason": "This infamous thriller is often cited as one of the worst films of the 2000s, with a convoluted plot and poor acting that makes for a cringeworthy watch.",
-    "blurb": "With a messy narrative and unimpressive performances, this film is a trainwreck that's so bad it's almost fascinating. Lindsay Lohan's dual roles are more confusing than compelling, adding to the overall disappointing experience.",
-    "genre": "Thriller",
+    "title": "Ballistic: Ecks vs. Sever",
+    "year": 2002,
+    "reason": "This infamous action film is often cited as one of the worst movies ever made, with a convoluted plot and cringe-worthy dialogue.",
+    "blurb": "Ballistic: Ecks vs. Sever is a mind-bogglingly bad film that will leave you questioning the decisions of the cast and crew. With its nonsensical plot and laughable action sequences, it's a trainwreck that's so bad it's almost entertaining.",
+    "genre": "Action",
     "cast": [
-      "Lindsay Lohan",
-      "Julia Ormond",
-      "Neal McDonough"
+      "Antonio Banderas",
+      "Lucy Liu",
+      "Talisa Soto"
     ],
-    "tmdb_id": 5857,
-    "poster_path": "/7hz8jYHGNsNsnF0FPngxQEEVyR6.jpg",
-    "trailer_key": "KSZ98kUVQFo",
+    "tmdb_id": 10550,
+    "poster_path": "/7Jcb486hN7hQRZTsb0RybFGeDOQ.jpg",
+    "trailer_key": "Tme_SdRv2gk",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 105,
-    "watch_url": "https://www.themoviedb.org/movie/5857-i-know-who-killed-me/watch?locale=US",
+    "runtime_min": 91,
+    "watch_url": null,
     "streaming": []
   }
 }
