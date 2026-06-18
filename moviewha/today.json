@@ -1,83 +1,85 @@
 {
-  "date": "Wednesday, June 17, 2026",
-  "generated_at": "2026-06-17T12:52:00.596Z",
+  "date": "Thursday, June 18, 2026",
+  "generated_at": "2026-06-18T12:27:35.709Z",
   "hero": {
-    "title": "Eagle Eye",
-    "year": 2008,
-    "reason": "In honor of World Day to Combat Desertification and Drought, this movie's themes of surveillance and control reflect the urgent need to address environmental issues, including desertification.",
-    "blurb": "Eagle Eye is a gripping thriller that keeps you on the edge of your seat. With its timely themes and intense action sequences, it's a must-watch for fans of the genre.",
-    "genre": "Action / Thriller",
-    "runtime_min": 118,
+    "title": "Hairspray",
+    "year": 2007,
+    "reason": "In honor of National Go Fishing Day, Hairspray is a fun film that makes you want to get up and dance, much like the carefree feeling of a fun day out fishing.",
+    "blurb": "Hairspray is a classic musical comedy that will get you moving and grooving. With its upbeat soundtrack and colorful characters, it's the perfect film to watch on a sunny day.",
+    "genre": "Comedy / Musical",
+    "runtime_min": 116,
     "streaming": [
-      "fuboTV",
-      "Paramount Plus Premium",
-      "Paramount Plus Essential"
+      "Amazon Prime"
     ],
     "cast": [
-      "Shia LaBeouf",
-      "Michelle Monaghan",
-      "Rosario Dawson"
+      "John Travolta",
+      "Queen Latifah",
+      "Michelle Pfeiffer"
     ],
-    "tmdb_id": 13027,
-    "poster_path": "/9KCOv0hL37IN3tWG3j86eZg3xDH.jpg",
-    "trailer_key": "olRdPXwiSjk",
+    "tmdb_id": 2976,
+    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
+    "trailer_key": "hsFtWsRn99U",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/13027-eagle-eye/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
   },
   "released": {
-    "title": "Mr. Brooks",
+    "title": "Evan Almighty",
     "year": 2007,
-    "reason": "Released today in 2007, Mr. Brooks is a psychological thriller that explores the dark corners of the human mind, making it a standout film in its genre.",
-    "blurb": "Mr. Brooks is a thought-provoking film that delves into the complexities of the human psyche. With a talented cast, including Kevin Costner, it's a gripping watch that will keep you guessing until the end.",
-    "genre": "Thriller / Drama",
-    "runtime_min": 120,
+    "reason": "Released today in 2007, Evan Almighty is a hilarious and heartwarming film that explores the story of a modern-day Noah's Ark.",
+    "blurb": "Evan Almighty is a funny and entertaining film that stars Steve Carell as a man tasked by God to build an ark. With its lighthearted humor and uplifting message, it's a great film for the whole family.",
+    "genre": "Comedy / Family",
+    "runtime_min": 96,
     "streaming": [
-      "HBO Max"
+      "Netflix"
     ],
     "cast": [
-      "Kevin Costner",
-      "Demi Moore",
-      "William Hurt"
+      "Steve Carell",
+      "Morgan Freeman",
+      "Lauren Graham"
     ],
-    "tmdb_id": 3432,
-    "poster_path": "/yYleq0qmb67Ig2ViY3hFmUOrH77.jpg",
-    "trailer_key": "hXfbVIFc6t4",
+    "tmdb_id": 2698,
+    "poster_path": "/blI1ioXbgJWOJ3PbcBuSV65Ebwu.jpg",
+    "trailer_key": "R1QArbkQsVw",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": null
+    "watch_url": "https://www.themoviedb.org/movie/2698-evan-almighty/watch?locale=US"
   },
   "birthday": {
-    "title": "Kiss of the Dragon",
-    "year": 2001,
-    "reason": "Happy birthday to Ken Lo, born June 17, 1959. This martial arts film showcases his impressive skills and is a must-watch for fans of the genre.",
-    "blurb": "Kiss of the Dragon is an action-packed film that highlights the incredible Martial Arts skills of Jet Li and Ken Lo. With its intense fight sequences and gripping storyline, it's a thrilling ride from start to finish.",
-    "genre": "Action / Thriller",
+    "title": "Wedding Crashers",
+    "year": 2005,
+    "reason": "Happy birthday to Chris Pratt, Wedding Crashers is a classic comedy that showcases his early comedic talent.",
+    "blurb": "Wedding Crashers is a hilarious and outrageous film that follows two friends as they crash weddings to meet women. With its raunchy humor and over-the-top antics, it's a wild ride from start to finish.",
+    "genre": "Comedy",
     "cast": [
-      "Ken Lo",
-      "Jet Li",
-      "Bridget Fonda"
+      "Owen Wilson",
+      "Vince Vaughn",
+      "Chris Pratt"
     ],
-    "tmdb_id": 2140,
-    "poster_path": "/1ubtSyagwfNF9Bn9s2CKITRtx1d.jpg",
-    "trailer_key": "pZUCr_vlO8Q",
+    "tmdb_id": 9522,
+    "poster_path": "/lFM3lk2zVzC1YFnKm0r6LbFPyRu.jpg",
+    "trailer_key": "MBTY2PJD0yY",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 98,
-    "watch_url": "https://www.themoviedb.org/movie/2140-kiss-of-the-dragon/watch?locale=US",
-    "streaming": []
+    "runtime_min": 119,
+    "watch_url": "https://www.themoviedb.org/movie/9522-wedding-crashers/watch?locale=US",
+    "streaming": [
+      "HBO Max Amazon Channel",
+      "YouTube TV",
+      "HBO Max"
+    ]
   },
   "awful": {
     "title": "Ballistic: Ecks vs. Sever",
     "year": 2002,
-    "reason": "This infamous action film is often cited as one of the worst movies ever made, with a convoluted plot and cringe-worthy dialogue.",
-    "blurb": "Ballistic: Ecks vs. Sever is a mind-bogglingly bad film that will leave you questioning the decisions of the cast and crew. With its nonsensical plot and laughable action sequences, it's a trainwreck that's so bad it's almost entertaining.",
+    "reason": "This movie is so bad, it's good, with a 0% Rotten Tomatoes score and a reputation for being one of the worst films ever made.",
+    "blurb": "Ballistic: Ecks vs. Sever is a mind-bogglingly bad film that will leave you scratching your head in confusion. With its nonsensical plot and cringe-worthy acting, it's a trainwreck that you can't look away from.",
     "genre": "Action",
     "cast": [
       "Antonio Banderas",
