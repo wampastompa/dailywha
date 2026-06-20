@@ -1,12 +1,12 @@
 {
-  "date": "Thursday, June 18, 2026",
-  "generated_at": "2026-06-18T12:27:35.709Z",
+  "date": "Saturday, June 20, 2026",
+  "generated_at": "2026-06-20T11:19:51.222Z",
   "hero": {
     "title": "Hairspray",
     "year": 2007,
-    "reason": "In honor of National Go Fishing Day, Hairspray is a fun film that makes you want to get up and dance, much like the carefree feeling of a fun day out fishing.",
-    "blurb": "Hairspray is a classic musical comedy that will get you moving and grooving. With its upbeat soundtrack and colorful characters, it's the perfect film to watch on a sunny day.",
-    "genre": "Comedy / Musical",
+    "reason": "In honor of World Refugee Day and the related idea of acceptance and inclusivity, Hairspray stands out as a film that promotes those values through its message of racial integration and self-acceptance in 1960s Baltimore.",
+    "blurb": "Hairspray is a fun and energetic musical with great performances and catchy songs. It's a movie that will leave you smiling and feeling uplifted, and its positive message makes it a great choice for World Refugee Day.",
+    "genre": "Musical / Comedy",
     "runtime_min": 116,
     "streaming": [
       "Amazon Prime"
@@ -28,8 +28,8 @@
   "released": {
     "title": "Evan Almighty",
     "year": 2007,
-    "reason": "Released today in 2007, Evan Almighty is a hilarious and heartwarming film that explores the story of a modern-day Noah's Ark.",
-    "blurb": "Evan Almighty is a funny and entertaining film that stars Steve Carell as a man tasked by God to build an ark. With its lighthearted humor and uplifting message, it's a great film for the whole family.",
+    "reason": "Released today in 2007, Evan Almighty is a funny and heartwarming film that explores the story of a modern-day Noah's Ark, making it a great choice to revisit on its anniversary.",
+    "blurb": "Evan Almighty is a lighthearted and entertaining movie with a talented cast, including Steve Carell and Morgan Freeman. It's a film that combines humor and spirituality in a unique and engaging way.",
     "genre": "Comedy / Family",
     "runtime_min": 96,
     "streaming": [
@@ -50,51 +50,47 @@
     "watch_url": "https://www.themoviedb.org/movie/2698-evan-almighty/watch?locale=US"
   },
   "birthday": {
-    "title": "Wedding Crashers",
-    "year": 2005,
-    "reason": "Happy birthday to Chris Pratt, Wedding Crashers is a classic comedy that showcases his early comedic talent.",
-    "blurb": "Wedding Crashers is a hilarious and outrageous film that follows two friends as they crash weddings to meet women. With its raunchy humor and over-the-top antics, it's a wild ride from start to finish.",
-    "genre": "Comedy",
+    "title": "The World According to Garp",
+    "year": 1982,
+    "reason": "Happy birthday to John Goodman, born June 20, 1952, and one of the stars of this quirky comedy-drama film that explores themes of family, identity, and social justice.",
+    "blurb": "The World According to Garp is a unique and offbeat film with a talented cast, including Robin Williams and John Goodman. It's a movie that explores complex themes in a humorous and thought-provoking way.",
+    "genre": "Comedy / Drama",
     "cast": [
-      "Owen Wilson",
-      "Vince Vaughn",
-      "Chris Pratt"
+      "John Goodman",
+      "Robin Williams",
+      "Mary Beth Hurt"
     ],
-    "tmdb_id": 9522,
-    "poster_path": "/lFM3lk2zVzC1YFnKm0r6LbFPyRu.jpg",
-    "trailer_key": "MBTY2PJD0yY",
+    "tmdb_id": 11307,
+    "poster_path": "/9ItRFdSCb7Sz3AC9LRxAzbH73kG.jpg",
+    "trailer_key": "VmRPh1xwab8",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 119,
-    "watch_url": "https://www.themoviedb.org/movie/9522-wedding-crashers/watch?locale=US",
-    "streaming": [
-      "HBO Max Amazon Channel",
-      "YouTube TV",
-      "HBO Max"
-    ]
+    "runtime_min": 136,
+    "watch_url": "https://www.themoviedb.org/movie/11307-the-world-according-to-garp/watch?locale=US",
+    "streaming": []
   },
   "awful": {
-    "title": "Ballistic: Ecks vs. Sever",
-    "year": 2002,
-    "reason": "This movie is so bad, it's good, with a 0% Rotten Tomatoes score and a reputation for being one of the worst films ever made.",
-    "blurb": "Ballistic: Ecks vs. Sever is a mind-bogglingly bad film that will leave you scratching your head in confusion. With its nonsensical plot and cringe-worthy acting, it's a trainwreck that you can't look away from.",
-    "genre": "Action",
+    "title": "I Know Who Killed Me",
+    "year": 2007,
+    "reason": "This psychological thriller is infamous for its convoluted plot and poor acting, making it a great example of a dumpster dive movie with terrible reviews.",
+    "blurb": "I Know Who Killed Me is a messy and confusing film with a nonsensical plot and subpar performances. It's a movie that will leave you scratching your head and wondering what went wrong.",
+    "genre": "Thriller / Mystery",
     "cast": [
-      "Antonio Banderas",
-      "Lucy Liu",
-      "Talisa Soto"
+      "Lindsay Lohan",
+      "Julia Ormond",
+      "Neal McDonough"
     ],
-    "tmdb_id": 10550,
-    "poster_path": "/7Jcb486hN7hQRZTsb0RybFGeDOQ.jpg",
-    "trailer_key": "Tme_SdRv2gk",
+    "tmdb_id": 5857,
+    "poster_path": "/7hz8jYHGNsNsnF0FPngxQEEVyR6.jpg",
+    "trailer_key": "KSZ98kUVQFo",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 91,
-    "watch_url": null,
+    "runtime_min": 105,
+    "watch_url": "https://www.themoviedb.org/movie/5857-i-know-who-killed-me/watch?locale=US",
     "streaming": []
   }
 }
