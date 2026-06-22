@@ -1,11 +1,11 @@
 {
-  "date": "Saturday, June 20, 2026",
-  "generated_at": "2026-06-20T11:19:51.222Z",
+  "date": "Monday, June 22, 2026",
+  "generated_at": "2026-06-22T14:40:50.203Z",
   "hero": {
     "title": "Hairspray",
     "year": 2007,
-    "reason": "In honor of World Refugee Day and the related idea of acceptance and inclusivity, Hairspray stands out as a film that promotes those values through its message of racial integration and self-acceptance in 1960s Baltimore.",
-    "blurb": "Hairspray is a fun and energetic musical with great performances and catchy songs. It's a movie that will leave you smiling and feeling uplifted, and its positive message makes it a great choice for World Refugee Day.",
+    "reason": "In honor of National Music Day, we celebrate the energetic musical numbers and inspiring story of self-expression in Hairspray, a film that brings people together through the power of music and dance.",
+    "blurb": "With its catchy soundtrack and lively performances, Hairspray is a must-see for music lovers and fans of upbeat musicals. The film's message of inclusivity and acceptance makes it a great choice for National Music Day, promoting unity and joy through the universal language of music.",
     "genre": "Musical / Comedy",
     "runtime_min": 116,
     "streaming": [
@@ -28,8 +28,8 @@
   "released": {
     "title": "Evan Almighty",
     "year": 2007,
-    "reason": "Released today in 2007, Evan Almighty is a funny and heartwarming film that explores the story of a modern-day Noah's Ark, making it a great choice to revisit on its anniversary.",
-    "blurb": "Evan Almighty is a lighthearted and entertaining movie with a talented cast, including Steve Carell and Morgan Freeman. It's a film that combines humor and spirituality in a unique and engaging way.",
+    "reason": "Released today in 2007, this family-friendly comedy starring Steve Carell still brings laughter and heart with its hilarious take on a modern-day biblical story.",
+    "blurb": "Evan Almighty is a lighthearted, entertaining film that combines humor with a touching message about faith and family. With its talented cast, including Steve Carell and Morgan Freeman, this movie is a fun watch for audiences of all ages.",
     "genre": "Comedy / Family",
     "runtime_min": 96,
     "streaming": [
@@ -50,32 +50,36 @@
     "watch_url": "https://www.themoviedb.org/movie/2698-evan-almighty/watch?locale=US"
   },
   "birthday": {
-    "title": "The World According to Garp",
-    "year": 1982,
-    "reason": "Happy birthday to John Goodman, born June 20, 1952, and one of the stars of this quirky comedy-drama film that explores themes of family, identity, and social justice.",
-    "blurb": "The World According to Garp is a unique and offbeat film with a talented cast, including Robin Williams and John Goodman. It's a movie that explores complex themes in a humorous and thought-provoking way.",
-    "genre": "Comedy / Drama",
+    "title": "Edward Scissorhands",
+    "year": 1990,
+    "reason": "Happy birthday to Chris O'Donnell, born June 22, 1970, who stars in this classic Tim Burton film as the friendly and charming Kim Boggs, showcasing his early acting talent in a unique and captivating story.",
+    "blurb": "Edward Scissorhands is a beautifully crafted, poignant tale of acceptance and kindness, featuring stunning visuals and memorable performances. Chris O'Donnell's portrayal of Kim Boggs adds to the film's charm, making it a beloved classic among audiences.",
+    "genre": "Fantasy / Romance",
     "cast": [
-      "John Goodman",
-      "Robin Williams",
-      "Mary Beth Hurt"
+      "Johnny Depp",
+      "Chris O'Donnell",
+      "Winona Ryder"
     ],
-    "tmdb_id": 11307,
-    "poster_path": "/9ItRFdSCb7Sz3AC9LRxAzbH73kG.jpg",
-    "trailer_key": "VmRPh1xwab8",
+    "tmdb_id": 162,
+    "poster_path": "/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
+    "trailer_key": "S8bBjpUBbro",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 136,
-    "watch_url": "https://www.themoviedb.org/movie/11307-the-world-according-to-garp/watch?locale=US",
-    "streaming": []
+    "runtime_min": 105,
+    "watch_url": "https://www.themoviedb.org/movie/162-edward-scissorhands/watch?locale=US",
+    "streaming": [
+      "Disney Plus",
+      "fuboTV",
+      "YouTube TV"
+    ]
   },
   "awful": {
     "title": "I Know Who Killed Me",
     "year": 2007,
-    "reason": "This psychological thriller is infamous for its convoluted plot and poor acting, making it a great example of a dumpster dive movie with terrible reviews.",
-    "blurb": "I Know Who Killed Me is a messy and confusing film with a nonsensical plot and subpar performances. It's a movie that will leave you scratching your head and wondering what went wrong.",
+    "reason": "This psychological thriller, starring Lindsay Lohan, is notoriously known for its convoluted plot and poor execution, making it a prime example of a dumpster dive movie with terrible reviews.",
+    "blurb": "I Know Who Killed Me is a mind-bogglingly bad film that fails to deliver on its intriguing premise, instead providing a messy and unsatisfying viewing experience. With its low ratings and scathing reviews, this movie has become a cautionary tale of how not to make a thriller.",
     "genre": "Thriller / Mystery",
     "cast": [
       "Lindsay Lohan",
@@ -89,7 +93,7 @@
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 105,
+    "runtime_min": 106,
     "watch_url": "https://www.themoviedb.org/movie/5857-i-know-who-killed-me/watch?locale=US",
     "streaming": []
   }
