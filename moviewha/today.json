@@ -1,39 +1,39 @@
 {
-  "date": "Monday, June 22, 2026",
-  "generated_at": "2026-06-22T14:40:50.203Z",
+  "date": "Tuesday, June 23, 2026",
+  "generated_at": "2026-06-23T12:08:25.204Z",
   "hero": {
-    "title": "Hairspray",
-    "year": 2007,
-    "reason": "In honor of National Music Day, we celebrate the energetic musical numbers and inspiring story of self-expression in Hairspray, a film that brings people together through the power of music and dance.",
-    "blurb": "With its catchy soundtrack and lively performances, Hairspray is a must-see for music lovers and fans of upbeat musicals. The film's message of inclusivity and acceptance makes it a great choice for National Music Day, promoting unity and joy through the universal language of music.",
-    "genre": "Musical / Comedy",
-    "runtime_min": 116,
+    "title": "Paul Blart: Mall Cop",
+    "year": 2009,
+    "reason": "In honor of Public Service Day, we celebrate the unsung heroes of our communities, like Paul Blart, a dedicated and hilarious mall cop.",
+    "blurb": "This comedy classic showcases Kevin James' signature humor, bringing laughter and joy to audiences of all ages. With its lighthearted tone and entertaining premise, Paul Blart: Mall Cop is a must-watch for anyone looking for a fun, family-friendly film.",
+    "genre": "Comedy",
+    "runtime_min": 91,
     "streaming": [
-      "Amazon Prime"
+      "Starz Apple TV Channel"
     ],
     "cast": [
-      "John Travolta",
-      "Queen Latifah",
-      "Michelle Pfeiffer"
+      "Kevin James",
+      "Keir O'Donnell",
+      "Jayma Mays"
     ],
-    "tmdb_id": 2976,
-    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
-    "trailer_key": "hsFtWsRn99U",
+    "tmdb_id": 14560,
+    "poster_path": "/A4zZv0Q1VKURFZFEl2vwjaE2q0g.jpg",
+    "trailer_key": "Ib4VZ1uvP6U",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/14560-paul-blart-mall-cop/watch?locale=US"
   },
   "released": {
     "title": "Evan Almighty",
     "year": 2007,
-    "reason": "Released today in 2007, this family-friendly comedy starring Steve Carell still brings laughter and heart with its hilarious take on a modern-day biblical story.",
-    "blurb": "Evan Almighty is a lighthearted, entertaining film that combines humor with a touching message about faith and family. With its talented cast, including Steve Carell and Morgan Freeman, this movie is a fun watch for audiences of all ages.",
+    "reason": "Released today in 2007, this comedy classic stars Steve Carell as a modern-day Noah, showcasing his signature wit and humor in a heartwarming story.",
+    "blurb": "Evan Almighty is a hilarious and uplifting film that combines stunning visual effects with a talented cast, making it a must-see for fans of comedy and adventure. With its positive message and entertaining premise, this movie is perfect for viewers of all ages.",
     "genre": "Comedy / Family",
     "runtime_min": 96,
     "streaming": [
-      "Netflix"
+      "Hulu"
     ],
     "cast": [
       "Steve Carell",
@@ -50,37 +50,36 @@
     "watch_url": "https://www.themoviedb.org/movie/2698-evan-almighty/watch?locale=US"
   },
   "birthday": {
-    "title": "Edward Scissorhands",
-    "year": 1990,
-    "reason": "Happy birthday to Chris O'Donnell, born June 22, 1970, who stars in this classic Tim Burton film as the friendly and charming Kim Boggs, showcasing his early acting talent in a unique and captivating story.",
-    "blurb": "Edward Scissorhands is a beautifully crafted, poignant tale of acceptance and kindness, featuring stunning visuals and memorable performances. Chris O'Donnell's portrayal of Kim Boggs adds to the film's charm, making it a beloved classic among audiences.",
-    "genre": "Fantasy / Romance",
+    "title": "Frances",
+    "year": 1982,
+    "reason": "Happy birthday to Frances Farmer, an iconic actress and writer born on June 23, 1913. This biographical drama film showcases her life and career, highlighting her talent and dedication to her craft.",
+    "blurb": "Frances is a powerful and emotional film that explores the highs and lows of Farmer's life, featuring a stunning performance by Jessica Lange. With its gripping storyline and strong cast, this movie is a must-watch for fans of drama and biography.",
+    "genre": "Biography / Drama",
     "cast": [
-      "Johnny Depp",
-      "Chris O'Donnell",
-      "Winona Ryder"
+      "Jessica Lange",
+      "Sam Shepard",
+      "Kim Stanley"
     ],
-    "tmdb_id": 162,
-    "poster_path": "/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
-    "trailer_key": "S8bBjpUBbro",
+    "tmdb_id": 3526,
+    "poster_path": "/eyUq8VBgoHncr0cXFTKgg3VPyfi.jpg",
+    "trailer_key": "7GBOE5YPlwk",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 105,
-    "watch_url": "https://www.themoviedb.org/movie/162-edward-scissorhands/watch?locale=US",
+    "runtime_min": 140,
+    "watch_url": "https://www.themoviedb.org/movie/3526-frances/watch?locale=US",
     "streaming": [
-      "Disney Plus",
-      "fuboTV",
-      "YouTube TV"
+      "Amazon Prime Video",
+      "Amazon Prime Video with Ads"
     ]
   },
   "awful": {
     "title": "I Know Who Killed Me",
     "year": 2007,
-    "reason": "This psychological thriller, starring Lindsay Lohan, is notoriously known for its convoluted plot and poor execution, making it a prime example of a dumpster dive movie with terrible reviews.",
-    "blurb": "I Know Who Killed Me is a mind-bogglingly bad film that fails to deliver on its intriguing premise, instead providing a messy and unsatisfying viewing experience. With its low ratings and scathing reviews, this movie has become a cautionary tale of how not to make a thriller.",
-    "genre": "Thriller / Mystery",
+    "reason": "This infamous thriller has gained a cult following for its bizarre plot twists and over-the-top performances, making it a so-bad-it's-good classic.",
+    "blurb": "I Know Who Killed Me is a cringeworthy yet entertaining film that will leave you questioning the sanity of its writers and cast. With its convoluted storyline and poor acting, this movie is a must-see for fans of trash cinema and accidental humor.",
+    "genre": "Thriller",
     "cast": [
       "Lindsay Lohan",
       "Julia Ormond",
