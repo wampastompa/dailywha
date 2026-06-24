@@ -1,44 +1,46 @@
 {
-  "date": "Tuesday, June 23, 2026",
-  "generated_at": "2026-06-23T12:08:25.204Z",
+  "date": "Wednesday, June 24, 2026",
+  "generated_at": "2026-06-24T11:45:18.571Z",
   "hero": {
-    "title": "Paul Blart: Mall Cop",
-    "year": 2009,
-    "reason": "In honor of Public Service Day, we celebrate the unsung heroes of our communities, like Paul Blart, a dedicated and hilarious mall cop.",
-    "blurb": "This comedy classic showcases Kevin James' signature humor, bringing laughter and joy to audiences of all ages. With its lighthearted tone and entertaining premise, Paul Blart: Mall Cop is a must-watch for anyone looking for a fun, family-friendly film.",
-    "genre": "Comedy",
-    "runtime_min": 91,
+    "title": "Jaws",
+    "year": 1975,
+    "reason": "In honor of International Swimming Day, a thrilling movie about a great white shark that makes you think twice before diving into the ocean.",
+    "blurb": "Steven Spielberg's masterpiece still holds up today, with suspenseful scenes and impressive practical effects. It's a must-watch for any movie buff, and a great reminder to respect the power of the sea.",
+    "genre": "Thriller / Adventure",
+    "runtime_min": 124,
     "streaming": [
-      "Starz Apple TV Channel"
+      "Starz Apple TV Channel",
+      "YouTube TV",
+      "Starz"
     ],
     "cast": [
-      "Kevin James",
-      "Keir O'Donnell",
-      "Jayma Mays"
+      "Roy Scheider",
+      "Robert Shaw",
+      "Richard Dreyfuss"
     ],
-    "tmdb_id": 14560,
-    "poster_path": "/A4zZv0Q1VKURFZFEl2vwjaE2q0g.jpg",
-    "trailer_key": "Ib4VZ1uvP6U",
+    "tmdb_id": 578,
+    "poster_path": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+    "trailer_key": "N9hzLQUGr34",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/14560-paul-blart-mall-cop/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/578-jaws/watch?locale=US"
   },
   "released": {
     "title": "Evan Almighty",
     "year": 2007,
-    "reason": "Released today in 2007, this comedy classic stars Steve Carell as a modern-day Noah, showcasing his signature wit and humor in a heartwarming story.",
-    "blurb": "Evan Almighty is a hilarious and uplifting film that combines stunning visual effects with a talented cast, making it a must-see for fans of comedy and adventure. With its positive message and entertaining premise, this movie is perfect for viewers of all ages.",
+    "reason": "Released today in 2007, this comedy classic stars Steve Carell as a modern-day Noah, and its lighthearted tone makes it a great family movie.",
+    "blurb": "With a talented cast, including Morgan Freeman and Jonah Hill, this film is full of laughs and heartwarming moments. It's a fun and entertaining watch, even if it's not the most sophisticated comedy.",
     "genre": "Comedy / Family",
     "runtime_min": 96,
     "streaming": [
-      "Hulu"
+      "Netflix"
     ],
     "cast": [
       "Steve Carell",
       "Morgan Freeman",
-      "Lauren Graham"
+      "Jonah Hill"
     ],
     "tmdb_id": 2698,
     "poster_path": "/blI1ioXbgJWOJ3PbcBuSV65Ebwu.jpg",
@@ -50,36 +52,37 @@
     "watch_url": "https://www.themoviedb.org/movie/2698-evan-almighty/watch?locale=US"
   },
   "birthday": {
-    "title": "Frances",
-    "year": 1982,
-    "reason": "Happy birthday to Frances Farmer, an iconic actress and writer born on June 23, 1913. This biographical drama film showcases her life and career, highlighting her talent and dedication to her craft.",
-    "blurb": "Frances is a powerful and emotional film that explores the highs and lows of Farmer's life, featuring a stunning performance by Jessica Lange. With its gripping storyline and strong cast, this movie is a must-watch for fans of drama and biography.",
-    "genre": "Biography / Drama",
+    "title": "24 Hour Party People",
+    "year": 2002,
+    "reason": "Happy birthday to Mica Levi, born June 24, 1985, a talented composer who worked on the film's soundtrack.",
+    "blurb": "This British comedy-drama is a wild and energetic ride, with a talented cast and a unique soundtrack. It's a great example of British indie cinema, with a lot of heart and a lot of humor.",
+    "genre": "Comedy / Drama",
     "cast": [
-      "Jessica Lange",
-      "Sam Shepard",
-      "Kim Stanley"
+      "Mica Levi",
+      "Steve Coogan",
+      "Lennie James"
     ],
-    "tmdb_id": 3526,
-    "poster_path": "/eyUq8VBgoHncr0cXFTKgg3VPyfi.jpg",
-    "trailer_key": "7GBOE5YPlwk",
+    "tmdb_id": 2750,
+    "poster_path": "/8f50NQ1wz6hdxfCISCPV8XQ6DII.jpg",
+    "trailer_key": "A1Qz2x94q6A",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 140,
-    "watch_url": "https://www.themoviedb.org/movie/3526-frances/watch?locale=US",
+    "runtime_min": 117,
+    "watch_url": "https://www.themoviedb.org/movie/2750-24-hour-party-people/watch?locale=US",
     "streaming": [
-      "Amazon Prime Video",
-      "Amazon Prime Video with Ads"
+      "fuboTV",
+      "MGM+ Amazon Channel",
+      "MGM Plus Roku Premium Channel"
     ]
   },
   "awful": {
     "title": "I Know Who Killed Me",
     "year": 2007,
-    "reason": "This infamous thriller has gained a cult following for its bizarre plot twists and over-the-top performances, making it a so-bad-it's-good classic.",
-    "blurb": "I Know Who Killed Me is a cringeworthy yet entertaining film that will leave you questioning the sanity of its writers and cast. With its convoluted storyline and poor acting, this movie is a must-see for fans of trash cinema and accidental humor.",
-    "genre": "Thriller",
+    "reason": "This psychological thriller is infamous for its convoluted plot and poor acting, making it a prime candidate for a dumpster dive.",
+    "blurb": "With a nonsensical plot and cringe-worthy performances, this film is so bad it's good. It's a trainwreck that you can't look away from, with a lot of unintentional humor and a healthy dose of schadenfreude.",
+    "genre": "Thriller / Mystery",
     "cast": [
       "Lindsay Lohan",
       "Julia Ormond",
