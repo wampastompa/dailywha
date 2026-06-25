@@ -1,46 +1,43 @@
 {
-  "date": "Wednesday, June 24, 2026",
-  "generated_at": "2026-06-24T11:45:18.571Z",
+  "date": "Thursday, June 25, 2026",
+  "generated_at": "2026-06-25T11:40:17.220Z",
   "hero": {
-    "title": "Jaws",
-    "year": 1975,
-    "reason": "In honor of International Swimming Day, a thrilling movie about a great white shark that makes you think twice before diving into the ocean.",
-    "blurb": "Steven Spielberg's masterpiece still holds up today, with suspenseful scenes and impressive practical effects. It's a must-watch for any movie buff, and a great reminder to respect the power of the sea.",
-    "genre": "Thriller / Adventure",
-    "runtime_min": 124,
+    "title": "World's Greatest Dad",
+    "year": 2009,
+    "reason": "In honor of World Vitiligo Day, a film that tackles complex social issues including self-acceptance with a blend of humor and drama.",
+    "blurb": "A dark comedy that shines with its thought-provoking narrative and outstanding performances, making it a must-watch for those who enjoy unconventional storytelling. The movie's ability to balance humor and serious themes is commendable. With its unique approach, it stands out as a memorable film.",
+    "genre": "Comedy / Drama",
+    "runtime_min": 99,
     "streaming": [
-      "Starz Apple TV Channel",
-      "YouTube TV",
-      "Starz"
+      "Philo",
+      "Magnolia Selects Amazon Channel"
     ],
     "cast": [
-      "Roy Scheider",
-      "Robert Shaw",
-      "Richard Dreyfuss"
+      "Robin Williams",
+      "Daryl Sabara",
+      "Morgan Murphy"
     ],
-    "tmdb_id": 578,
-    "poster_path": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
-    "trailer_key": "N9hzLQUGr34",
+    "tmdb_id": 20178,
+    "poster_path": "/1ESsZLvZPIvbCPCh7CPCSnF4EeH.jpg",
+    "trailer_key": "VBzZvAzAMvY",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/578-jaws/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/20178-world-s-greatest-dad/watch?locale=US"
   },
   "released": {
     "title": "Evan Almighty",
     "year": 2007,
-    "reason": "Released today in 2007, this comedy classic stars Steve Carell as a modern-day Noah, and its lighthearted tone makes it a great family movie.",
-    "blurb": "With a talented cast, including Morgan Freeman and Jonah Hill, this film is full of laughs and heartwarming moments. It's a fun and entertaining watch, even if it's not the most sophisticated comedy.",
-    "genre": "Comedy / Family",
+    "reason": "Released today in 2007, this film still brings laughter and valuable life lessons with its entertaining storyline and impressive cast.",
+    "blurb": "A funny and heartwarming movie that reminds us of the importance of family and following one's dreams. With its lighthearted tone and engaging plot, it's a great choice for a family movie night. The blend of comedy and drama makes it enjoyable for a wide range of audiences.",
+    "genre": "Comedy / Fantasy",
     "runtime_min": 96,
-    "streaming": [
-      "Netflix"
-    ],
+    "streaming": [],
     "cast": [
       "Steve Carell",
       "Morgan Freeman",
-      "Jonah Hill"
+      "Lauren Graham"
     ],
     "tmdb_id": 2698,
     "poster_path": "/blI1ioXbgJWOJ3PbcBuSV65Ebwu.jpg",
@@ -52,37 +49,35 @@
     "watch_url": "https://www.themoviedb.org/movie/2698-evan-almighty/watch?locale=US"
   },
   "birthday": {
-    "title": "24 Hour Party People",
-    "year": 2002,
-    "reason": "Happy birthday to Mica Levi, born June 24, 1985, a talented composer who worked on the film's soundtrack.",
-    "blurb": "This British comedy-drama is a wild and energetic ride, with a talented cast and a unique soundtrack. It's a great example of British indie cinema, with a lot of heart and a lot of humor.",
-    "genre": "Comedy / Drama",
+    "title": "George of the Jungle",
+    "year": 1997,
+    "reason": "Happy birthday to George of the Jungle star Brendan Fraser, born June 25, 1968, starring in this classic family comedy that showcases his acting talent and charisma.",
+    "blurb": "A fun and adventurous film that brings a modern twist to the classic tale, with Brendan Fraser's charming performance as the lead. The movie's mix of humor, action, and heart makes it a delightful watch for both kids and adults.",
+    "genre": "Comedy / Adventure",
     "cast": [
-      "Mica Levi",
-      "Steve Coogan",
-      "Lennie James"
+      "Brendan Fraser",
+      "Leslie Mann",
+      "Thomas Haden Church"
     ],
-    "tmdb_id": 2750,
-    "poster_path": "/8f50NQ1wz6hdxfCISCPV8XQ6DII.jpg",
-    "trailer_key": "A1Qz2x94q6A",
+    "tmdb_id": 10603,
+    "poster_path": "/lWp8hUqE4oLPxsYgilXoYoVThfU.jpg",
+    "trailer_key": "PP9VGoP8xnI",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 117,
-    "watch_url": "https://www.themoviedb.org/movie/2750-24-hour-party-people/watch?locale=US",
+    "runtime_min": 92,
+    "watch_url": "https://www.themoviedb.org/movie/10603-george-of-the-jungle/watch?locale=US",
     "streaming": [
-      "fuboTV",
-      "MGM+ Amazon Channel",
-      "MGM Plus Roku Premium Channel"
+      "Disney Plus"
     ]
   },
   "awful": {
     "title": "I Know Who Killed Me",
     "year": 2007,
-    "reason": "This psychological thriller is infamous for its convoluted plot and poor acting, making it a prime candidate for a dumpster dive.",
-    "blurb": "With a nonsensical plot and cringe-worthy performances, this film is so bad it's good. It's a trainwreck that you can't look away from, with a lot of unintentional humor and a healthy dose of schadenfreude.",
-    "genre": "Thriller / Mystery",
+    "reason": "A famously bad movie with terrible reviews, I Know Who Killed Me is a thriller that failed to impress audiences with its confusing plot and poor execution.",
+    "blurb": "This movie is a mess of cliches and unoriginal ideas, making it a prime example of how not to make a thriller. With its low ratings and negative reviews, it's a film that's better left unwatched unless you're looking for a laugh at its expense.",
+    "genre": "Thriller",
     "cast": [
       "Lindsay Lohan",
       "Julia Ormond",
