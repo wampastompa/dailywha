@@ -1,39 +1,40 @@
 {
-  "date": "Thursday, June 25, 2026",
-  "generated_at": "2026-06-25T11:40:17.220Z",
+  "date": "Friday, June 26, 2026",
+  "generated_at": "2026-06-26T11:44:29.410Z",
   "hero": {
-    "title": "World's Greatest Dad",
-    "year": 2009,
-    "reason": "In honor of World Vitiligo Day, a film that tackles complex social issues including self-acceptance with a blend of humor and drama.",
-    "blurb": "A dark comedy that shines with its thought-provoking narrative and outstanding performances, making it a must-watch for those who enjoy unconventional storytelling. The movie's ability to balance humor and serious themes is commendable. With its unique approach, it stands out as a memorable film.",
-    "genre": "Comedy / Drama",
-    "runtime_min": 99,
+    "title": "Hairspray",
+    "year": 2007,
+    "reason": "In honor of National Beautician's Day, Hairspray is a fun musical comedy that celebrates the world of 1960s hairstyling and dance.",
+    "blurb": "With its upbeat soundtrack and energetic choreography, Hairspray is a delightful film that will leave you smiling. The cast, including John Travolta and Queen Latifah, deliver memorable performances that bring the story to life.",
+    "genre": "Musical / Comedy",
+    "runtime_min": 116,
     "streaming": [
-      "Philo",
-      "Magnolia Selects Amazon Channel"
+      "Amazon Prime"
     ],
     "cast": [
-      "Robin Williams",
-      "Daryl Sabara",
-      "Morgan Murphy"
+      "John Travolta",
+      "Queen Latifah",
+      "Michelle Pfeiffer"
     ],
-    "tmdb_id": 20178,
-    "poster_path": "/1ESsZLvZPIvbCPCh7CPCSnF4EeH.jpg",
-    "trailer_key": "VBzZvAzAMvY",
+    "tmdb_id": 2976,
+    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
+    "trailer_key": "hsFtWsRn99U",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/20178-world-s-greatest-dad/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
   },
   "released": {
     "title": "Evan Almighty",
     "year": 2007,
-    "reason": "Released today in 2007, this film still brings laughter and valuable life lessons with its entertaining storyline and impressive cast.",
-    "blurb": "A funny and heartwarming movie that reminds us of the importance of family and following one's dreams. With its lighthearted tone and engaging plot, it's a great choice for a family movie night. The blend of comedy and drama makes it enjoyable for a wide range of audiences.",
-    "genre": "Comedy / Fantasy",
+    "reason": "Released today in 2007, Evan Almighty is a hilarious and heartwarming comedy that explores the story of a modern-day Noah's Ark.",
+    "blurb": "With Steve Carell's signature humor and a talented supporting cast, Evan Almighty is a entertaining film that is fun for the whole family. The movie's lighthearted tone and uplifting message make it a great choice for a summer evening.",
+    "genre": "Comedy / Family",
     "runtime_min": 96,
-    "streaming": [],
+    "streaming": [
+      "Netflix"
+    ],
     "cast": [
       "Steve Carell",
       "Morgan Freeman",
@@ -49,34 +50,33 @@
     "watch_url": "https://www.themoviedb.org/movie/2698-evan-almighty/watch?locale=US"
   },
   "birthday": {
-    "title": "George of the Jungle",
-    "year": 1997,
-    "reason": "Happy birthday to George of the Jungle star Brendan Fraser, born June 25, 1968, starring in this classic family comedy that showcases his acting talent and charisma.",
-    "blurb": "A fun and adventurous film that brings a modern twist to the classic tale, with Brendan Fraser's charming performance as the lead. The movie's mix of humor, action, and heart makes it a delightful watch for both kids and adults.",
-    "genre": "Comedy / Adventure",
+    "title": "St. Elmo's Fire",
+    "year": 1985,
+    "reason": "Happy birthday to Chris O'Donnell, St. Elmo's Fire is a classic coming-of-age drama that explores the lives of a group of recent college graduates.",
+    "blurb": "With a talented young cast, including Chris O'Donnell, Emilio Estevez, and Rob Lowe, St. Elmo's Fire is a relatable and engaging film that captures the challenges and uncertainties of transitioning into adulthood. The movie's honest portrayal of friendship and growth makes it a timeless classic.",
+    "genre": "Drama",
     "cast": [
-      "Brendan Fraser",
-      "Leslie Mann",
-      "Thomas Haden Church"
+      "Chris O'Donnell",
+      "Emilio Estevez",
+      "Rob Lowe",
+      "Andrew McCarthy"
     ],
-    "tmdb_id": 10603,
-    "poster_path": "/lWp8hUqE4oLPxsYgilXoYoVThfU.jpg",
-    "trailer_key": "PP9VGoP8xnI",
+    "tmdb_id": 11557,
+    "poster_path": "/g2SL3XHJas7hebZ2hhTrYLpKToD.jpg",
+    "trailer_key": "dsPFF5xBeMk",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 92,
-    "watch_url": "https://www.themoviedb.org/movie/10603-george-of-the-jungle/watch?locale=US",
-    "streaming": [
-      "Disney Plus"
-    ]
+    "runtime_min": 108,
+    "watch_url": "https://www.themoviedb.org/movie/11557-st-elmo-s-fire/watch?locale=US",
+    "streaming": []
   },
   "awful": {
     "title": "I Know Who Killed Me",
     "year": 2007,
-    "reason": "A famously bad movie with terrible reviews, I Know Who Killed Me is a thriller that failed to impress audiences with its confusing plot and poor execution.",
-    "blurb": "This movie is a mess of cliches and unoriginal ideas, making it a prime example of how not to make a thriller. With its low ratings and negative reviews, it's a film that's better left unwatched unless you're looking for a laugh at its expense.",
+    "reason": "This infamous thriller is often cited as one of the worst films of the 2000s, with a convoluted plot and cringe-worthy performances.",
+    "blurb": "With a messy and implausible storyline, I Know Who Killed Me is a laughable attempt at a psychological thriller. The film's poor acting and awkward dialogue make it a so-bad-it's-good guilty pleasure.",
     "genre": "Thriller",
     "cast": [
       "Lindsay Lohan",
