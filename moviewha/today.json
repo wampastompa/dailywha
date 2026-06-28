@@ -1,83 +1,72 @@
 {
-  "date": "Saturday, June 27, 2026",
-  "generated_at": "2026-06-27T10:57:45.267Z",
+  "date": "Sunday, June 28, 2026",
+  "generated_at": "2026-06-28T11:08:05.048Z",
   "hero": {
-    "title": "Hairspray",
-    "year": 2007,
-    "reason": "In honor of National Hairstylist Appreciation Day, a fun musical that celebrates the art of hairstyling is a perfect choice. With its energetic dance numbers and memorable characters, this film is sure to delight audiences of all ages.",
-    "blurb": "Get ready to sing and dance along with this classic musical that showcases the best of 60s fashion and music. With an all-star cast, including John Travolta and Queen Latifah, this film is a must-watch for anyone who loves a good musical.",
-    "genre": "Musical / Comedy",
-    "runtime_min": 116,
+    "title": "Paul Blart: Mall Cop",
+    "year": 2009,
+    "reason": "In honor of Insurance Awareness Day, we're highlighting a film that showcases the importance of protecting and serving, even in unexpected places like a mall.",
+    "blurb": "This family-friendly comedy brings laughs and excitement as Paul Blart navigates the challenges of being a mall cop. With its lighthearted tone and entertaining action sequences, it's a great choice for a fun movie night.",
+    "genre": "Comedy / Family",
+    "runtime_min": 91,
     "streaming": [
-      "Amazon Prime"
+      "Starz Apple TV Channel"
     ],
     "cast": [
-      "John Travolta",
-      "Queen Latifah",
-      "Zac Efron"
+      "Kevin James",
+      "Keir O'Donnell",
+      "Jayma Mays"
     ],
-    "tmdb_id": 2976,
-    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
-    "trailer_key": "hsFtWsRn99U",
+    "tmdb_id": 14560,
+    "poster_path": "/A4zZv0Q1VKURFZFEl2vwjaE2q0g.jpg",
+    "trailer_key": "Ib4VZ1uvP6U",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/14560-paul-blart-mall-cop/watch?locale=US"
   },
   "released": {
-    "title": "Live Free or Die Hard",
+    "title": "Ratatouille",
     "year": 2007,
-    "reason": "Released today in 2007, this action-packed sequel still thrills audiences with its non-stop action and memorable one-liners. With Bruce Willis reprising his iconic role as John McClane, this film is a must-watch for fans of the Die Hard series.",
-    "blurb": "Get ready for non-stop action and suspense as John McClane takes on a group of tech-savvy terrorists in this thrilling sequel. With its impressive stunts and witty dialogue, this film is sure to keep you on the edge of your seat.",
-    "genre": "Action / Thriller",
-    "runtime_min": 128,
+    "reason": "Released today in 2007, this beloved Pixar film continues to delight audiences with its charming story and stunning animation.",
+    "blurb": "This beautifully crafted film tells the story of Remy, a talented rat with a passion for cooking, and his journey to becoming a culinary master. With its witty dialogue and lovable characters, Ratatouille is a must-see for animation fans.",
+    "genre": "Animation / Adventure",
+    "runtime_min": 111,
     "streaming": [
+      "Disney Plus",
       "Hulu"
     ],
     "cast": [
-      "Bruce Willis",
-      "Justin Long",
-      "Timothy Olyphant"
+      "Patton Oswalt",
+      "Lou Romano",
+      "Brad Garrett"
     ],
-    "tmdb_id": 1571,
-    "poster_path": "/31TT47YjBl7a7uvJ3ff1nrirXhP.jpg",
-    "trailer_key": "svIjk-nlh_c",
+    "tmdb_id": 2062,
+    "poster_path": "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+    "trailer_key": "NgsQ8mVkN8w",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/1571-live-free-or-die-hard/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/2062-ratatouille/watch?locale=US"
   },
   "birthday": {
-    "title": "Postcards from the Edge",
-    "year": 1990,
-    "reason": "Happy birthday to Meryl Streep, born June 27, 1949, a highly acclaimed actress who shines in this comedy-drama about a complex mother-daughter relationship. This film showcases her incredible range and talent as an actress, making it a standout in her impressive filmography.",
-    "blurb": "With its sharp wit and poignant storytelling, this film is a must-watch for anyone who loves a good drama. Meryl Streep and Shirley MacLaine deliver powerful performances as a mother-daughter duo struggling to come to terms with their complicated past.",
-    "genre": "Comedy / Drama",
+    "title": "Kathryn",
+    "year": 1950,
+    "reason": "Happy birthday to Kathryn Beaumont, born June 27 is incorrect I used June 28, 1938,  1–2 sentence why this is one of her notable films.",
+    "blurb": "This classic Disney film showcases Beaumont's talent as a voice actress, bringing the beloved character of Wendy Darling to life. With its timeless story and memorable characters, Kathryn is a delightful choice for families and Disney fans.",
+    "genre": "Family / Fantasy",
     "cast": [
-      "Meryl Streep",
-      "Shirley MacLaine",
-      "Dennis Quaid"
-    ],
-    "tmdb_id": 22414,
-    "poster_path": "/uF7bO5UcenRgag0jpbVvKsGyfBK.jpg",
-    "trailer_key": "gSm7CJNzEFY",
-    "imdb_rating": null,
-    "imdb_id": null,
-    "rt_score": null,
-    "metacritic": null,
-    "runtime_min": 101,
-    "watch_url": "https://www.themoviedb.org/movie/22414-postcards-from-the-edge/watch?locale=US",
-    "streaming": [
-      "Hulu"
+      "Kathryn Beaumont",
+      "Cindy Nielsen",
+      "Tommy Luske"
     ]
   },
   "awful": {
     "title": "I Know Who Killed Me",
     "year": 2007,
-    "reason": "a famously bad movie with terrible reviews, this psychological thriller is often cited as one of the worst films of the 2000s, with a convoluted plot and cringe-worthy acting.",
-    "blurb": "With its nonsensical plot twists and over-the-top performances, this film is so bad it's good, making it a must-watch for fans of unintentional comedy. Lindsay Lohan's dual roles are a highlight of this messy, melodramatic thriller that will leave you scratching your head.",
+    "reason": "a famously bad movie with terrible reviews, this psychological thriller failed to impress audiences with its convoluted plot and poor acting.",
+    "blurb": "This cringeworthy film tries to pass off its messy storyline and lackluster performances as deep and thought-provoking, but ultimately falls flat. With its embarrassing attempts at suspense and drama, I Know Who Killed Me is a laughable example of a movie gone wrong.",
     "genre": "Thriller / Mystery",
     "cast": [
       "Lindsay Lohan",
