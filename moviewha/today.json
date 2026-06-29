@@ -1,35 +1,35 @@
 {
-  "date": "Sunday, June 28, 2026",
-  "generated_at": "2026-06-28T11:08:05.048Z",
+  "date": "Monday, June 29, 2026",
+  "generated_at": "2026-06-29T13:07:38.536Z",
   "hero": {
-    "title": "Paul Blart: Mall Cop",
-    "year": 2009,
-    "reason": "In honor of Insurance Awareness Day, we're highlighting a film that showcases the importance of protecting and serving, even in unexpected places like a mall.",
-    "blurb": "This family-friendly comedy brings laughs and excitement as Paul Blart navigates the challenges of being a mall cop. With its lighthearted tone and entertaining action sequences, it's a great choice for a fun movie night.",
-    "genre": "Comedy / Family",
-    "runtime_min": 91,
+    "title": "Hairspray",
+    "year": 2007,
+    "reason": "In honor of National Almond Butter Crunch Day, let's get crunching with a fun and upbeat musical like Hairspray, which features a plethora of energetic dance numbers and a vibrant atmosphere that's sure to get you moving.",
+    "blurb": "With its star-studded cast, including John Travolta and Queen Latifah, Hairspray is a wildly entertaining ride that will keep you smiling from start to finish. Its catchy musical numbers and impressive choreography make it a must-see for fans of the genre.",
+    "genre": "Musical / Comedy",
+    "runtime_min": 116,
     "streaming": [
-      "Starz Apple TV Channel"
+      "Netflix"
     ],
     "cast": [
-      "Kevin James",
-      "Keir O'Donnell",
-      "Jayma Mays"
+      "John Travolta",
+      "Queen Latifah",
+      "Zac Efron"
     ],
-    "tmdb_id": 14560,
-    "poster_path": "/A4zZv0Q1VKURFZFEl2vwjaE2q0g.jpg",
-    "trailer_key": "Ib4VZ1uvP6U",
+    "tmdb_id": 2976,
+    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
+    "trailer_key": "hsFtWsRn99U",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/14560-paul-blart-mall-cop/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
   },
   "released": {
     "title": "Ratatouille",
     "year": 2007,
-    "reason": "Released today in 2007, this beloved Pixar film continues to delight audiences with its charming story and stunning animation.",
-    "blurb": "This beautifully crafted film tells the story of Remy, a talented rat with a passion for cooking, and his journey to becoming a culinary master. With its witty dialogue and lovable characters, Ratatouille is a must-see for animation fans.",
+    "reason": "Released today in 2007, Ratatouille remains a beloved animated classic that continues to delight audiences with its stunning animation and charming storyline.",
+    "blurb": "This beautifully crafted film tells the story of a talented rat named Remy who dreams of becoming a chef in a Parisian restaurant. With its stunning animation and lovable characters, Ratatouille is a must-see for fans of all ages.",
     "genre": "Animation / Adventure",
     "runtime_min": 111,
     "streaming": [
@@ -51,23 +51,33 @@
     "watch_url": "https://www.themoviedb.org/movie/2062-ratatouille/watch?locale=US"
   },
   "birthday": {
-    "title": "Kathryn",
-    "year": 1950,
-    "reason": "Happy birthday to Kathryn Beaumont, born June 27 is incorrect I used June 28, 1938,  1–2 sentence why this is one of her notable films.",
-    "blurb": "This classic Disney film showcases Beaumont's talent as a voice actress, bringing the beloved character of Wendy Darling to life. With its timeless story and memorable characters, Kathryn is a delightful choice for families and Disney fans.",
-    "genre": "Family / Fantasy",
+    "title": "The 'Burbs",
+    "year": 1989,
+    "reason": "Happy birthday to Kathy Baker, born June 29, 1950, starring in this hilarious comedy about a suburban neighborhood turned upside down by a mysterious family.",
+    "blurb": "With its talented cast, including Tom Hanks and Carrie Fisher, The 'Burbs is a wildly entertaining ride that will keep you laughing from start to finish. Its wacky humor and satirical take on suburban life make it a classic comedy of the 80s.",
+    "genre": "Comedy",
     "cast": [
-      "Kathryn Beaumont",
-      "Cindy Nielsen",
-      "Tommy Luske"
-    ]
+      "Kathy Baker",
+      "Tom Hanks",
+      "Carrie Fisher"
+    ],
+    "tmdb_id": 11974,
+    "poster_path": "/jwYKzJS0C3A711hmg1G4ptI0InF.jpg",
+    "trailer_key": "cJ7bZpwzNfg",
+    "imdb_rating": null,
+    "imdb_id": null,
+    "rt_score": null,
+    "metacritic": null,
+    "runtime_min": 102,
+    "watch_url": "https://www.themoviedb.org/movie/11974-the-burbs/watch?locale=US",
+    "streaming": []
   },
   "awful": {
     "title": "I Know Who Killed Me",
     "year": 2007,
-    "reason": "a famously bad movie with terrible reviews, this psychological thriller failed to impress audiences with its convoluted plot and poor acting.",
-    "blurb": "This cringeworthy film tries to pass off its messy storyline and lackluster performances as deep and thought-provoking, but ultimately falls flat. With its embarrassing attempts at suspense and drama, I Know Who Killed Me is a laughable example of a movie gone wrong.",
-    "genre": "Thriller / Mystery",
+    "reason": "This infamous thriller starring Lindsay Lohan is often cited as one of the worst films of the 2000s, with a convoluted plot and poor acting that make it a fascinating trainwreck to watch.",
+    "blurb": "With its bizarre storyline and cringe-worthy performances, I Know Who Killed Me is a so-bad-it's-good masterpiece that will leave you questioning the sanity of its creators. It's a mesmerizingly bad film that's worth watching for its sheer audacity alone.",
+    "genre": "Thriller",
     "cast": [
       "Lindsay Lohan",
       "Julia Ormond",
