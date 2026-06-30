@@ -1,20 +1,20 @@
 {
-  "date": "Monday, June 29, 2026",
-  "generated_at": "2026-06-29T13:07:38.536Z",
+  "date": "Tuesday, June 30, 2026",
+  "generated_at": "2026-06-30T11:44:52.410Z",
   "hero": {
     "title": "Hairspray",
     "year": 2007,
-    "reason": "In honor of National Almond Butter Crunch Day, let's get crunching with a fun and upbeat musical like Hairspray, which features a plethora of energetic dance numbers and a vibrant atmosphere that's sure to get you moving.",
-    "blurb": "With its star-studded cast, including John Travolta and Queen Latifah, Hairspray is a wildly entertaining ride that will keep you smiling from start to finish. Its catchy musical numbers and impressive choreography make it a must-see for fans of the genre.",
-    "genre": "Musical / Comedy",
+    "reason": "In honor of Social Media Day, Hairspray is a film that celebrates self-expression and the power of social influence, showcasing the impact of dance and music on a community.",
+    "blurb": "This upbeat musical comedy is a fun and energetic ride, with great performances and catchy songs. It's a movie that will leave you smiling and feeling inspired.",
+    "genre": "Musical Comedy",
     "runtime_min": 116,
     "streaming": [
-      "Netflix"
+      "Amazon Prime"
     ],
     "cast": [
       "John Travolta",
       "Queen Latifah",
-      "Zac Efron"
+      "Michelle Pfeiffer"
     ],
     "tmdb_id": 2976,
     "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
@@ -26,38 +26,37 @@
     "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
   },
   "released": {
-    "title": "Ratatouille",
+    "title": "License to Wed",
     "year": 2007,
-    "reason": "Released today in 2007, Ratatouille remains a beloved animated classic that continues to delight audiences with its stunning animation and charming storyline.",
-    "blurb": "This beautifully crafted film tells the story of a talented rat named Remy who dreams of becoming a chef in a Parisian restaurant. With its stunning animation and lovable characters, Ratatouille is a must-see for fans of all ages.",
-    "genre": "Animation / Adventure",
-    "runtime_min": 111,
+    "reason": "Released today in 2007, License to Wed is a romantic comedy that still brings laughs and heart, thanks to its witty dialogue and charming cast.",
+    "blurb": "This lighthearted film is perfect for a summer evening, with its fun and quirky take on love and relationships. The chemistry between the leads is undeniable, making for a sweet and entertaining watch.",
+    "genre": "Romantic Comedy",
+    "runtime_min": 91,
     "streaming": [
-      "Disney Plus",
       "Hulu"
     ],
     "cast": [
-      "Patton Oswalt",
-      "Lou Romano",
-      "Brad Garrett"
+      "Robin Williams",
+      "Mandy Moore",
+      "John Krasinski"
     ],
-    "tmdb_id": 2062,
-    "poster_path": "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
-    "trailer_key": "NgsQ8mVkN8w",
+    "tmdb_id": 2959,
+    "poster_path": "/lJbT99nN3jEe23EfQvmlSh6EQ2b.jpg",
+    "trailer_key": "HmyfIOp30aI",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/2062-ratatouille/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/2959-license-to-wed/watch?locale=US"
   },
   "birthday": {
     "title": "The 'Burbs",
     "year": 1989,
-    "reason": "Happy birthday to Kathy Baker, born June 29, 1950, starring in this hilarious comedy about a suburban neighborhood turned upside down by a mysterious family.",
-    "blurb": "With its talented cast, including Tom Hanks and Carrie Fisher, The 'Burbs is a wildly entertaining ride that will keep you laughing from start to finish. Its wacky humor and satirical take on suburban life make it a classic comedy of the 80s.",
+    "reason": "Happy birthday to Vincent D'Onofrio, The 'Burbs is a classic comedy that showcases his unique talent and versatility as an actor, in a film that perfectly blends humor and suspense.",
+    "blurb": "This cult classic is a must-see for its clever writing and impressive cast, with D'Onofrio delivering a standout performance. The film's blend of dark humor and satire makes for a hilarious and thought-provoking watch.",
     "genre": "Comedy",
     "cast": [
-      "Kathy Baker",
+      "Vincent D'Onofrio",
       "Tom Hanks",
       "Carrie Fisher"
     ],
@@ -75,8 +74,8 @@
   "awful": {
     "title": "I Know Who Killed Me",
     "year": 2007,
-    "reason": "This infamous thriller starring Lindsay Lohan is often cited as one of the worst films of the 2000s, with a convoluted plot and poor acting that make it a fascinating trainwreck to watch.",
-    "blurb": "With its bizarre storyline and cringe-worthy performances, I Know Who Killed Me is a so-bad-it's-good masterpiece that will leave you questioning the sanity of its creators. It's a mesmerizingly bad film that's worth watching for its sheer audacity alone.",
+    "reason": "This psychological thriller is infamous for its convoluted plot and poor acting, making it a so-bad-it's-good watch for fans of campy cinema.",
+    "blurb": "With a mess of a storyline and cringe-worthy performances, I Know Who Killed Me is a trainwreck that's impossible to look away from. It's a fascinatingly bad film that will leave you wondering what went wrong.",
     "genre": "Thriller",
     "cast": [
       "Lindsay Lohan",
