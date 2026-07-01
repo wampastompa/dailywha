@@ -1,12 +1,12 @@
 {
-  "date": "Tuesday, June 30, 2026",
-  "generated_at": "2026-06-30T11:44:52.410Z",
+  "date": "Wednesday, July 1, 2026",
+  "generated_at": "2026-07-01T12:09:13.964Z",
   "hero": {
     "title": "Hairspray",
     "year": 2007,
-    "reason": "In honor of Social Media Day, Hairspray is a film that celebrates self-expression and the power of social influence, showcasing the impact of dance and music on a community.",
-    "blurb": "This upbeat musical comedy is a fun and energetic ride, with great performances and catchy songs. It's a movie that will leave you smiling and feeling inspired.",
-    "genre": "Musical Comedy",
+    "reason": "In honor of Canada Day, a celebration of diversity and self-expression, Hairspray's energetic musical numbers and uplifting message of acceptance make it a perfect fit.",
+    "blurb": "This vibrant musical comedy is full of catchy songs, impressive dance moves, and a talented cast, making it a joyous film experience that will leave you smiling. With its themes of inclusivity and acceptance, Hairspray is a great way to kick off a celebration of diversity.",
+    "genre": "Comedy / Musical",
     "runtime_min": 116,
     "streaming": [
       "Amazon Prime"
@@ -14,7 +14,7 @@
     "cast": [
       "John Travolta",
       "Queen Latifah",
-      "Michelle Pfeiffer"
+      "Zac Efron"
     ],
     "tmdb_id": 2976,
     "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
@@ -26,56 +26,48 @@
     "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
   },
   "released": {
-    "title": "License to Wed",
-    "year": 2007,
-    "reason": "Released today in 2007, License to Wed is a romantic comedy that still brings laughs and heart, thanks to its witty dialogue and charming cast.",
-    "blurb": "This lighthearted film is perfect for a summer evening, with its fun and quirky take on love and relationships. The chemistry between the leads is undeniable, making for a sweet and entertaining watch.",
-    "genre": "Romantic Comedy",
-    "runtime_min": 91,
+    "title": "Liv Tyler's Reich: The Dark Knight",
+    "year": 2008,
+    "reason": "Released today in 2008, The Dark Knight is still widely regarded as one of the best superhero films of all time, thanks to its gripping storyline, memorable performances, and impressive action sequences.",
+    "blurb": "Christopher Nolan's gritty take on the caped crusader is both a thought-provoking thriller and an action-packed blockbuster, with Heath Ledger's iconic portrayal of the Joker being a particular highlight. The Dark Knight is a must-see for fans of the genre.",
+    "genre": "Action / Thriller",
+    "runtime_min": 162,
     "streaming": [
-      "Hulu"
+      "HBO Max"
     ],
     "cast": [
-      "Robin Williams",
-      "Mandy Moore",
-      "John Krasinski"
-    ],
-    "tmdb_id": 2959,
-    "poster_path": "/lJbT99nN3jEe23EfQvmlSh6EQ2b.jpg",
-    "trailer_key": "HmyfIOp30aI",
-    "imdb_rating": null,
-    "imdb_id": null,
-    "rt_score": null,
-    "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/2959-license-to-wed/watch?locale=US"
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ]
   },
   "birthday": {
-    "title": "The 'Burbs",
-    "year": 1989,
-    "reason": "Happy birthday to Vincent D'Onofrio, The 'Burbs is a classic comedy that showcases his unique talent and versatility as an actor, in a film that perfectly blends humor and suspense.",
-    "blurb": "This cult classic is a must-see for its clever writing and impressive cast, with D'Onofrio delivering a standout performance. The film's blend of dark humor and satire makes for a hilarious and thought-provoking watch.",
-    "genre": "Comedy",
+    "title": "Peyton Place",
+    "year": 1957,
+    "reason": "Happy birthday to Lana Turner, born July 1, 1921, starring in this classic drama that explores the secrets and scandals of a small town, showcasing her impressive acting range.",
+    "blurb": "This engaging melodrama is full of twists and turns, with a talented cast bringing the complex characters to life. Lana Turner's performance is particularly notable, making Peyton Place a great choice for fans of classic Hollywood cinema.",
+    "genre": "Drama",
     "cast": [
-      "Vincent D'Onofrio",
-      "Tom Hanks",
-      "Carrie Fisher"
+      "Lana Turner",
+      "Diane Varsi",
+      "Hope Lange"
     ],
-    "tmdb_id": 11974,
-    "poster_path": "/jwYKzJS0C3A711hmg1G4ptI0InF.jpg",
-    "trailer_key": "cJ7bZpwzNfg",
+    "tmdb_id": 43236,
+    "poster_path": "/pSANpoBLMbejWTtiKz630eSaDpi.jpg",
+    "trailer_key": "6mE98wOuyO0",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 102,
-    "watch_url": "https://www.themoviedb.org/movie/11974-the-burbs/watch?locale=US",
+    "runtime_min": 157,
+    "watch_url": "https://www.themoviedb.org/movie/43236-peyton-place/watch?locale=US",
     "streaming": []
   },
   "awful": {
     "title": "I Know Who Killed Me",
     "year": 2007,
-    "reason": "This psychological thriller is infamous for its convoluted plot and poor acting, making it a so-bad-it's-good watch for fans of campy cinema.",
-    "blurb": "With a mess of a storyline and cringe-worthy performances, I Know Who Killed Me is a trainwreck that's impossible to look away from. It's a fascinatingly bad film that will leave you wondering what went wrong.",
+    "reason": "a famously bad movie with terrible reviews, I Know Who Killed Me is a cringeworthy thriller that fails to deliver on its intriguing premise.",
+    "blurb": "This mess of a film is full of plot holes, poor acting, and a nonsensical storyline, making it a laughable example of how not to make a thriller. With a plethora of negative reviews, I Know Who Killed Me is a great example of a film that's so bad it's good.",
     "genre": "Thriller",
     "cast": [
       "Lindsay Lohan",
