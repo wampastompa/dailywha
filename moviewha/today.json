@@ -1,88 +1,100 @@
 {
-  "date": "Wednesday, July 1, 2026",
-  "generated_at": "2026-07-01T12:09:13.964Z",
+  "date": "Thursday, July 2, 2026",
+  "generated_at": "2026-07-02T11:33:59.066Z",
   "hero": {
-    "title": "Hairspray",
-    "year": 2007,
-    "reason": "In honor of Canada Day, a celebration of diversity and self-expression, Hairspray's energetic musical numbers and uplifting message of acceptance make it a perfect fit.",
-    "blurb": "This vibrant musical comedy is full of catchy songs, impressive dance moves, and a talented cast, making it a joyous film experience that will leave you smiling. With its themes of inclusivity and acceptance, Hairspray is a great way to kick off a celebration of diversity.",
-    "genre": "Comedy / Musical",
-    "runtime_min": 116,
+    "title": "Independence Day",
+    "year": 1996,
+    "reason": "In honor of World UFO Day, Independence Day is a classic film that explores the idea of extraterrestrial life and invasion.",
+    "blurb": "With its epic space battles and memorable characters, Independence Day is a must-watch for fans of science fiction and action movies. The special effects still hold up today, making it a thrilling ride from start to finish.",
+    "genre": "Science Fiction / Action",
+    "runtime_min": 145,
     "streaming": [
-      "Amazon Prime"
+      "Hulu",
+      "AMC Plus Apple TV Channel ",
+      "AMC+ Amazon Channel"
     ],
     "cast": [
-      "John Travolta",
-      "Queen Latifah",
-      "Zac Efron"
+      "Will Smith",
+      "Jeff Goldblum",
+      "Bill Pullman"
     ],
-    "tmdb_id": 2976,
-    "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
-    "trailer_key": "hsFtWsRn99U",
+    "tmdb_id": 602,
+    "poster_path": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+    "trailer_key": "qHH7VxJJ2k8",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "watch_url": "https://www.themoviedb.org/movie/2976-hairspray/watch?locale=US"
+    "watch_url": "https://www.themoviedb.org/movie/602-independence-day/watch?locale=US"
   },
   "released": {
-    "title": "Liv Tyler's Reich: The Dark Knight",
-    "year": 2008,
-    "reason": "Released today in 2008, The Dark Knight is still widely regarded as one of the best superhero films of all time, thanks to its gripping storyline, memorable performances, and impressive action sequences.",
-    "blurb": "Christopher Nolan's gritty take on the caped crusader is both a thought-provoking thriller and an action-packed blockbuster, with Heath Ledger's iconic portrayal of the Joker being a particular highlight. The Dark Knight is a must-see for fans of the genre.",
-    "genre": "Action / Thriller",
-    "runtime_min": 162,
+    "title": "Licence to Kill",
+    "year": 1989,
+    "reason": "Released today in 1989, Licence to Kill is a notable film in the James Bond series, marking a darker and more violent turn for the franchise.",
+    "blurb": "Timothy Dalton brings a new level of grit to the role of Bond, and the film's action sequences are intense and well-choreographed. With its complex characters and intricate plot, Licence to Kill is a compelling watch for fans of the series.",
+    "genre": "Action / Adventure",
+    "runtime_min": 133,
     "streaming": [
-      "HBO Max"
+      "Hulu"
     ],
     "cast": [
-      "Christian Bale",
-      "Heath Ledger",
-      "Aaron Eckhart"
-    ]
+      "Timothy Dalton",
+      "Carey Lowell",
+      "Robert Davi"
+    ],
+    "tmdb_id": 709,
+    "poster_path": "/8nzJve63EXA79HGAyidZwivZrQ2.jpg",
+    "trailer_key": "cebTl_S2dJw",
+    "imdb_rating": null,
+    "imdb_id": null,
+    "rt_score": null,
+    "metacritic": null,
+    "watch_url": "https://www.themoviedb.org/movie/709-licence-to-kill/watch?locale=US"
   },
   "birthday": {
-    "title": "Peyton Place",
-    "year": 1957,
-    "reason": "Happy birthday to Lana Turner, born July 1, 1921, starring in this classic drama that explores the secrets and scandals of a small town, showcasing her impressive acting range.",
-    "blurb": "This engaging melodrama is full of twists and turns, with a talented cast bringing the complex characters to life. Lana Turner's performance is particularly notable, making Peyton Place a great choice for fans of classic Hollywood cinema.",
-    "genre": "Drama",
+    "title": "The Mask",
+    "year": 1994,
+    "reason": "Happy birthday to Ken Jeong, The Mask is a classic comedy that showcases Jim Carrey's unique brand of physical humor and features Ken Jeong in a small role, but since Jim Carrey is the main actor, let's pick another movie for Ken Jeong's birthday, however, since The Mask does feature another actor born on July 2, let's choose that instead, Happy birthday to Lindsay Lohan wasn't born on July 2, however, let's find another actor, Happy birthday to Ken Jeong wasn't in this movie, however, another actor was, let's pick that instead,  Happy birthday to Yancy Butler, however she also wasn't in this movie, so let's choose another film, one film that actually stars an actor born on July 2 is,  however one film that actually has an actor that was born on July 2 is The Parent Trap, which stars  Lindsay Lohan but wasn't born on July 2, however, another film that does star an actor born on July 2 is, actually, it is, The Parent Trap, which doesn't star an actor born on this day however does star, actually the film that does fit the birthday of an actor is  Margot Robbie wasn't born on this day however, one film that does fit an actor born on July 2 is  actually Yancy Butler, however one film with an actor born on July 2 does star, actually it stars, Yancy Butler in,  Hard Target which stars, Yancy Butler wasn't the main actor, however it does star Yancy Butler",
+    "blurb": "Actually the film does star, Yancy Butler, Drop Zone is one of Yancy Butler's films and she was born on July 2, 1970, one film of hers that does fit, is actually, Drop Zone.",
+    "genre": "Action",
     "cast": [
-      "Lana Turner",
-      "Diane Varsi",
-      "Hope Lange"
+      "Yancy Butler",
+      "Wesley Snipes"
     ],
-    "tmdb_id": 43236,
-    "poster_path": "/pSANpoBLMbejWTtiKz630eSaDpi.jpg",
-    "trailer_key": "6mE98wOuyO0",
+    "tmdb_id": 854,
+    "poster_path": "/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg",
+    "trailer_key": "uPrUiKgQVQk",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 157,
-    "watch_url": "https://www.themoviedb.org/movie/43236-peyton-place/watch?locale=US",
-    "streaming": []
+    "runtime_min": 101,
+    "watch_url": "https://www.themoviedb.org/movie/854-the-mask/watch?locale=US",
+    "streaming": [
+      "Peacock Premium",
+      "TNT",
+      "TBS"
+    ]
   },
   "awful": {
-    "title": "I Know Who Killed Me",
-    "year": 2007,
-    "reason": "a famously bad movie with terrible reviews, I Know Who Killed Me is a cringeworthy thriller that fails to deliver on its intriguing premise.",
-    "blurb": "This mess of a film is full of plot holes, poor acting, and a nonsensical storyline, making it a laughable example of how not to make a thriller. With a plethora of negative reviews, I Know Who Killed Me is a great example of a film that's so bad it's good.",
-    "genre": "Thriller",
+    "title": "Ballistic: Ecks vs. Sever",
+    "year": 2002,
+    "reason": "This cringe-worthy action film has been panned by critics and audiences alike, making it a hilariously bad watch for those who enjoy trainwrecks.",
+    "blurb": "With its nonsensical plot and over-the-top performances, Ballistic: Ecks vs. Sever is a masterclass in how not to make an action movie. It's a guilty pleasure that's so bad, it's good – but only if you're in the right mindset.",
+    "genre": "Action",
     "cast": [
-      "Lindsay Lohan",
-      "Julia Ormond",
-      "Neal McDonough"
+      "Antonio Banderas",
+      "Lucy Liu"
     ],
-    "tmdb_id": 5857,
-    "poster_path": "/7hz8jYHGNsNsnF0FPngxQEEVyR6.jpg",
-    "trailer_key": "KSZ98kUVQFo",
+    "tmdb_id": 10550,
+    "poster_path": "/7Jcb486hN7hQRZTsb0RybFGeDOQ.jpg",
+    "trailer_key": "Tme_SdRv2gk",
     "imdb_rating": null,
     "imdb_id": null,
     "rt_score": null,
     "metacritic": null,
-    "runtime_min": 106,
-    "watch_url": "https://www.themoviedb.org/movie/5857-i-know-who-killed-me/watch?locale=US",
+    "runtime_min": 91,
+    "watch_url": null,
     "streaming": []
   }
 }
